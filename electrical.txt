@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Item #	Bid Item Description	Category
 1	All Document References for Electrical	Others
 2	Apply Arc Flash Warning Labels to Panelboards	Operation and Maintenance of Electrical Systems
@@ -123,4 +124,131 @@ Item #	Bid Item Description	Category
 122	Provide Power Rough-In and Final Connection for Building Signage	Low-Voltage Electrical Distribution
 123	Provide Power Wiring for Site Security Cameras	Low-Voltage Electrical Distribution
 124	Provide Receptacle for Future General Power	Low-Voltage Electrical Distribution
+=======
+Item #	Bid Item Description	Category
+1	All Document References for Electrical	Others
+2	Apply Arc Flash Warning Labels to Panelboards	Operation and Maintenance of Electrical Systems
+3	Furnish (1) Industrial Lighting Products Inc SAS-15L-U-40-T2 Skyline Small Light Fixture	Lighting
+4	Furnish (8) Industrial Lighting Products Inc SAS-18L-U-40-T4 Skyline Small Light Fixtures	Lighting
+5	Furnish and Install Above-Grade Fused Disconnect for Main Power Feed	Low-Voltage Electrical Distribution
+6	Furnish and Install Alarm Light and Siren	Low-Voltage Electrical Distribution
+7	Furnish and Install Automatic Transfer Switch	Facility Electrical Power Generating and Storing Equipment
+8	Furnish and Install Circuit Breakers	Low-Voltage Electrical Distribution
+9	Furnish and Install Dual-Port EV Charger	Low-Voltage Electrical Distribution
+10	Furnish and Install Duplex Ground Fault Circuit Interrupter Service Receptacles	Low-Voltage Electrical Distribution
+11	Furnish and Install Exterior Light Poles and Foundations	Lighting
+12	Furnish and Install Exterior Site Lighting Poles or Bollards	Lighting
+13	Furnish and Install Minimum 10kW Generator	Facility Electrical Power Generating and Storing Equipment
+14	Furnish and Install Minimum 2-Inch Diameter Electrical Conduit System	Low-Voltage Electrical Distribution
+15	Furnish and Install Motor Control Center with Associated Components	Low-Voltage Electrical Distribution
+16	Furnish and Install NEMA 4X Control Panel	Low-Voltage Electrical Distribution
+17	Furnish and Install Pole-Mounted Exterior Light Fixtures	Lighting
+18	Furnish and Install Site Light Poles	Lighting
+19	Furnish and Install Site Light Poles and Fixtures	Lighting
+20	Furnish and Install Surge Protection for Lighting	Electrical Protection
+21	Furnish and Install Underground Electric Service Line	Low-Voltage Electrical Distribution
+22	Install 120V Dedicated Circuit for Elevator Cab Lighting	Low-Voltage Electrical Distribution
+23	Install 120V Service Receptacles at Equipment	Low-Voltage Electrical Distribution
+24	Install 12"x12"x6" Riser Junction Boxes for BDA System	Low-Voltage Electrical Distribution
+25	Install 15A/2P Receptacles for PTAC Units	Low-Voltage Electrical Distribution
+26	Install 1" Conduit for BDA System	Low-Voltage Electrical Distribution
+27	Install 208/120V 3-Phase Utility Transformer	Medium-Voltage Electrical Distribution
+28	Install 2" Conduit Between BDA Riser Junction Boxes	Low-Voltage Electrical Distribution
+29	Install 2-Gang Boxes with Transformers	Low-Voltage Electrical Distribution
+30	Install 4" Schedule 40 PVC Underground Conduit for Primary Conductors	Medium-Voltage Electrical Distribution
+31	Install 4" x 6' Ground Bus Bar	Electrical Protection
+32	Install 8"x8"x6" Junction Boxes for BDA System	Low-Voltage Electrical Distribution
+33	Install Armored and Metal-Clad Cables	Low-Voltage Electrical Distribution
+34	Install Branch Circuitry for Guest Units	Low-Voltage Electrical Distribution
+35	Install Branch Circuit Wiring (THHN/THWN/THW)	Low-Voltage Electrical Distribution
+36	Install Ceiling Mounted Receptacles for Heat Trace	Low-Voltage Electrical Distribution
+37	Install Concealed Conduit System with Pull Wires	Low-Voltage Electrical Distribution
+38	Install Copper Conductors in Steel Conduit	Low-Voltage Electrical Distribution
+39	Install CT Cabinet and Meter Base	Low-Voltage Electrical Distribution
+40	Install Decora Style Switches and Receptacles in Lobby	Low-Voltage Electrical Distribution
+41	Install Dimming Controls for Corridor Lighting	Lighting
+42	Install Disconnect Switches for Mechanical Equipment	Low-Voltage Electrical Distribution
+43	Install Divided Wiremold Raceway	Low-Voltage Electrical Distribution
+44	Install Doorbell System with Disable Switch	Low-Voltage Electrical Distribution
+45	Install Dual Port Level 2 EV Chargers	Low-Voltage Electrical Distribution
+46	Install Duplex Receptacle for Microwave	Low-Voltage Electrical Distribution
+47	Install Electrical Distribution Equipment in Mechanical/Electrical Room	Low-Voltage Electrical Distribution
+48	Install Electrical Junction Boxes	Low-Voltage Electrical Distribution
+49	Install Electrical Panelboards	Low-Voltage Electrical Distribution
+50	Install Electrical Systems Including Conduit Routing	Low-Voltage Electrical Distribution
+51	Install Exit Signs and Emergency Lights	Lighting
+52	Install Exterior Light Fixtures at 20-Foot Mounting Height	Lighting
+53	Install Exterior Lighting Controls (Photocell and Time Switch)	Lighting
+54	Install Exterior Site Lighting Fixtures	Lighting
+55	Install Exterior Weatherproof GFCI Receptacles	Low-Voltage Electrical Distribution
+56	Install General Purpose Duplex Receptacles	Low-Voltage Electrical Distribution
+57	Install General Purpose Wiring Devices (Switches and Receptacles)	Low-Voltage Electrical Distribution
+58	Install Ground Fault Circuit Interrupter (GFCI) Receptacles	Low-Voltage Electrical Distribution
+59	Install Grounding and Bonding System	Electrical Protection
+60	Install Ground-Mounted Transformer	Medium-Voltage Electrical Distribution
+61	Install High and Low Level Exit Signs	Lighting
+62	Install Independent Support Wires for Electrical Fixtures	Lighting
+63	Install Lift-Station Motor Control Center (MCC)	Low-Voltage Electrical Distribution
+64	Install Lighting Control Devices Including Master Switches	Lighting
+65	Install Lighting Control System for Fitness Center	Lighting
+66	Install Lighting Fixtures	Lighting
+67	Install Lighting System	Lighting
+68	Install Locked Control Panels	Low-Voltage Electrical Distribution
+69	Install Low-Voltage and Power Cables	Low-Voltage Electrical Distribution
+70	Install Main Distribution Panelboard (MDP)	Low-Voltage Electrical Distribution
+71	Install Motor Rated Local Disconnects	Low-Voltage Electrical Distribution
+72	Install Motor Starters	Low-Voltage Electrical Distribution
+73	Install Natural Gas Generator and Automatic Transfer Switch (ATS)	Facility Electrical Power Generating and Storing Equipment
+74	Install NEMA-1 Enclosures for Current Sensing Switches	Low-Voltage Electrical Distribution
+75	Install NEMA 3R Rated Disconnects for Exterior Equipment	Low-Voltage Electrical Distribution
+76	Install Occupancy Sensors for Corridor Lighting Control	Lighting
+77	Install Panelboard G	Low-Voltage Electrical Distribution
+78	Install Panelboard PNLBD-E	Low-Voltage Electrical Distribution
+79	Install Panelboards PNLBD-DE1, PNLBD-A, and PNLBD-B	Low-Voltage Electrical Distribution
+80	Install Panelboard with 240kA Surge Protection Device (SPD)	Low-Voltage Electrical Distribution
+81	Install Phone Line Surge Protector for Fire Alarm System	Electrical Protection
+82	Install Power and Control Conduit with Flexible Connections	Low-Voltage Electrical Distribution
+83	Install Power, Data, USB, and Phone Outlets for Front Desk	Low-Voltage Electrical Distribution
+84	Install Primary Elevator Disconnect with Shunt Trip	Low-Voltage Electrical Distribution
+85	Install PTAC Receptacles	Low-Voltage Electrical Distribution
+86	Install Raceways, Conductors, and Boxes for Power Distribution	Low-Voltage Electrical Distribution
+87	Install Recessed Lighting in Guest Bath Shower	Lighting
+88	Install Rigid Nonmetallic Conduit (PVC)	Low-Voltage Electrical Distribution
+89	Install Secondary Electrical Service Entrance Conductors	Low-Voltage Electrical Distribution
+90	Install Shunt Trip Breakers and Remote Power Off Device	Low-Voltage Electrical Distribution
+91	Install Sleeves for Conduit Penetrations	Low-Voltage Electrical Distribution
+92	Install Steel Conduit and Electrical Metallic Tubing (EMT)	Low-Voltage Electrical Distribution
+93	Install Switchboards and Panelboards	Low-Voltage Electrical Distribution
+94	Install Tamper-Resistant Receptacles	Low-Voltage Electrical Distribution
+95	Install Undercounter Lighting (ALJ-048)	Lighting
+96	Install Under-Slab Conduit for Floor Box Receptacles	Low-Voltage Electrical Distribution
+97	Install USB-C Wiring Devices	Low-Voltage Electrical Distribution
+98	Install Weatherproof Exterior Electrical Devices	Low-Voltage Electrical Distribution
+99	Provide Alarm Panel and Oil Switch for Elevator Sump Pump	Low-Voltage Electrical Distribution
+100	Provide Alarm Panel for Condensate Sump Pump	Low-Voltage Electrical Distribution
+101	Provide Current Limiters as Required	Electrical Protection
+102	Provide Dedicated 120VAC Circuit to Fire Alarm Control Panel	Low-Voltage Electrical Distribution
+103	Provide Dedicated Receptacles and Junction Boxes for Equipment	Low-Voltage Electrical Distribution
+104	Provide Electrical Building Connection	Low-Voltage Electrical Distribution
+105	Provide Electrical Power Connection for Two Sewage Pumps (200V/230V, 3 Phase)	Low-Voltage Electrical Distribution
+106	Provide Electrical Systems for Equipment and Specialty Rooms	Low-Voltage Electrical Distribution
+107	Provide Final Power Connections to Equipment	Low-Voltage Electrical Distribution
+108	Provide Final Power Connection to Fan Disconnects	Low-Voltage Electrical Distribution
+109	Provide Ground Fault Protection at Circuit Breakers for Ranges	Electrical Protection
+110	Provide Grounding and Bonding for Site Lighting Poles	Electrical Protection
+111	Provide Hardwired Connections for Ranges	Low-Voltage Electrical Distribution
+112	Provide Junction Boxes and Wiring for Light Fixtures	Lighting
+113	Provide Lightning Protection System as Required	Electrical Protection
+114	Provide Low Voltage Power Systems	Low-Voltage Electrical Distribution
+115	Provide Power Connection for Electric Hand Dryers	Low-Voltage Electrical Distribution
+116	Provide Power Connection for Heat Trace System	Low-Voltage Electrical Distribution
+117	Provide Power Connections for Dryers, DOAS-1, and Generator	Low-Voltage Electrical Distribution
+118	Provide Power Connections for Hardwired Equipment (Cooktops, PTACs)	Low-Voltage Electrical Distribution
+119	Provide Power Connections for Laundry Equipment	Low-Voltage Electrical Distribution
+120	Provide Power Connections for Sump Pumps	Low-Voltage Electrical Distribution
+121	Provide Power Connections to Mechanical Equipment	Low-Voltage Electrical Distribution
+122	Provide Power Rough-In and Final Connection for Building Signage	Low-Voltage Electrical Distribution
+123	Provide Power Wiring for Site Security Cameras	Low-Voltage Electrical Distribution
+124	Provide Receptacle for Future General Power	Low-Voltage Electrical Distribution
+>>>>>>> 28cd66812e3c8391a3957dac56d54d658314e66e
 125	Reroute and Extend Existing Electrical Conduit and Wiring	Low-Voltage Electrical Distribution
