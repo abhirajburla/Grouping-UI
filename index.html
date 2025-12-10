@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Scopes - Hotel 3</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Left Navigation Panel -->
+    <div class="left-nav">
+        <div class="nav-content">
+            <div class="nav-section">
+                <h3>Projects</h3>
+            </div>
+            <div class="nav-section">
+                <h3>Scopes</h3>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-container">
+        <!-- Breadcrumb -->
+        <div class="breadcrumb">
+            <span>Projects</span>
+            <span class="separator">/</span>
+            <span>Hotel 3</span>
+            <span class="separator">/</span>
+            <span>IFC</span>
+            <span class="separator">/</span>
+            <span class="active">Scopes</span>
+        </div>
+
+        <!-- Top Action Bar -->
+        <div class="top-bar">
+            <button class="btn-export">Export</button>
+            <button class="btn-add-bid-item">+ Add bid item</button>
+        </div>
+
+        <!-- Content Area -->
+        <div class="content-area">
+            <!-- Left Panel - Scopes -->
+            <div class="scopes-panel">
+                <div class="panel-header">
+                    <h2>Scopes</h2>
+                    <div class="header-actions">
+                        <button class="icon-btn edit-icon">✏️</button>
+                        <button class="icon-btn collapse-icon">«</button>
+                    </div>
+                </div>
+                <div class="filter-section">
+                    <select class="discipline-filter">
+                        <option>All Disciplines</option>
+                    </select>
+                    <button class="icon-btn search-icon">🔍</button>
+                </div>
+                <button class="btn-add-scope">+ Add new scope</button>
+                <div class="scopes-list" id="scopesList">
+                    <!-- Scopes will be populated here -->
+                </div>
+            </div>
+
+            <!-- Right Panel - Bid Items -->
+            <div class="bid-items-panel">
+                <div class="panel-header">
+                    <h2>Bid items</h2>
+                </div>
+                <div class="filter-tabs">
+                    <div class="filter-tabs-left">
+                        <button class="tab active" data-filter="all">All (<span id="countAll">0</span>)</button>
+                        <button class="tab" data-filter="yes">Yes (<span id="countYes">0</span>)</button>
+                        <button class="tab" data-filter="no">No (<span id="countNo">0</span>)</button>
+                        <button class="tab" data-filter="pending">Pending (<span id="countPending">0</span>)</button>
+                    </div>
+                    <div class="filter-grouping" id="filterGrouping">
+                        <label class="filter-grouping-label">
+                            <span class="filter-icon" id="filterIcon">🔽</span>
+                            Filter by grouping
+                        </label>
+                        <div class="category-dropdown" id="categoryDropdown">
+                            <div class="category-dropdown-header">
+                                <label class="category-checkbox-label">
+                                    <input type="checkbox" id="selectAllCategories">
+                                    <span class="checkmark"></span>
+                                    <span class="checkbox-text">Select All</span>
+                                </label>
+                            </div>
+                            <div class="category-dropdown-list" id="categoryList">
+                                <!-- Categories will be populated here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view-controls">
+                    <button class="icon-btn view-list">📋</button>
+                    <button class="icon-btn view-table active">⊞</button>
+                    <button class="icon-btn search-icon">🔍</button>
+                </div>
+                <div class="bid-items-table-container">
+                    <table class="bid-items-table" id="bidItemsTable">
+                        <thead>
+                            <tr>
+                                <th class="checkbox-col"><input type="checkbox" id="selectAll"></th>
+                                <th class="number-col">#</th>
+                                <th class="description-col">Description</th>
+                                <th class="drawing-col">Drawing reference</th>
+                                <th class="spec-col">Specification reference</th>
+                                <th class="action-col"></th>
+                            </tr>
+                        </thead>
+                        <tbody id="bidItemsBody">
+                            <!-- Bid items will be populated here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
