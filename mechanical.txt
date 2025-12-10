@@ -1,0 +1,82 @@
+Item #	Bid Item Description	Category
+1	All Document References for Mechanical	Others
+2	Furnish and Install Roof-Mounted Mechanical Equipment	Central HVAC Equipment
+3	Install 1 1/2" and 2" Natural Gas Piping	Facility Fuel Systems
+4	Install 1-1/2" Thick R-3.5 Internal Duct Liner	HVAC Air Distribution
+5	Install 3" Thick R-6 External Insulation on Ductwork	HVAC Air Distribution
+6	Install Air Device (ERA-006)	HVAC Air Distribution
+7	Install Air Device (ERA-008)	HVAC Air Distribution
+8	Install Air Duct Accessories (Grilles, Registers, Volume Dampers, Flexible Connectors)	HVAC Air Distribution
+9	Install Air Handling Unit (AHU 443)	Central HVAC Equipment
+10	Install Air Handling Units (AHU)	Central HVAC Equipment
+11	Install Air Handling Units (AHU) and Fan Coil Units (FCU)	Central HVAC Equipment
+12	Install Booster Pump	HVAC Piping and Pumps
+13	Install Broan 885BL Wall Caps with Backdraft Dampers	HVAC Air Distribution
+14	Install Ceiling Radiation Dampers in Fire-Rated Assemblies	HVAC Air Distribution
+15	Install Combination Fire/Smoke Dampers and Sleeves in Fire-Rated Walls	HVAC Air Distribution
+16	Install Combustion Air Termination with 90-Degree Turn Down	HVAC Air Distribution
+17	Install Condensing Units	Decentralized HVAC Equipment
+18	Install Dedicated Outdoor Air System (DOAS) Units	Central HVAC Equipment
+19	Install Dedicated Outdoor Air System Unit (DOAS-1)	Central HVAC Equipment
+20	Install Dryer Exhaust Systems	HVAC Air Distribution
+21	Install Ductwork for Dedicated Outdoor Air System (DOAS) Shaft	HVAC Air Distribution
+22	Install Ductwork Routed in Soffits, Plenums, and TJI Spaces	HVAC Air Distribution
+23	Install Ductwork Supports per SMACNA Standards	HVAC Air Distribution
+24	Install Electric Unit Heaters (EUH)	Decentralized HVAC Equipment
+25	Install Electric Unit Heaters (EUH-3 and EUH-4)	Decentralized HVAC Equipment
+26	Install Exhaust Fan (EF-4)	Decentralized HVAC Equipment
+27	Install Exhaust Fan (EF-7)	Decentralized HVAC Equipment
+28	Install Exhaust Fans	Decentralized HVAC Equipment
+29	Install Exhaust Fans (EF-7 and EF-8)	Decentralized HVAC Equipment
+30	Install Exhaust Fan Thermostat Controls	Decentralized HVAC Equipment
+31	Install Exhaust Hoods	HVAC Air Distribution
+32	Install Exterior Ductwork	HVAC Air Distribution
+33	Install Exterior Wall Caps and Terminations	HVAC Air Distribution
+34	Install Fan Coil Units (FCU)	Decentralized HVAC Equipment
+35	Install Final Gas Connection to DOAS-1 Unit	Facility Fuel Systems
+36	Install Fire Dampers and Sleeves in Fire-Rated Walls	HVAC Air Distribution
+37	Install Fire Smoke Dampers (FSD)	HVAC Air Distribution
+38	Install Gas Pressure Regulator (GPR)	Facility Fuel Systems
+39	Install Guest Bath Exhaust Systems including Fans, Vents, Grilles, and Ductwork	Decentralized HVAC Equipment
+40	Install Hangers and Supports for Ductwork	HVAC Air Distribution
+41	Install Heat Pump (HP-4)	Decentralized HVAC Equipment
+42	Install Heat Pumps (HP-1 through HP-5)	Decentralized HVAC Equipment
+43	Install Heat Pump Units	Decentralized HVAC Equipment
+44	Install Heat Trace System	HVAC Piping and Pumps
+45	Install Horizontal Discharge Roof Curb Plenums	HVAC Air Distribution
+46	Install HVAC Ductwork	HVAC Air Distribution
+47	Install HVAC Ductwork, Accessories, and Insulation	HVAC Air Distribution
+48	Install HVAC Equipment per Schedules (FCU, HP, PTAC, Fans, Unit Heaters, OAU)	Decentralized HVAC Equipment
+49	Install HVAC Grilles, Registers, and Diffusers	HVAC Air Distribution
+50	Install Mechanical Pipe and Duct Sleeves Through Concrete	Others
+51	Install Mechanical Systems including Piping and Conduit	HVAC Piping and Pumps
+52	Install Motorized Dampers	HVAC Air Distribution
+53	Install Motorized Dampers and Damper Motors	HVAC Air Distribution
+54	Install Natural Gas Piping for Guest Dryers	Facility Fuel Systems
+55	Install Natural Gas Piping System and Connections	Facility Fuel Systems
+56	Install No. 26 Gauge Galvanized Steel Restroom Exhaust Ductwork	HVAC Air Distribution
+57	Install Packaged Terminal Air Conditioners (PTAC)	Decentralized HVAC Equipment
+58	Install Packaged Terminal Air Conditioners (PTAC-1 and PTAC-2)	Decentralized HVAC Equipment
+59	Install Packaged Terminal Air Conditioners (PTAC) with Flush Exterior Grilles	Decentralized HVAC Equipment
+60	Install Packaged Units	Decentralized HVAC Equipment
+61	Install PTAC Sub-Bases	Decentralized HVAC Equipment
+62	Install Refrigerant Line Sets for Split Systems	HVAC Piping and Pumps
+63	Install Refrigerant Piping including Liquid and Suction Lines	HVAC Piping and Pumps
+64	Install Roof Hoods (RH-1 and RH-2)	HVAC Air Distribution
+65	Install Rooftop Unit (RTU)	Central HVAC Equipment
+66	Install Separate Support Wires for Mechanical Equipment	Others
+67	Install Supplemental Electric Heat Systems	Decentralized HVAC Equipment
+68	Install Supply and Return Metal Ductwork	HVAC Air Distribution
+69	Install Supply Diffusers	HVAC Air Distribution
+70	Install Supply Diffusers (SD-2)	HVAC Air Distribution
+71	Install Thermostats	Decentralized HVAC Equipment
+72	Install Thermostats with Occupancy Sensors	Decentralized HVAC Equipment
+73	Install Unit Heater (BH-1)	Decentralized HVAC Equipment
+74	Install Unpainted Aluminum Field Jacket on Exterior Ductwork	HVAC Air Distribution
+75	Perform Testing, Adjusting, and Balancing (TAB) of New HVAC Systems	Operation and Maintenance of HVAC Systems
+76	Program Fans to Run Continuously	Operation and Maintenance of HVAC Systems
+77	Provide Final Connection to Factory-Mounted Disconnects for Fans	Others
+78	Provide Gas Building Connection	Facility Fuel Systems
+79	Provide HVAC Systems including Exhaust Ducts and Equipment	Decentralized HVAC Equipment
+80	Provide Shutdown Means for Rooftop Units over 2000 CFM	Central HVAC Equipment
+81	Receive and Set Rooftop Mechanical Equipment	Central HVAC Equipment

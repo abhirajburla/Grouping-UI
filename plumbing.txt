@@ -1,0 +1,111 @@
+Item #	Bid Item Description	Category
+1	All Document References for Plumbing	Others
+2	Furnish and Install 1/2" PEX-a (Uponor) Domestic Water Piping	Plumbing Piping
+3	Furnish and Install 3/4" Gas Piping to Roof	Plumbing Piping
+4	Furnish and Install (3) WH-1,2,3 Gas Tankless Water Heaters (Intellihot IN501)	Plumbing Equipment
+5	Furnish and Install Accessible Lavatories	Plumbing Fixtures
+6	Furnish and Install Accessible Showers with Controls and Hand Shower	Plumbing Fixtures
+7	Furnish and Install ADA Insulation Covers for P-2H Lavatory	Plumbing Fixtures
+8	Furnish and Install Backflow Preventer (BP-1)	Plumbing Equipment
+9	Furnish and Install Backflow Prevention or Anti-Siphon Devices	Plumbing Piping
+10	Furnish and Install BP-1 Compact Duplex Booster Pump System (Towel Whitney TW2018U-150G-40)	Plumbing Equipment
+11	Furnish and Install Condensate Disposal Sump Pump System	Plumbing Equipment
+12	Furnish and Install Copper Manifolds for Water Distribution	Plumbing Piping
+13	Furnish and Install Diverter Valve (Signature Hardware 953056) with Trim for P-3H	Plumbing Fixtures
+14	Furnish and Install Diverter Valve (Signature Hardware 953056) with Trim for P-4H	Plumbing Fixtures
+15	Furnish and Install Domestic Water Booster Pump	Plumbing Equipment
+16	Furnish and Install Domestic Water Heater	Plumbing Equipment
+17	Furnish and Install Domestic Water Piping (Copper or CPVC)	Plumbing Piping
+18	Furnish and Install Electric Water Coolers	Plumbing Fixtures
+19	Furnish and Install Elevator Pit Sump Pump System	Plumbing Equipment
+20	Furnish and Install Floor Drain FD (Zurn ZN4152NHBP) with Trap Primer Connection	Plumbing Piping
+21	Furnish and Install Floor Drains	Plumbing Piping
+22	Furnish and Install Floor Drains, Types P-3H and P-5	Plumbing Piping
+23	Furnish and Install Gas Pressure Regulators	Plumbing Piping
+24	Furnish and Install General Plumbing Fixtures	Plumbing Fixtures
+25	Furnish and Install Heat Trace System	Plumbing Equipment
+26	Furnish and Install Hydration Station	Plumbing Fixtures
+27	Furnish and Install Lint Interceptor	Plumbing Equipment
+28	Furnish and Install Miscellaneous Accessories, Valves, and Water Hammer Arrestors	Plumbing Piping
+29	Furnish and Install Normally Closed Valve for Bypass Loop	Plumbing Piping
+30	Furnish and Install P-1 Two-Piece Elongated Toilet (Signature Hardware SHBD200WH/SHBD240WH)	Plumbing Fixtures
+31	Furnish and Install P-2H ADA 21" Undermount Bathroom Sink (Signature Hardware SHBYU1812)	Plumbing Fixtures
+32	Furnish and Install P-3H ADA 60"x30" Vikrell Tub and Shower Unit (Sterling 71240125)	Plumbing Fixtures
+33	Furnish and Install P-4H ADA 64"x40" Roll-In Shower Unit (Sterling 62070115)	Plumbing Fixtures
+34	Furnish and Install Plumbing Fixture (ELK-001)	Plumbing Fixtures
+35	Furnish and Install Plumbing Fixture (PL-812)	Plumbing Fixtures
+36	Furnish and Install Plumbing Fixtures, Including Sinks (SNK-003)	Plumbing Fixtures
+37	Furnish and Install Pressure Balance Shower Faucet Valve (SH4001) with Trim for P-4H	Plumbing Fixtures
+38	Furnish and Install Pressure Balance Tub and Shower Faucet Valve (SH4001) with Trim for P-3H	Plumbing Fixtures
+39	Furnish and Install Reduced Pressure (RP) Backflow Preventer	Plumbing Equipment
+40	Furnish and Install Secondary Drain Pans with Float Switches	Plumbing Piping
+41	Furnish and Install Shower Pans	Plumbing Fixtures
+42	Furnish and Install Shower SHR-002	Plumbing Fixtures
+43	Furnish and Install Shower Trim for P-3H	Plumbing Fixtures
+44	Furnish and Install Shower Trim for P-4H	Plumbing Fixtures
+45	Furnish and Install Shutoff Valves and Brass Ball Valves	Plumbing Piping
+46	Furnish and Install Single Hole Faucet with Pop-Up Drain Assembly (Signature Hardware SHWSCBW100)	Plumbing Fixtures
+47	Furnish and Install Sink SNK-001	Plumbing Fixtures
+48	Furnish and Install Sink (SNK-006)	Plumbing Fixtures
+49	Furnish and Install Sink Type SINK-004	Plumbing Fixtures
+50	Furnish and Install Tempering Mixing Valves (TMV)	Plumbing Piping
+51	Furnish and Install Trim for P-1 Water Closet	Plumbing Fixtures
+52	Furnish and Install Trim for P-2H Lavatory	Plumbing Fixtures
+53	Furnish and Install Tub Pans Per Plan	Plumbing Fixtures
+54	Furnish and Install Tubs Per Plan	Plumbing Fixtures
+55	Furnish and Install Tubs TUB-001 and TUB-002	Plumbing Fixtures
+56	Furnish and Install Underground Plumbing	Plumbing Piping
+57	Furnish and Install Underslab Type 'K' Soft Drawn Water Piping	Plumbing Piping
+58	Furnish and Install Uponor PEX Piping as Homeruns	Plumbing Piping
+59	Furnish and Install Water Closet Type WCL-002	Plumbing Fixtures
+60	Furnish and Install Water Closet WCL-001	Plumbing Fixtures
+61	Furnish and Install Water Filter System	Plumbing Equipment
+62	Furnish and Install Water Hammer Arrestors at Washer Connections	Plumbing Piping
+63	Furnish and Install Water Heater (WH-1)	Plumbing Equipment
+64	Furnish and Install Water Heater WH-2	Plumbing Equipment
+65	Install 1 1/2" Hot Water Return Piping	Plumbing Piping
+66	Install 1/2" Polyethylene Domestic Water Piping	Plumbing Piping
+67	Install 1" Polyvinyl Chloride Yard Hydrant Line	Plumbing Piping
+68	Install 2" Polyvinyl Chloride Valve Vault Drain	Plumbing Piping
+69	Install 3" Domestic Water Meter	Plumbing Piping
+70	Install 3" Domestic Water Service Piping	Plumbing Piping
+71	Install 3" Ductile Iron Pipe Domestic Water Line	Plumbing Piping
+72	Install 3" Reduced Pressure Principle Backflow Assembly for Domestic Water	Plumbing Equipment
+73	Install 3" Waste and Vent Stack	Plumbing Piping
+74	Install 4" 90-Degree Vertical Bend Piping	Plumbing Piping
+75	Install 4" Check Valve and 4" Plug Shut-Down Valve	Plumbing Piping
+76	Install 4" Ductile Iron Pipe Gas Vent	Plumbing Piping
+77	Install 4" Floor Drains with Sediment Bucket (JR Smith Model 2420 or similar)	Plumbing Piping
+78	Install 6" Maximum Sleeves Through Concrete Footings for Plumbing Lines	Plumbing Piping
+79	Install Cleanouts at Base of Waste Risers	Plumbing Piping
+80	Install Closet Flanges and Floor-Mounted Water Closets	Plumbing Fixtures
+81	Install Condensate Drain Piping System for HVAC Equipment	Plumbing Piping
+82	Install Floor Drains with Half Grate for Indirect Condensate Waste	Plumbing Piping
+83	Install Freezeless Yard Hydrant	Plumbing Fixtures
+84	Install Metallic Piping (Steel, Cast Iron, Copper)	Plumbing Piping
+85	Install Nonmetallic Piping (PVC, CPVC, ABS, PEX)	Plumbing Piping
+86	Install Owner-Procured Plumbing Fixtures and Accessories	Plumbing Fixtures
+87	Install Pipe Sleeves for Penetrations Through Concrete	Plumbing Piping
+88	Install Plumbing Fixture Type PL-813	Plumbing Fixtures
+89	Install Plumbing Systems Including Routing of Pipes	Plumbing Piping
+90	Install Plumbing Vent Stacks	Plumbing Piping
+91	Install P-Traps for Condensate Drain Lines	Plumbing Piping
+92	Install Roof Drainage Downspouts	Plumbing Piping
+93	Install Sanitary Waste and Vent Piping System	Plumbing Piping
+94	Install Schedule 80 CPVC for Direct Venting of Water Heaters	Plumbing Piping
+95	Install Sleeves at Downspouts	Plumbing Piping
+96	Install Storm Drain System Including Piping and Drain Inlets	Plumbing Piping
+97	Install Trap Primers on Floor Drains	Plumbing Piping
+98	Install Trap Primer System Piping	Plumbing Piping
+99	Install Underground Schedule 40 PVC Storm Piping	Plumbing Piping
+100	Install Underslab Sump Pump Discharge Piping to Exterior	Plumbing Piping
+101	Install Vent Piping Through Roof	Plumbing Piping
+102	Install Wall Cleanouts	Plumbing Piping
+103	Install Water Closet Waste Lines Concealed in Wall Chases	Plumbing Piping
+104	Provide 3" Domestic Water Building Connection	Plumbing Piping
+105	Provide Final Plumbing Connections for Owner-Furnished Eye Wash Station	Plumbing Fixtures
+106	Provide Gas Piping Connections for Dryers	Plumbing Piping
+107	Provide General Plumbing Rough-In and Final Connections	Plumbing Piping
+108	Provide Plumbing Connections for Dishwashers	Plumbing Piping
+109	Provide Plumbing Connections for Laundry Equipment	Plumbing Piping
+110	Reroute and Extend Existing Plumbing Piping for New Equipment	Plumbing Piping
