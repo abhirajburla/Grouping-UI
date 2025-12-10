@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import re
 
 def read_categories(txt_file):
     """Read categories from txt file and return a dictionary mapping item number to category"""
@@ -134,22 +135,109 @@ def parse_spec_references(ref_string):
     
     return result
 
+def read_package_mapping(package_file, scope_type):
+    """Read package mapping file and return dictionary mapping item number to package"""
+    package_mapping = {}
+    if not os.path.exists(package_file):
+        return package_mapping
+    
+    try:
+        with open(package_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+            # Try to fix incomplete JSON by finding the last complete entry
+            if scope_type in ['mechanical', 'plumbing']:
+                # Find the last complete object in the array
+                last_complete = content.rfind('}')
+                if last_complete > 0:
+                    # Check if we need to close the array and object
+                    if content[last_complete+1:].strip() and not content[last_complete+1:].strip().startswith(']'):
+                        # Try to complete the JSON
+                        content = content[:last_complete+1] + '\n  ]\n}'
+            
+            data = json.loads(content)
+    except json.JSONDecodeError as e:
+        print(f"Warning: Error parsing {package_file}: {e}")
+        # Try to extract what we can
+        try:
+            # For electrical format, try to parse line by line
+            if scope_type == 'electrical':
+                with open(package_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    # Try to extract key-value pairs manually
+                    import re
+                    pattern = r'"(\d+)":\s*"([^"]+)"'
+                    matches = re.findall(pattern, content)
+                    for item_num, package in matches:
+                        package_mapping[item_num.strip()] = package.strip()
+            else:
+                # For mechanical/plumbing, try to extract complete entries
+                with open(package_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+                    for line in lines:
+                        if '"item_number"' in line:
+                            # Try to extract item number and group/category
+                            item_match = re.search(r'"item_number":\s*"(\d+)"', line)
+                            if item_match:
+                                item_num = item_match.group(1)
+                                # Look for group or category in nearby lines
+                                # This is a simplified approach
+                                pass
+        except Exception as e2:
+            print(f"Warning: Could not recover data from {package_file}: {e2}")
+        return package_mapping
+    
+    if scope_type == 'electrical':
+        # Format: {"1": "package 10: others", ...}
+        for item_num, package in data.items():
+            package_mapping[item_num.strip()] = package.strip()
+    elif scope_type in ['mechanical', 'plumbing']:
+        # Format: {"bid_items": [{"item_number": "1", "description": "...", "group": "..."}, ...]}
+        if 'bid_items' in data:
+            for item in data['bid_items']:
+                item_num = str(item.get('item_number', '')).strip()
+                package = item.get('group' if scope_type == 'mechanical' else 'category', '').strip()
+                if item_num and package:
+                    package_mapping[item_num] = package
+    
+    return package_mapping
+
 def generate_data():
     scope_files = {
-        'Electrical': {
+        'Electrical by masterformat': {
             'code': '26 00 00',
-            'txt': 'electrical.txt',
-            'csv': '26 00 00 - Electrical_BidItems.csv'
+            'txt': 'Data/electrical.txt',
+            'csv': 'Data/26 00 00 - Electrical_BidItems.csv'
         },
-        'Mechanical': {
+        'Mechanical by masterformat': {
             'code': '23 00 00',
-            'txt': 'mechanical.txt',
-            'csv': '23 00 00 - Mechanical_BidItems.csv'
+            'txt': 'Data/mechanical.txt',
+            'csv': 'Data/23 00 00 - Mechanical_BidItems.csv'
         },
-        'Plumbing': {
+        'Plumbing by masterformat': {
             'code': '22 00 00',
-            'txt': 'plumbing.txt',
-            'csv': '22 00 00 - Plumbing_BidItems.csv'
+            'txt': 'Data/plumbing.txt',
+            'csv': 'Data/22 00 00 - Plumbing_BidItems.csv'
+        }
+    }
+    
+    package_grouping_files = {
+        'Electrical by package grouping': {
+            'code': '26 00 00',
+            'package_file': 'elec_package_bid items.txt',
+            'csv': 'Data/26 00 00 - Electrical_BidItems.csv',
+            'scope_type': 'electrical'
+        },
+        'Mechanical by package grouping': {
+            'code': '23 00 00',
+            'package_file': 'mech_package_bid items.txt',
+            'csv': 'Data/23 00 00 - Mechanical_BidItems.csv',
+            'scope_type': 'mechanical'
+        },
+        'Plumbing by package grouping': {
+            'code': '22 00 00',
+            'package_file': 'plumb_package_bid items.txt',
+            'csv': 'Data/22 00 00 - Plumbing_BidItems.csv',
+            'scope_type': 'plumbing'
         }
     }
     
@@ -158,6 +246,7 @@ def generate_data():
         'bidItems': {}
     }
     
+    # Process masterformat scopes (renamed)
     for scope_name, files in scope_files.items():
         print(f"Processing {scope_name}...")
         
@@ -176,11 +265,14 @@ def generate_data():
         # Add category column
         df['Category'] = df['Item #'].map(categories).fillna('Others')
         
+        # Create scope ID
+        scope_id = scope_name.lower().replace(' ', '-')
+        
         # Add scope info
         output_data['scopes'].append({
             'code': files['code'],
             'name': scope_name,
-            'id': scope_name.lower()
+            'id': scope_id
         })
         
         # Group by category
@@ -201,12 +293,12 @@ def generate_data():
                 }
                 bid_items_by_category[category].append(item)
         
-        output_data['bidItems'][scope_name.lower()] = bid_items_by_category
+        output_data['bidItems'][scope_id] = bid_items_by_category
     
     # Create "Plumbing by Spec" scope - group plumbing items by specification
-    if 'plumbing' in output_data['bidItems']:
+    if 'plumbing-by-masterformat' in output_data['bidItems']:
         print("Processing Plumbing by Spec...")
-        plumbing_items = output_data['bidItems']['plumbing']
+        plumbing_items = output_data['bidItems']['plumbing-by-masterformat']
         bid_items_by_spec = {}
         
         # Collect all items from all categories
@@ -252,6 +344,55 @@ def generate_data():
         
         output_data['bidItems']['plumbing-by-spec'] = bid_items_by_spec
     
+    # Process package grouping scopes
+    for scope_name, files in package_grouping_files.items():
+        print(f"Processing {scope_name}...")
+        
+        # Read package mapping
+        package_mapping = read_package_mapping(files['package_file'], files['scope_type'])
+        
+        # Read CSV data
+        df = read_csv_data(files['csv'])
+        
+        if df.empty:
+            continue
+        
+        # Extract item number
+        df['Item #'] = df.iloc[:, 0].astype(str).str.strip().str.strip('"').str.strip()
+        
+        # Add package column
+        df['Package'] = df['Item #'].map(package_mapping).fillna('Others')
+        
+        # Create scope ID
+        scope_id = scope_name.lower().replace(' ', '-')
+        
+        # Add scope info
+        output_data['scopes'].append({
+            'code': files['code'],
+            'name': scope_name,
+            'id': scope_id
+        })
+        
+        # Group by package
+        grouped = df.groupby('Package')
+        bid_items_by_package = {}
+        
+        for package, group_df in grouped:
+            if package not in bid_items_by_package:
+                bid_items_by_package[package] = []
+            
+            for _, row in group_df.iterrows():
+                item = {
+                    'itemNumber': str(row.get('Item #', '')).strip().strip('"').strip(),
+                    'description': str(row.get('Bid Item Description', '')).strip().strip('"').strip(),
+                    'status': str(row.get('Status', 'Pending')).strip().strip('"').strip() or 'Pending',
+                    'drawingRefs': parse_drawing_references(row.get('Drawing Reference', '')),
+                    'specRefs': parse_spec_references(row.get('Specification Reference', ''))
+                }
+                bid_items_by_package[package].append(item)
+        
+        output_data['bidItems'][scope_id] = bid_items_by_package
+    
     # Write to JSON file
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
@@ -262,8 +403,7 @@ def generate_data():
         if scope['id'] in output_data['bidItems']:
             categories = len(output_data['bidItems'][scope['id']])
             total_items = sum(len(items) for items in output_data['bidItems'][scope['id']].values())
-            print(f"  - {scope['name']}: {categories} categories, {total_items} items")
+            print(f"  - {scope['name']}: {categories} groups, {total_items} items")
 
 if __name__ == "__main__":
     generate_data()
-

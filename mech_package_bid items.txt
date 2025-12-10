@@ -1,0 +1,330 @@
+{
+  "bid_items": [
+    {
+      "item_number": "1",
+      "description": "All Document References for Mechanical",
+      "group": "others"
+    },
+    {
+      "item_number": "2",
+      "description": "Furnish and Install Roof-Mounted Mechanical Equipment",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "3",
+      "description": "Install 1 1/2\" and 2\" Natural Gas Piping",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "4",
+      "description": "Install 1-1/2\" Thick R-3.5 Internal Duct Liner",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "5",
+      "description": "Install 3\" Thick R-6 External Insulation on Ductwork",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "6",
+      "description": "Install Air Device (ERA-006)",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "7",
+      "description": "Install Air Device (ERA-008)",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "8",
+      "description": "Install Air Duct Accessories (Grilles, Registers, Volume Dampers, Flexible Connectors)",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "9",
+      "description": "Install Air Handling Unit (AHU 443)",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "10",
+      "description": "Install Air Handling Units (AHU)",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "11",
+      "description": "Install Air Handling Units (AHU) and Fan Coil Units (FCU)",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "12",
+      "description": "Install Booster Pump",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "13",
+      "description": "Install Broan 885BL Wall Caps with Backdraft Dampers",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "14",
+      "description": "Install Ceiling Radiation Dampers in Fire-Rated Assemblies",
+      "group": "Fire Protection & Safety Systems"
+    },
+    {
+      "item_number": "15",
+      "description": "Install Combination Fire/Smoke Dampers and Sleeves in Fire-Rated Walls",
+      "group": "Fire Protection & Safety Systems"
+    },
+    {
+      "item_number": "16",
+      "description": "Install Combustion Air Termination with 90-Degree Turn Down",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "17",
+      "description": "Install Condensing Units",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "18",
+      "description": "Install Dedicated Outdoor Air System (DOAS) Units",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "19",
+      "description": "Install Dedicated Outdoor Air System Unit (DOAS-1)",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "20",
+      "description": "Install Dryer Exhaust Systems",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "21",
+      "description": "Install Ductwork for Dedicated Outdoor Air System (DOAS) Shaft",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "22",
+      "description": "Install Ductwork Routed in Soffits, Plenums, and TJI Spaces",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "23",
+      "description": "Install Ductwork Supports per SMACNA Standards",
+      "group": "Raceways, Conduits & Supports (Mechanical)"
+    },
+    {
+      "item_number": "24",
+      "description": "Install Electric Unit Heaters (EUH)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "25",
+      "description": "Install Electric Unit Heaters (EUH-3 and EUH-4)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "26",
+      "description": "Install Exhaust Fan (EF-4)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "27",
+      "description": "Install Exhaust Fan (EF-7)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "28",
+      "description": "Install Exhaust Fans",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "29",
+      "description": "Install Exhaust Fans (EF-7 and EF-8)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "30",
+      "description": "Install Exhaust Fan Thermostat Controls",
+      "group": "Controls & Instrumentation"
+    },
+    {
+      "item_number": "31",
+      "description": "Install Exhaust Hoods",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "32",
+      "description": "Install Exterior Ductwork",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "33",
+      "description": "Install Exterior Wall Caps and Terminations",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "34",
+      "description": "Install Fan Coil Units (FCU)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "35",
+      "description": "Install Final Gas Connection to DOAS-1 Unit",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "36",
+      "description": "Install Fire Dampers and Sleeves in Fire-Rated Walls",
+      "group": "Fire Protection & Safety Systems"
+    },
+    {
+      "item_number": "37",
+      "description": "Install Fire Smoke Dampers (FSD)",
+      "group": "Fire Protection & Safety Systems"
+    },
+    {
+      "item_number": "38",
+      "description": "Install Gas Pressure Regulator (GPR)",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "39",
+      "description": "Install Guest Bath Exhaust Systems including Fans, Vents, Grilles, and Ductwork",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "40",
+      "description": "Install Hangers and Supports for Ductwork",
+      "group": "Raceways, Conduits & Supports (Mechanical)"
+    },
+    {
+      "item_number": "41",
+      "description": "Install Heat Pump (HP-4)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "42",
+      "description": "Install Heat Pumps (HP-1 through HP-5)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "43",
+      "description": "Install Heat Pump Units",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "44",
+      "description": "Install Heat Trace System",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "45",
+      "description": "Install Horizontal Discharge Roof Curb Plenums",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "46",
+      "description": "Install HVAC Ductwork",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "47",
+      "description": "Install HVAC Ductwork, Accessories, and Insulation",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "48",
+      "description": "Install HVAC Equipment per Schedules (FCU, HP, PTAC, Fans, Unit Heaters, OAU)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "49",
+      "description": "Install HVAC Grilles, Registers, and Diffusers",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "50",
+      "description": "Install Mechanical Pipe and Duct Sleeves Through Concrete",
+      "group": "Raceways, Conduits & Supports (Mechanical)"
+    },
+    {
+      "item_number": "51",
+      "description": "Install Mechanical Systems including Piping and Conduit",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "52",
+      "description": "Install Motorized Dampers",
+      "group": "Controls & Instrumentation"
+    },
+    {
+      "item_number": "53",
+      "description": "Install Motorized Dampers and Damper Motors",
+      "group": "Controls & Instrumentation"
+    },
+    {
+      "item_number": "54",
+      "description": "Install Natural Gas Piping for Guest Dryers",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "55",
+      "description": "Install Natural Gas Piping System and Connections",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "56",
+      "description": "Install No. 26 Gauge Galvanized Steel Restroom Exhaust Ductwork",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "57",
+      "description": "Install Packaged Terminal Air Conditioners (PTAC)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "58",
+      "description": "Install Packaged Terminal Air Conditioners (PTAC-1 and PTAC-2)",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "59",
+      "description": "Install Packaged Terminal Air Conditioners (PTAC) with Flush Exterior Grilles",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "60",
+      "description": "Install Packaged Units",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "61",
+      "description": "Install PTAC Sub-Bases",
+      "group": "Mechanical Equipment Installation"
+    },
+    {
+      "item_number": "62",
+      "description": "Install Refrigerant Line Sets for Split Systems",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "63",
+      "description": "Install Refrigerant Piping including Liquid and Suction Lines",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "64",
+      "description": "Install Roof Hoods (RH-1 and RH-2)",
+      "group": "Branch Ducts, Piping & Connections"
+    },
+    {
+      "item_number": "65",
+      "description": "Install Rooftop Unit (RTU)",
+      "group": "Main Building HVAC Distribution"
+    },
+    {
+      "item_number": "66",
+      "descri

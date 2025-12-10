@@ -1,0 +1,554 @@
+{
+  "bid_items": [
+    {
+      "item_number": "1",
+      "description": "All Document References for Plumbing",
+      "category": "others"
+    },
+    {
+      "item_number": "2",
+      "description": "Furnish and Install 1/2\" PEX-a (Uponor) Domestic Water Piping",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "3",
+      "description": "Furnish and Install 3/4\" Gas Piping to Roof",
+      "category": "others"
+    },
+    {
+      "item_number": "4",
+      "description": "Furnish and Install (3) WH-1,2,3 Gas Tankless Water Heaters (Intellihot IN501)",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "5",
+      "description": "Furnish and Install Accessible Lavatories",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "6",
+      "description": "Furnish and Install Accessible Showers with Controls and Hand Shower",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "7",
+      "description": "Furnish and Install ADA Insulation Covers for P-2H Lavatory",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "8",
+      "description": "Furnish and Install Backflow Preventer (BP-1)",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "9",
+      "description": "Furnish and Install Backflow Prevention or Anti-Siphon Devices",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "10",
+      "description": "Furnish and Install BP-1 Compact Duplex Booster Pump System (Towel Whitney TW2018U-150G-40)",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "11",
+      "description": "Furnish and Install Condensate Disposal Sump Pump System",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "12",
+      "description": "Furnish and Install Copper Manifolds for Water Distribution",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "13",
+      "description": "Furnish and Install Diverter Valve (Signature Hardware 953056) with Trim for P-3H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "14",
+      "description": "Furnish and Install Diverter Valve (Signature Hardware 953056) with Trim for P-4H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "15",
+      "description": "Furnish and Install Domestic Water Booster Pump",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "16",
+      "description": "Furnish and Install Domestic Water Heater",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "17",
+      "description": "Furnish and Install Domestic Water Piping (Copper or CPVC)",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "18",
+      "description": "Furnish and Install Electric Water Coolers",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "19",
+      "description": "Furnish and Install Elevator Pit Sump Pump System",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "20",
+      "description": "Furnish and Install Floor Drain FD (Zurn ZN4152NHBP) with Trap Primer Connection",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "21",
+      "description": "Furnish and Install Floor Drains",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "22",
+      "description": "Furnish and Install Floor Drains, Types P-3H and P-5",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "23",
+      "description": "Furnish and Install Gas Pressure Regulators",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "24",
+      "description": "Furnish and Install General Plumbing Fixtures",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "25",
+      "description": "Furnish and Install Heat Trace System",
+      "category": "Energy & Sustainable Plumbing Systems"
+    },
+    {
+      "item_number": "26",
+      "description": "Furnish and Install Hydration Station",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "27",
+      "description": "Furnish and Install Lint Interceptor",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "28",
+      "description": "Furnish and Install Miscellaneous Accessories, Valves, and Water Hammer Arrestors",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "29",
+      "description": "Furnish and Install Normally Closed Valve for Bypass Loop",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "30",
+      "description": "Furnish and Install P-1 Two-Piece Elongated Toilet (Signature Hardware SHBD200WH/SHBD240WH)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "31",
+      "description": "Furnish and Install P-2H ADA 21\" Undermount Bathroom Sink (Signature Hardware SHBYU1812)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "32",
+      "description": "Furnish and Install P-3H ADA 60\"x30\" Vikrell Tub and Shower Unit (Sterling 71240125)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "33",
+      "description": "Furnish and Install P-4H ADA 64\"x40\" Roll-In Shower Unit (Sterling 62070115)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "34",
+      "description": "Furnish and Install Plumbing Fixture (ELK-001)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "35",
+      "description": "Furnish and Install Plumbing Fixture (PL-812)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "36",
+      "description": "Furnish and Install Plumbing Fixtures, Including Sinks (SNK-003)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "37",
+      "description": "Furnish and Install Pressure Balance Shower Faucet Valve (SH4001) with Trim for P-4H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "38",
+      "description": "Furnish and Install Pressure Balance Tub and Shower Faucet Valve (SH4001) with Trim for P-3H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "39",
+      "description": "Furnish and Install Reduced Pressure (RP) Backflow Preventer",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "40",
+      "description": "Furnish and Install Secondary Drain Pans with Float Switches",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "41",
+      "description": "Furnish and Install Shower Pans",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "42",
+      "description": "Furnish and Install Shower SHR-002",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "43",
+      "description": "Furnish and Install Shower Trim for P-3H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "44",
+      "description": "Furnish and Install Shower Trim for P-4H",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "45",
+      "description": "Furnish and Install Shutoff Valves and Brass Ball Valves",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "46",
+      "description": "Furnish and Install Single Hole Faucet with Pop-Up Drain Assembly (Signature Hardware SHWSCBW100)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "47",
+      "description": "Furnish and Install Sink SNK-001",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "48",
+      "description": "Furnish and Install Sink (SNK-006)",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "49",
+      "description": "Furnish and Install Sink Type SINK-004",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "50",
+      "description": "Furnish and Install Tempering Mixing Valves (TMV)",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "51",
+      "description": "Furnish and Install Trim for P-1 Water Closet",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "52",
+      "description": "Furnish and Install Trim for P-2H Lavatory",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "53",
+      "description": "Furnish and Install Tub Pans Per Plan",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "54",
+      "description": "Furnish and Install Tubs Per Plan",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "55",
+      "description": "Furnish and Install Tubs TUB-001 and TUB-002",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "56",
+      "description": "Furnish and Install Underground Plumbing",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "57",
+      "description": "Furnish and Install Underslab Type 'K' Soft Drawn Water Piping",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "58",
+      "description": "Furnish and Install Uponor PEX Piping as Homeruns",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "59",
+      "description": "Furnish and Install Water Closet Type WCL-002",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "60",
+      "description": "Furnish and Install Water Closet WCL-001",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "61",
+      "description": "Furnish and Install Water Filter System",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "62",
+      "description": "Furnish and Install Water Hammer Arrestors at Washer Connections",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "63",
+      "description": "Furnish and Install Water Heater (WH-1)",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "64",
+      "description": "Furnish and Install Water Heater WH-2",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "65",
+      "description": "Install 1 1/2\" Hot Water Return Piping",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "66",
+      "description": "Install 1/2\" Polyethylene Domestic Water Piping",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "67",
+      "description": "Install 1\" Polyvinyl Chloride Yard Hydrant Line",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "68",
+      "description": "Install 2\" Polyvinyl Chloride Valve Vault Drain",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "69",
+      "description": "Install 3\" Domestic Water Meter",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "70",
+      "description": "Install 3\" Domestic Water Service Piping",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "71",
+      "description": "Install 3\" Ductile Iron Pipe Domestic Water Line",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "72",
+      "description": "Install 3\" Reduced Pressure Principle Backflow Assembly for Domestic Water",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "73",
+      "description": "Install 3\" Waste and Vent Stack",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "74",
+      "description": "Install 4\" 90-Degree Vertical Bend Piping",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "75",
+      "description": "Install 4\" Check Valve and 4\" Plug Shut-Down Valve",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "76",
+      "description": "Install 4\" Ductile Iron Pipe Gas Vent",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "77",
+      "description": "Install 4\" Floor Drains with Sediment Bucket (JR Smith Model 2420 or similar)",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "78",
+      "description": "Install 6\" Maximum Sleeves Through Concrete Footings for Plumbing Lines",
+      "category": "others"
+    },
+    {
+      "item_number": "79",
+      "description": "Install Cleanouts at Base of Waste Risers",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "80",
+      "description": "Install Closet Flanges and Floor-Mounted Water Closets",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "81",
+      "description": "Install Condensate Drain Piping System for HVAC Equipment",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "82",
+      "description": "Install Floor Drains with Half Grate for Indirect Condensate Waste",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "83",
+      "description": "Install Freezeless Yard Hydrant",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "84",
+      "description": "Install Metallic Piping (Steel, Cast Iron, Copper)",
+      "category": "others"
+    },
+    {
+      "item_number": "85",
+      "description": "Install Nonmetallic Piping (PVC, CPVC, ABS, PEX)",
+      "category": "others"
+    },
+    {
+      "item_number": "86",
+      "description": "Install Owner-Procured Plumbing Fixtures and Accessories",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "87",
+      "description": "Install Pipe Sleeves for Penetrations Through Concrete",
+      "category": "others"
+    },
+    {
+      "item_number": "88",
+      "description": "Install Plumbing Fixture Type PL-813",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "89",
+      "description": "Install Plumbing Systems Including Routing of Pipes",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "90",
+      "description": "Install Plumbing Vent Stacks",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "91",
+      "description": "Install P-Traps for Condensate Drain Lines",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "92",
+      "description": "Install Roof Drainage Downspouts",
+      "category": "Stormwater & Roof Drainage Systems"
+    },
+    {
+      "item_number": "93",
+      "description": "Install Sanitary Waste and Vent Piping System",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "94",
+      "description": "Install Schedule 80 CPVC for Direct Venting of Water Heaters",
+      "category": "Pumps, Valves & Equipment"
+    },
+    {
+      "item_number": "95",
+      "description": "Install Sleeves at Downspouts",
+      "category": "Stormwater & Roof Drainage Systems"
+    },
+    {
+      "item_number": "96",
+      "description": "Install Storm Drain System Including Piping and Drain Inlets",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "97",
+      "description": "Install Trap Primers on Floor Drains",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "98",
+      "description": "Install Trap Primer System Piping",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "99",
+      "description": "Install Underground Schedule 40 PVC Storm Piping",
+      "category": "Stormwater & Roof Drainage Systems"
+    },
+    {
+      "item_number": "100",
+      "description": "Install Underslab Sump Pump Discharge Piping to Exterior",
+      "category": "Stormwater & Roof Drainage Systems"
+    },
+    {
+      "item_number": "101",
+      "description": "Install Vent Piping Through Roof",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "102",
+      "description": "Install Wall Cleanouts",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "103",
+      "description": "Install Water Closet Waste Lines Concealed in Wall Chases",
+      "category": "Sanitary & Wastewater Systems"
+    },
+    {
+      "item_number": "104",
+      "description": "Provide 3\" Domestic Water Building Connection",
+      "category": "Site Plumbing & Utilities"
+    },
+    {
+      "item_number": "105",
+      "description": "Provide Final Plumbing Connections for Owner-Furnished Eye Wash Station",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "106",
+      "description": "Provide Gas Piping Connections for Dryers",
+      "category": "others"
+    },
+    {
+      "item_number": "107",
+      "description": "Provide General Plumbing Rough-In and Final Connections",
+      "category": "Domestic Water Distribution"
+    },
+    {
+      "item_number": "108",
+      "description": "Provide Plumbing Connections for Dishwashers",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "109",
+      "description": "Provide Plumbing Connections for Laundry Equipment",
+      "category": "Plumbing Fixtures & Accessories"
+    },
+    {
+      "item_number": "110",
+      "description": "Reroute and Extend Existing Plumbing Piping for New Equipment",
+      "category": "Domestic Water Distribution"
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 // Global state
-let currentScope = 'electrical';
+let currentScope = 'electrical-by-masterformat';
 let currentFilter = 'all';
 let expandedCategories = new Set();
 let bidItemsData = {};
+let packageMappingData = {};
+let currentView = 'scopes'; // 'scopes' or 'packageMapping'
 
 // Load data
 async function loadData() {
@@ -13,10 +15,38 @@ async function loadData() {
         renderScopes(data.scopes);
         populateCategoryFilter(currentScope);
         renderBidItems(currentScope);
+        
+        // Load package mapping data
+        await loadPackageMappingData();
     } catch (error) {
         console.error('Error loading data:', error);
         document.getElementById('bidItemsBody').innerHTML = 
             '<tr><td colspan="6" class="empty-state">Error loading data. Please run generate_data.py first.</td></tr>';
+    }
+}
+
+// Load package mapping data
+async function loadPackageMappingData() {
+    try {
+        const [elecResponse, mechResponse, plumbingResponse] = await Promise.all([
+            fetch('Data/elec_package.txt'),
+            fetch('Data/mech_package.txt'),
+            fetch('Data/plumbing_package.txt')
+        ]);
+        
+        if (!elecResponse.ok || !mechResponse.ok || !plumbingResponse.ok) {
+            throw new Error('Failed to fetch package mapping files');
+        }
+        
+        packageMappingData.electrical = await elecResponse.json();
+        packageMappingData.mechanical = await mechResponse.json();
+        packageMappingData.plumbing = await plumbingResponse.json();
+    } catch (error) {
+        console.error('Error loading package mapping data:', error);
+        // Set empty data so UI doesn't break
+        packageMappingData.electrical = {};
+        packageMappingData.mechanical = {};
+        packageMappingData.plumbing = {};
     }
 }
 
@@ -46,7 +76,10 @@ function populateCategoryFilter(scopeId) {
         
         const text = document.createElement('span');
         text.className = 'checkbox-text';
-        text.textContent = category;
+        const itemCount = bidItemsData[scopeId][category].filter(item => 
+            !item.description || !item.description.toLowerCase().includes('all document references')
+        ).length;
+        text.innerHTML = `${category} <span style="color: #999; margin-left: 8px;">(${itemCount} items)</span>`;
         
         label.appendChild(checkbox);
         label.appendChild(checkmark);
@@ -309,6 +342,69 @@ function updateCounts(all = 0, pending = 0, yes = 0, no = 0) {
     document.getElementById('countNo').textContent = no;
 }
 
+// Navigation handlers
+function showScopesView() {
+    currentView = 'scopes';
+    document.getElementById('bidItemsPanel').style.display = 'flex';
+    document.getElementById('packageMappingPanel').style.display = 'none';
+    document.querySelector('.scopes-panel').style.display = 'flex';
+    document.getElementById('navScopes').style.color = '#ffffff';
+    document.getElementById('navGroupingMapping').style.color = '#94a3b8';
+}
+
+function showPackageMappingView() {
+    currentView = 'packageMapping';
+    document.getElementById('bidItemsPanel').style.display = 'none';
+    document.getElementById('packageMappingPanel').style.display = 'flex';
+    document.querySelector('.scopes-panel').style.display = 'none';
+    document.getElementById('navScopes').style.color = '#94a3b8';
+    document.getElementById('navGroupingMapping').style.color = '#ffffff';
+    renderPackageMapping('electrical');
+}
+
+// Render package mapping tables
+function renderPackageMapping(scope) {
+    const content = document.getElementById('packageMappingContent');
+    
+    // Check if data exists and is loaded
+    if (!packageMappingData[scope] || Object.keys(packageMappingData[scope]).length === 0) {
+        content.innerHTML = '<div class="empty-state">Loading package mapping data...</div>';
+        // Try to load data if not already loaded
+        loadPackageMappingData().then(() => {
+            if (packageMappingData[scope] && Object.keys(packageMappingData[scope]).length > 0) {
+                renderPackageMapping(scope); // Re-render after loading
+            } else {
+                content.innerHTML = '<div class="empty-state">No package mapping data available. Please ensure the package files exist in the Data folder.</div>';
+            }
+        });
+        return;
+    }
+    
+    const data = packageMappingData[scope];
+    let html = '<table class="package-mapping-table"><thead><tr><th>Package Group</th><th>Specs</th></tr></thead><tbody>';
+    
+    for (const [packageGroup, specs] of Object.entries(data)) {
+        let specsText = '';
+        if (Array.isArray(specs)) {
+            if (specs.length > 0 && typeof specs[0] === 'object' && specs[0].code) {
+                // Plumbing format: objects with code and title
+                specsText = specs.map(spec => `${spec.code} - ${spec.title}`).join('<br>');
+            } else {
+                // Electrical/Mechanical format: strings
+                specsText = specs.join('<br>');
+            }
+        }
+        
+        html += `<tr>
+            <td class="package-group-cell">${packageGroup}</td>
+            <td class="specs-cell">${specsText || '-'}</td>
+        </tr>`;
+    }
+    
+    html += '</tbody></table>';
+    content.innerHTML = html;
+}
+
 // Filter tab click handler
 document.addEventListener('DOMContentLoaded', () => {
     // Filter tabs
@@ -320,6 +416,20 @@ document.addEventListener('DOMContentLoaded', () => {
             renderBidItems(currentScope);
         });
     });
+    
+    // Package mapping tabs
+    document.querySelectorAll('.package-tab').forEach(tab => {
+        tab.addEventListener('click', (e) => {
+            document.querySelectorAll('.package-tab').forEach(t => t.classList.remove('active'));
+            e.target.classList.add('active');
+            const scope = e.target.dataset.scope;
+            renderPackageMapping(scope);
+        });
+    });
+    
+    // Navigation items
+    document.getElementById('navScopes')?.addEventListener('click', showScopesView);
+    document.getElementById('navGroupingMapping')?.addEventListener('click', showPackageMappingView);
     
     // Select all checkbox
     document.getElementById('selectAll')?.addEventListener('change', (e) => {
