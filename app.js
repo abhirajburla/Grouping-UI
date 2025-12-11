@@ -245,8 +245,7 @@ function renderBidItems(scopeId) {
             <td colspan="5">
                 <div class="category-header">
                     <span class="category-arrow">▶</span>
-                    <span class="category-name">${category}</span>
-                    <span class="category-count">(${itemsWithoutDocRefs.length} items)</span>
+                    <span class="category-name">${category} (${itemsWithoutDocRefs.length} items)</span>
                 </div>
             </td>
         `;
