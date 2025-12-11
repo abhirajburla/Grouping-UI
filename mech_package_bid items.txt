@@ -113,7 +113,7 @@
     {
       "item_number": "23",
       "description": "Install Ductwork Supports per SMACNA Standards",
-      "group": "Raceways, Conduits & Supports (Mechanical)"
+      "group": "Branch Ducts, Piping & Connections"
     },
     {
       "item_number": "24",
@@ -198,7 +198,7 @@
     {
       "item_number": "40",
       "description": "Install Hangers and Supports for Ductwork",
-      "group": "Raceways, Conduits & Supports (Mechanical)"
+      "group": "Branch Ducts, Piping & Connections"
     },
     {
       "item_number": "41",
@@ -248,7 +248,7 @@
     {
       "item_number": "50",
       "description": "Install Mechanical Pipe and Duct Sleeves Through Concrete",
-      "group": "Raceways, Conduits & Supports (Mechanical)"
+      "group": "Branch Ducts, Piping & Connections"
     },
     {
       "item_number": "51",

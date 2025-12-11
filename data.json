@@ -3231,6 +3231,21 @@
           ]
         },
         {
+          "itemNumber": "23",
+          "description": "Install Ductwork Supports per SMACNA Standards",
+          "status": "Pending",
+          "drawingRefs": [
+            {
+              "category": "Mechanical",
+              "count": 1,
+              "items": [
+                "M-6 - Mechanical Sections And Details"
+              ]
+            }
+          ],
+          "specRefs": []
+        },
+        {
           "itemNumber": "33",
           "description": "Install Exterior Wall Caps and Terminations",
           "status": "Pending",
@@ -3327,6 +3342,43 @@
           ]
         },
         {
+          "itemNumber": "40",
+          "description": "Install Hangers and Supports for Ductwork",
+          "status": "Pending",
+          "drawingRefs": [
+            {
+              "category": "Architectural",
+              "count": 1,
+              "items": [
+                "And Legends"
+              ]
+            },
+            {
+              "category": "General",
+              "count": 1,
+              "items": [
+                "Schedules"
+              ]
+            },
+            {
+              "category": "Mechanical",
+              "count": 1,
+              "items": [
+                "M-1 - Mechanical Notes"
+              ]
+            }
+          ],
+          "specRefs": [
+            {
+              "category": "Div 23 - Mechanical",
+              "count": 1,
+              "items": [
+                "23 31 13 - Metal Ducts"
+              ]
+            }
+          ]
+        },
+        {
           "itemNumber": "44",
           "description": "Install Heat Trace System",
           "status": "Pending",
@@ -3370,6 +3422,21 @@
               ]
             }
           ]
+        },
+        {
+          "itemNumber": "50",
+          "description": "Install Mechanical Pipe and Duct Sleeves Through Concrete",
+          "status": "Pending",
+          "drawingRefs": [
+            {
+              "category": "General",
+              "count": 1,
+              "items": [
+                "S002 - Typical Details"
+              ]
+            }
+          ],
+          "specRefs": []
         },
         {
           "itemNumber": "51",
@@ -4937,75 +5004,6 @@
               "count": 1,
               "items": [
                 "A501 - Roof Details"
-              ]
-            }
-          ],
-          "specRefs": []
-        }
-      ],
-      "Raceways, Conduits & Supports (Mechanical)": [
-        {
-          "itemNumber": "23",
-          "description": "Install Ductwork Supports per SMACNA Standards",
-          "status": "Pending",
-          "drawingRefs": [
-            {
-              "category": "Mechanical",
-              "count": 1,
-              "items": [
-                "M-6 - Mechanical Sections And Details"
-              ]
-            }
-          ],
-          "specRefs": []
-        },
-        {
-          "itemNumber": "40",
-          "description": "Install Hangers and Supports for Ductwork",
-          "status": "Pending",
-          "drawingRefs": [
-            {
-              "category": "Architectural",
-              "count": 1,
-              "items": [
-                "And Legends"
-              ]
-            },
-            {
-              "category": "General",
-              "count": 1,
-              "items": [
-                "Schedules"
-              ]
-            },
-            {
-              "category": "Mechanical",
-              "count": 1,
-              "items": [
-                "M-1 - Mechanical Notes"
-              ]
-            }
-          ],
-          "specRefs": [
-            {
-              "category": "Div 23 - Mechanical",
-              "count": 1,
-              "items": [
-                "23 31 13 - Metal Ducts"
-              ]
-            }
-          ]
-        },
-        {
-          "itemNumber": "50",
-          "description": "Install Mechanical Pipe and Duct Sleeves Through Concrete",
-          "status": "Pending",
-          "drawingRefs": [
-            {
-              "category": "General",
-              "count": 1,
-              "items": [
-                "S002 - Typical Details"
               ]
             }
           ],
