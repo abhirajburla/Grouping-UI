@@ -221,19 +221,19 @@ def generate_data():
     }
     
     package_grouping_files = {
-        'Electrical by package grouping': {
+        'Electrical': {
             'code': '26 00 00',
             'package_file': 'elec_package_bid items.txt',
             'csv': 'Data/26 00 00 - Electrical_BidItems.csv',
             'scope_type': 'electrical'
         },
-        'Mechanical by package grouping': {
+        'Mechanical': {
             'code': '23 00 00',
             'package_file': 'mech_package_bid items.txt',
             'csv': 'Data/23 00 00 - Mechanical_BidItems.csv',
             'scope_type': 'mechanical'
         },
-        'Plumbing by package grouping': {
+        'Plumbing': {
             'code': '22 00 00',
             'package_file': 'plumb_package_bid items.txt',
             'csv': 'Data/22 00 00 - Plumbing_BidItems.csv',
@@ -246,103 +246,103 @@ def generate_data():
         'bidItems': {}
     }
     
-    # Process masterformat scopes (renamed)
-    for scope_name, files in scope_files.items():
-        print(f"Processing {scope_name}...")
-        
-        # Read categories
-        categories = read_categories(files['txt'])
-        
-        # Read CSV data
-        df = read_csv_data(files['csv'])
-        
-        if df.empty:
-            continue
-        
-        # Extract item number
-        df['Item #'] = df.iloc[:, 0].astype(str).str.strip().str.strip('"').str.strip()
-        
-        # Add category column
-        df['Category'] = df['Item #'].map(categories).fillna('Others')
-        
-        # Create scope ID
-        scope_id = scope_name.lower().replace(' ', '-')
-        
-        # Add scope info
-        output_data['scopes'].append({
-            'code': files['code'],
-            'name': scope_name,
-            'id': scope_id
-        })
-        
-        # Group by category
-        grouped = df.groupby('Category')
-        bid_items_by_category = {}
-        
-        for category, group_df in grouped:
-            if category not in bid_items_by_category:
-                bid_items_by_category[category] = []
-            
-            for _, row in group_df.iterrows():
-                item = {
-                    'itemNumber': str(row.get('Item #', '')).strip().strip('"').strip(),
-                    'description': str(row.get('Bid Item Description', '')).strip().strip('"').strip(),
-                    'status': str(row.get('Status', 'Pending')).strip().strip('"').strip() or 'Pending',
-                    'drawingRefs': parse_drawing_references(row.get('Drawing Reference', '')),
-                    'specRefs': parse_spec_references(row.get('Specification Reference', ''))
-                }
-                bid_items_by_category[category].append(item)
-        
-        output_data['bidItems'][scope_id] = bid_items_by_category
+    # Process masterformat scopes (COMMENTED OUT - not shown in UI)
+    # for scope_name, files in scope_files.items():
+    #     print(f"Processing {scope_name}...")
+    #     
+    #     # Read categories
+    #     categories = read_categories(files['txt'])
+    #     
+    #     # Read CSV data
+    #     df = read_csv_data(files['csv'])
+    #     
+    #     if df.empty:
+    #         continue
+    #     
+    #     # Extract item number
+    #     df['Item #'] = df.iloc[:, 0].astype(str).str.strip().str.strip('"').str.strip()
+    #     
+    #     # Add category column
+    #     df['Category'] = df['Item #'].map(categories).fillna('Others')
+    #     
+    #     # Create scope ID
+    #     scope_id = scope_name.lower().replace(' ', '-')
+    #     
+    #     # Add scope info (comment out code for masterformat scopes)
+    #     output_data['scopes'].append({
+    #         'code': '',  # Commented out code for masterformat scopes
+    #         'name': scope_name,
+    #         'id': scope_id
+    #     })
+    #     
+    #     # Group by category
+    #     grouped = df.groupby('Category')
+    #     bid_items_by_category = {}
+    #     
+    #     for category, group_df in grouped:
+    #         if category not in bid_items_by_category:
+    #             bid_items_by_category[category] = []
+    #         
+    #         for _, row in group_df.iterrows():
+    #             item = {
+    #                 'itemNumber': str(row.get('Item #', '')).strip().strip('"').strip(),
+    #                 'description': str(row.get('Bid Item Description', '')).strip().strip('"').strip(),
+    #                 'status': str(row.get('Status', 'Pending')).strip().strip('"').strip() or 'Pending',
+    #                 'drawingRefs': parse_drawing_references(row.get('Drawing Reference', '')),
+    #                 'specRefs': parse_spec_references(row.get('Specification Reference', ''))
+    #             }
+    #             bid_items_by_category[category].append(item)
+    #     
+    #     output_data['bidItems'][scope_id] = bid_items_by_category
     
-    # Create "Plumbing by Spec" scope - group plumbing items by specification
-    if 'plumbing-by-masterformat' in output_data['bidItems']:
-        print("Processing Plumbing by Spec...")
-        plumbing_items = output_data['bidItems']['plumbing-by-masterformat']
-        bid_items_by_spec = {}
-        
-        # Collect all items from all categories
-        all_plumbing_items = []
-        for category_items in plumbing_items.values():
-            all_plumbing_items.extend(category_items)
-        
-        # Group by specification
-        for item in all_plumbing_items:
-            # Extract all spec references from the item
-            spec_refs = item.get('specRefs', [])
-            
-            if not spec_refs:
-                # Items without specs go to "No Specification" group
-                spec_key = "No Specification"
-                if spec_key not in bid_items_by_spec:
-                    bid_items_by_spec[spec_key] = []
-                bid_items_by_spec[spec_key].append(item)
-            else:
-                # Each item can belong to multiple specs
-                for spec_category in spec_refs:
-                    for spec_item in spec_category.get('items', []):
-                        # Extract only the spec name (part after " - ")
-                        spec_key = spec_item.strip()
-                        if ' - ' in spec_key:
-                            # Split on " - " and take only the name part
-                            spec_key = spec_key.split(' - ', 1)[1].strip()
-                        
-                        # If spec doesn't have format "code - name", use as is
-                        if spec_key:
-                            if spec_key not in bid_items_by_spec:
-                                bid_items_by_spec[spec_key] = []
-                            # Only add if not already in this spec's list (avoid duplicates)
-                            if item not in bid_items_by_spec[spec_key]:
-                                bid_items_by_spec[spec_key].append(item)
-        
-        # Add the new scope
-        output_data['scopes'].append({
-            'code': '22 00 00',
-            'name': 'Plumbing by Spec',
-            'id': 'plumbing-by-spec'
-        })
-        
-        output_data['bidItems']['plumbing-by-spec'] = bid_items_by_spec
+    # Create "Plumbing by Spec" scope (COMMENTED OUT - not shown in UI)
+    # if 'plumbing-by-masterformat' in output_data['bidItems']:
+    #     print("Processing Plumbing by Spec...")
+    #     plumbing_items = output_data['bidItems']['plumbing-by-masterformat']
+    #     bid_items_by_spec = {}
+    #     
+    #     # Collect all items from all categories
+    #     all_plumbing_items = []
+    #     for category_items in plumbing_items.values():
+    #         all_plumbing_items.extend(category_items)
+    #     
+    #     # Group by specification
+    #     for item in all_plumbing_items:
+    #         # Extract all spec references from the item
+    #         spec_refs = item.get('specRefs', [])
+    #         
+    #         if not spec_refs:
+    #             # Items without specs go to "No Specification" group
+    #             spec_key = "No Specification"
+    #             if spec_key not in bid_items_by_spec:
+    #                 bid_items_by_spec[spec_key] = []
+    #             bid_items_by_spec[spec_key].append(item)
+    #         else:
+    #             # Each item can belong to multiple specs
+    #             for spec_category in spec_refs:
+    #                 for spec_item in spec_category.get('items', []):
+    #                     # Extract only the spec name (part after " - ")
+    #                     spec_key = spec_item.strip()
+    #                     if ' - ' in spec_key:
+    #                         # Split on " - " and take only the name part
+    #                         spec_key = spec_key.split(' - ', 1)[1].strip()
+    #                     
+    #                     # If spec doesn't have format "code - name", use as is
+    #                     if spec_key:
+    #                         if spec_key not in bid_items_by_spec:
+    #                             bid_items_by_spec[spec_key] = []
+    #                         # Only add if not already in this spec's list (avoid duplicates)
+    #                         if item not in bid_items_by_spec[spec_key]:
+    #                             bid_items_by_spec[spec_key].append(item)
+    #     
+    #     # Add the new scope (comment out code)
+    #     output_data['scopes'].append({
+    #         'code': '',  # Commented out code for Plumbing by Spec
+    #         'name': 'Plumbing by Spec',
+    #         'id': 'plumbing-by-spec'
+    #     })
+    #     
+    #     output_data['bidItems']['plumbing-by-spec'] = bid_items_by_spec
     
     # Process package grouping scopes
     for scope_name, files in package_grouping_files.items():
@@ -360,8 +360,11 @@ def generate_data():
         # Extract item number
         df['Item #'] = df.iloc[:, 0].astype(str).str.strip().str.strip('"').str.strip()
         
-        # Add package column
+        # Add package column and remove "Package X: " prefix for electrical
         df['Package'] = df['Item #'].map(package_mapping).fillna('Others')
+        if files['scope_type'] == 'electrical':
+            # Remove "Package 1: ", "Package 2: ", etc. prefixes
+            df['Package'] = df['Package'].str.replace(r'^Package\s+\d+:\s*', '', regex=True, case=False)
         
         # Create scope ID
         scope_id = scope_name.lower().replace(' ', '-')

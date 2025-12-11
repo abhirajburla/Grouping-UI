@@ -163,8 +163,10 @@ function renderScopes(scopes) {
         }
         scopeItem.addEventListener('click', () => selectScope(scope.id));
         
+        // Hide code for masterformat scopes and Plumbing by Spec
+        const hideCode = !scope.code || scope.code.trim() === '';
         scopeItem.innerHTML = `
-            <div class="scope-code">${scope.code}</div>
+            ${hideCode ? '' : `<div class="scope-code">${scope.code}</div>`}
             <div class="scope-name">${scope.name}</div>
         `;
         
