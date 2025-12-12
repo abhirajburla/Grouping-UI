@@ -223,19 +223,19 @@ def generate_data():
     package_grouping_files = {
         'Electrical': {
             'code': '26 00 00',
-            'package_file': 'elec_package_bid items.txt',
+            'package_file': 'Data/elec_package_bid items.txt',
             'csv': 'Data/26 00 00 - Electrical_BidItems.csv',
             'scope_type': 'electrical'
         },
         'Mechanical': {
             'code': '23 00 00',
-            'package_file': 'mech_package_bid items.txt',
+            'package_file': 'Data/mech_package_bid items.txt',
             'csv': 'Data/23 00 00 - Mechanical_BidItems.csv',
             'scope_type': 'mechanical'
         },
         'Plumbing': {
             'code': '22 00 00',
-            'package_file': 'plumb_package_bid items.txt',
+            'package_file': 'Data/plumb_package_bid items.txt',
             'csv': 'Data/22 00 00 - Plumbing_BidItems.csv',
             'scope_type': 'plumbing'
         }

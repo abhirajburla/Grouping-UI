@@ -775,3 +775,194 @@ body {
     line-height: 1.6;
 }
 
+/* GRPS MEP Panel */
+.grps-mep-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: #ffffff;
+    width: 100%;
+    min-height: 0;
+}
+
+.grps-mep-panel .panel-header {
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grps-mep-tabs {
+    padding: 0 30px;
+    display: flex;
+    gap: 10px;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fafafa;
+    flex-shrink: 0;
+}
+
+.grps-tab {
+    padding: 12px 20px;
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #666;
+    transition: all 0.2s;
+}
+
+.grps-tab:hover {
+    color: #333;
+    background-color: #f0f0f0;
+}
+
+.grps-tab.active {
+    color: #2196f3;
+    border-bottom-color: #2196f3;
+    background-color: #ffffff;
+}
+
+.grps-toggle-buttons {
+    padding: 15px 30px;
+    display: flex;
+    gap: 10px;
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fafafa;
+    flex-shrink: 0;
+}
+
+.grps-toggle-btn {
+    padding: 8px 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #666;
+    transition: all 0.2s;
+}
+
+.grps-toggle-btn:hover {
+    background-color: #f0f0f0;
+    border-color: #999;
+}
+
+.grps-toggle-btn.active {
+    background-color: #2196f3;
+    color: #ffffff;
+    border-color: #2196f3;
+}
+
+.grps-mep-content {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: auto;
+    padding: 20px 30px;
+    min-height: 0;
+}
+
+.grps-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    background-color: #ffffff;
+}
+
+.grps-table thead {
+    background-color: #fafafa;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.grps-table th {
+    padding: 12px 15px;
+    text-align: left;
+    font-weight: 600;
+    color: #666;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.grps-table tbody tr {
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.2s;
+}
+
+.grps-table tbody tr:hover {
+    background-color: #fafafa;
+}
+
+.grps-table td {
+    padding: 12px 15px;
+    vertical-align: top;
+}
+
+.derived-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.contract-item-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    background-color: #e3f2fd;
+    color: #1976d2;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: help;
+    transition: background-color 0.2s;
+    position: relative;
+}
+
+.contract-item-badge:hover {
+    background-color: #bbdefb;
+}
+
+/* Enhanced tooltip for contract item badges */
+.contract-item-badge[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 8px 12px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: normal;
+    max-width: 400px;
+    z-index: 1000;
+    margin-bottom: 5px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    word-wrap: break-word;
+}
+
+.contract-item-badge[title]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: #333;
+    margin-bottom: -5px;
+    z-index: 1001;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px;
+    color: #999;
+    font-size: 14px;
+}
+

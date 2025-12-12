@@ -1,0 +1,5622 @@
+{
+  "HVAC system including boiler and pressure vessels.": {
+    "id": 1,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "HVAC ductwork through corridors constructed of .019\" thick metal.": {
+    "id": 2,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide mechanical systems and equipment": {
+    "id": 3,
+    "sheets": [
+      [
+        "Code Plan Level 01 Overall Floor Plan",
+        "CP101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install proposed gas service connection and piping": {
+    "id": 4,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide architectural or landscape screening for exterior mechanical equipment.": {
+    "id": 5,
+    "sheets": [
+      [
+        "Overall Orientation Plan",
+        "L0.0"
+      ]
+    ],
+    "specs": [
+      [
+        "32 35 00",
+        "Site Screening Devices"
+      ]
+    ]
+  },
+  "Provide architectural screening for exterior mechanical equipment and utility meter banks.": {
+    "id": 6,
+    "sheets": [
+      [
+        "Enlarged Layout Plan",
+        "L1.2"
+      ]
+    ],
+    "specs": [
+      [
+        "32 35 00",
+        "Site Screening Devices"
+      ]
+    ]
+  },
+  "Reinforce roof openings less than 13\" with 16 gauge sheet metal.": {
+    "id": 7,
+    "sheets": [
+      [
+        "Typical Details",
+        "S0.4"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop unit (RTU-2)": {
+    "id": 8,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'b'",
+        "S3.2"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork systems": {
+    "id": 9,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'b'",
+        "S3.2"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop air-conditioning units (RTUs).": {
+    "id": 10,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'c'",
+        "S3.3"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Coordinate structural openings, weights, and locations for mechanical equipment.": {
+    "id": 11,
+    "sheets": [
+      [
+        "Bridge Foundation And Framing Plans",
+        "S4.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide and install radiant heating system for 4\" heated concrete topping slab.": {
+    "id": 12,
+    "sheets": [
+      [
+        "Foundation Sections",
+        "S6.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install boiler.": {
+    "id": 13,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Install mechanical ductwork for heating and ventilation.": {
+    "id": 14,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Install mechanical piping for heating systems including steam, risers, and returns.": {
+    "id": 15,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Install radiators and registers.": {
+    "id": 16,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide and install HVAC systems including ductwork and equipment for general building areas": {
+    "id": 17,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install kitchen exhaust and make-up air system": {
+    "id": 18,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install specialty high-temperature exhaust system for Kiln room": {
+    "id": 19,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide complete mechanical HVAC system per drawings": {
+    "id": 20,
+    "sheets": [
+      [
+        "Level 01 Area A Floor Plan",
+        "A101A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide mechanical HVAC systems.": {
+    "id": 21,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan",
+        "A101C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide complete Mechanical (HVAC) system.": {
+    "id": 22,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan Dimensions",
+        "A101C.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install HVAC system and equipment.": {
+    "id": 23,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan",
+        "A102A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide mechanical systems and equipment for MECH room 200.": {
+    "id": 24,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan Dimensions",
+        "A102A.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Install mechanical grilles and diffusers.": {
+    "id": 25,
+    "sheets": [
+      [
+        "Overall Level 01 Reflected Ceiling Plan",
+        "A110"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Install ductwork in areas with exposed structure ceilings.": {
+    "id": 26,
+    "sheets": [
+      [
+        "Overall Level 01 Reflected Ceiling Plan",
+        "A110"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install mechanical grilles and diffusers": {
+    "id": 27,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install ductwork in exposed ceiling areas": {
+    "id": 28,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork, coordinated with structure and other trades.": {
+    "id": 29,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install mechanical grilles and diffusers.": {
+    "id": 30,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ],
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork.": {
+    "id": 31,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ],
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ],
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install air distribution devices including mechanical grilles and diffusers.": {
+    "id": 32,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install kitchen vent hood.": {
+    "id": 33,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install mechanical grilles, registers, and diffusers.": {
+    "id": 34,
+    "sheets": [
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install mechanical grilles and diffusers, centered within ceiling grids.": {
+    "id": 35,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork in areas with exposed structure ceilings.": {
+    "id": 36,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Install Rooftop Mechanical Equipment (RTU, EF, ERU, MAU)": {
+    "id": 37,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide Roof Penetrations, Sleeves, and Vents for Mechanical Systems": {
+    "id": 38,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Install mechanical exhaust/ventilator ductwork": {
+    "id": 39,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install mechanical units": {
+    "id": 40,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide complete HVAC system including equipment, ductwork, and controls.": {
+    "id": 41,
+    "sheets": [
+      [
+        "Building Sections",
+        "A300"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Provide and install complete radiant heat system.": {
+    "id": 42,
+    "sheets": [
+      [
+        "Wall Sections",
+        "A312"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide hoistway and machine space ventilation system per code requirements.": {
+    "id": 43,
+    "sheets": [
+      [
+        "Enlarged Elevator Plan, Sections And Details",
+        "A710"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide complete Mechanical/HVAC system.": {
+    "id": 44,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install identification for HVAC piping and equipment.": {
+    "id": 45,
+    "sheets": [
+      [
+        "Signage Schedule And Details",
+        "A811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install HVAC grilles and diffusers": {
+    "id": 46,
+    "sheets": [
+      [
+        "Level 01 Area A Finish Plan",
+        "AI101A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install HVAC grilles and diffusers.": {
+    "id": 47,
+    "sheets": [
+      [
+        "Level 01 Area C Finish Plan",
+        "AI101C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Install grilles and diffusers": {
+    "id": 48,
+    "sheets": [
+      [
+        "Level 02 Area A Finish Plan",
+        "AI102A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide complete Mechanical / HVAC system": {
+    "id": 49,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ]
+    ]
+  },
+  "Provide complete Mechanical/HVAC systems for the project.": {
+    "id": 50,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "General mechanical scope of work.": {
+    "id": 51,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install Mechanical HVAC system.": {
+    "id": 52,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install concentric vent system for combustion and vent air": {
+    "id": 53,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install Exhaust Fan (EF-2)": {
+    "id": 54,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Install combustion air intake and exhaust vent system.": {
+    "id": 55,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide and install mechanical venting system for fuel-fired equipment, including concentric vent kit.": {
+    "id": 56,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Provide and install combustion air intake system for fuel-fired equipment.": {
+    "id": 57,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install galvanized sheet metal ductwork, minimum 26 gauge.": {
+    "id": 58,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install balance dampers for each diffuser, grille, and branch duct.": {
+    "id": 59,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide and install vibration isolation at connections to motorized HVAC equipment.": {
+    "id": 60,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide and install low voltage control wiring for HVAC system.": {
+    "id": 61,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Provide and install condensate drain piping with minimum 1% slope.": {
+    "id": 62,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Install smoke detectors in ductwork.": {
+    "id": 63,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Install HVAC ductwork for supply, return, and exhaust air systems": {
+    "id": 64,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Install hangers and supports for HVAC ductwork": {
+    "id": 65,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Install air outlets and inlets for HVAC systems": {
+    "id": 66,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Install insulation on HVAC ductwork": {
+    "id": 67,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Perform testing, adjusting, and balancing (TAB) for the HVAC system": {
+    "id": 68,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop air-conditioning unit (RTU-5)": {
+    "id": 69,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heater (CUH-3)": {
+    "id": 70,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install VAV terminal unit (VAV-1-4)": {
+    "id": 71,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install HVAC supply, return, and exhaust ductwork": {
+    "id": 72,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install air outlets and inlets including grilles": {
+    "id": 73,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install new thermostat and associated controls": {
+    "id": 74,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Perform testing, adjusting, and balancing (TAB) for new HVAC system": {
+    "id": 75,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install Supply Air (SA) ductwork": {
+    "id": 76,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install Return Air (RA) ductwork": {
+    "id": 77,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install Exhaust Air (EA) ductwork": {
+    "id": 78,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install Variable Air Volume (VAV) boxes": {
+    "id": 79,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install air devices including supply diffusers and grilles": {
+    "id": 80,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install new thermostats and associated controls": {
+    "id": 81,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Perform Testing, Adjusting, and Balancing (TAB) for the complete HVAC system": {
+    "id": 82,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Provide and install insulation for HVAC ductwork and equipment": {
+    "id": 83,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted air conditioning units.": {
+    "id": 84,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide Blue Diamond mini-condensate pumps for wall-mounted AC units.": {
+    "id": 85,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install suspended unit heater.": {
+    "id": 86,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ],
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install Skutt EnviroVent2 exhaust system for kiln.": {
+    "id": 87,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install supply, return, and exhaust air ductwork.": {
+    "id": 88,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ],
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ],
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Install 4\" dryer vent routed through the roof.": {
+    "id": 89,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install new thermostat.": {
+    "id": 90,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install wall mounted air conditioning unit.": {
+    "id": 91,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install fan coil unit.": {
+    "id": 92,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install mini-condensate pumps for mechanical units.": {
+    "id": 93,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install refrigerant and condensate piping from indoor units to roof.": {
+    "id": 94,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Furnish and install Variable Air Volume (VAV) boxes.": {
+    "id": 95,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ],
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Provide hangers and supports for suspended mechanical equipment.": {
+    "id": 96,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install Rooftop Unit (RTU-3).": {
+    "id": 97,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install new thermostats.": {
+    "id": 98,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install air outlets and inlets including diffusers, grilles, and registers.": {
+    "id": 99,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Perform testing, adjusting, and balancing (TAB) for the HVAC system.": {
+    "id": 100,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install rooftop unit (RTU)": {
+    "id": 101,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install Dedicated Outdoor Air System (DOAS) unit": {
+    "id": 102,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Furnish and install condensing unit": {
+    "id": 103,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install facility natural gas piping": {
+    "id": 104,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install fin tube radiation units (FT-1, FT-2).": {
+    "id": 105,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide manufacturer caps on open ends of fin tube enclosures.": {
+    "id": 106,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install 2 1/2\" hydronic heating piping (HS/HR).": {
+    "id": 107,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system manifold and associated 2\" HSHR piping.": {
+    "id": 108,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heater (CUH3).": {
+    "id": 109,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install Variable Air Volume (VAV) unit (VAV-1.7).": {
+    "id": 110,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install hydronic heating piping, including supply (HS) and return (HR) lines.": {
+    "id": 111,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install Variable Air Volume (VAV) terminal units.": {
+    "id": 112,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install fin tube convection heating units (FT-1, FT-3, FT-4).": {
+    "id": 113,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system manifold and associated piping.": {
+    "id": 114,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install manufacturer-specific end caps and trim pieces for fin tube enclosures.": {
+    "id": 115,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install rooftop condensing unit": {
+    "id": 116,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Install refrigerant piping from interior unit to rooftop condensing unit": {
+    "id": 117,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Install hydronic supply and return piping (HS/HR)": {
+    "id": 118,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install mechanical equipment units FT-1 and FT-5": {
+    "id": 119,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install fin tube radiation units": {
+    "id": 120,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install hydronic heating piping (HS/HR)": {
+    "id": 121,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install VAV box VAV-1-17": {
+    "id": 122,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install refrigerant piping from unit up through roof": {
+    "id": 123,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Furnish and install mini-condensate pump": {
+    "id": 124,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Furnish and install control valves for fin tube units": {
+    "id": 125,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide manufacturer trim pieces for fin tube enclosures": {
+    "id": 126,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide manufacturer end caps for fin tube enclosures": {
+    "id": 127,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install 3\" hydronic supply (HS) piping.": {
+    "id": 128,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install 2 1/2\" hydronic return (HR) piping.": {
+    "id": 129,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install 3/4\" hydronic supply (HS) and return (HR) piping to fin tube units.": {
+    "id": 130,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install fin tube unit FT-1.": {
+    "id": 131,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heater CUH-1.": {
+    "id": 132,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install VAV box VAV-3-1.": {
+    "id": 133,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install control valves and shutoff valves for fin tube units.": {
+    "id": 134,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system tubing for Zone #1 (1088 SF) and Zone #2 (1629 SF).": {
+    "id": 135,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system tubing for Alternate Area (300 SF).": {
+    "id": 136,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt manifolds.": {
+    "id": 137,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide 10\" combustion air ducting through roof.": {
+    "id": 138,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide 12\" vent ducting through roof.": {
+    "id": 139,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted air conditioning unit with condensate pump.": {
+    "id": 140,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install condensing boilers.": {
+    "id": 141,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Furnish and install hydronic heating piping system.": {
+    "id": 142,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install hydronic system pumps.": {
+    "id": 143,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Furnish and install hydronic system valves including control, relief, butterfly, and triple duty types.": {
+    "id": 144,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install hydronic specialties including expansion tank, air vents, suction diffuser, and strainers.": {
+    "id": 145,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install differential pressure bypass valve assembly.": {
+    "id": 146,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install natural gas piping system for boilers, including gas train and regulators.": {
+    "id": 147,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install boiler flue venting through roof.": {
+    "id": 148,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Furnish and install water treatment system including chemical shot feeder and condensate neutralizing kit.": {
+    "id": 149,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install HVAC sheet metal ductwork system, including flexible duct": {
+    "id": 150,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install HVAC ductwork accessories including dampers and diffusers": {
+    "id": 151,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide and install hydronic piping system including PEX tubing": {
+    "id": 152,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install hydronic system valves": {
+    "id": 153,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide and install supply and return manifolds": {
+    "id": 154,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install flat plate brazed plate heat exchanger": {
+    "id": 155,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Provide and install air separator, glycol makeup unit, and expansion tank": {
+    "id": 156,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install HVAC insulation for pipes and ductwork": {
+    "id": 157,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install split-system HVAC units (Models PUY-AK36NL, PKA-AK36NL, PUY-AH24NL, PKA AK24NL, PUY-AK12NL, PEAD-AA12NL).": {
+    "id": 158,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install return air ductwork, including fittings and turning vanes.": {
+    "id": 159,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install plate and frame heat exchanger.": {
+    "id": 160,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install hydronic system accessories including expansion tank, air separator, and glycol feed unit.": {
+    "id": 161,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install inline hydronic pumps.": {
+    "id": 162,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Furnish and install hydronic piping for snow melt system.": {
+    "id": 163,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install fin tube radiation and coils.": {
+    "id": 164,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install hydronic system valves and strainers.": {
+    "id": 165,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install gas shut off valves.": {
+    "id": 166,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install hot water boiler(s) for the heating plant system.": {
+    "id": 167,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Furnish and install hot water distribution pumps.": {
+    "id": 168,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Install hydronic piping for the variable primary loop heating system.": {
+    "id": 169,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install control valves, including two-way differential pressure bypass and hot water bypass valves.": {
+    "id": 170,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide freeze protection system including continuous pump operation and boiler sequencing based on outdoor air temperature.": {
+    "id": 171,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install SZVAV Rooftop Units (RTU-L5 & RTU-LE) with variable speed compressors and DX cooling.": {
+    "id": 172,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install hydronic piping and hot water control valves for rooftop unit heating coils.": {
+    "id": 173,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Install economizer system with enthalpy controls and modulating outdoor air dampers.": {
+    "id": 174,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Install demand control ventilation (DCV) system with return air CO2 sensors.": {
+    "id": 175,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install relief air fan system with associated building pressure controls.": {
+    "id": 176,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Install differential pressure switches for HVAC filter status monitoring.": {
+    "id": 177,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install VAV Rooftop Unit (RTU-1.2.4) with variable and fixed speed compressors.": {
+    "id": 178,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install Variable Frequency Drive (VFD) for supply fan.": {
+    "id": 179,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install supply duct static pressure control system with sensors.": {
+    "id": 180,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install economizer with reference enthalpy control.": {
+    "id": 181,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install relief air fan with VFD and building pressure control system.": {
+    "id": 182,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide and install differential pressure switch for filter status monitoring.": {
+    "id": 183,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install VAV Rooftop Unit (RTU-3)": {
+    "id": 184,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install supply fan with Variable Frequency Drive (VFD) for duct static pressure control": {
+    "id": 185,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install relief air fan system with start/stop controls": {
+    "id": 186,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install economizer with modulating mixed and outdoor air dampers": {
+    "id": 187,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide and install variable speed and fixed speed compressors for staged DX cooling": {
+    "id": 188,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install hot water valve for heating coil control": {
+    "id": 189,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install DX coil frost protection thermostat": {
+    "id": 190,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide and install filter bank with differential pressure switch for status monitoring": {
+    "id": 191,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heater(s) as per sequence of operation.": {
+    "id": 192,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install exhaust fans (EF-2, 3, 4, 5) including start/stop controls.": {
+    "id": 193,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install supply fan system including operational controls.": {
+    "id": 194,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install hot water control valves for HVAC units.": {
+    "id": 195,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install differential pressure switches for fan status monitoring and alarm annunciation.": {
+    "id": 196,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop air-conditioning unit with variable speed compressor and supply fan.": {
+    "id": 197,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install energy recovery wheel with associated outside air and relief air bypass dampers.": {
+    "id": 198,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install dehumidification system with hot gas reheat valve.": {
+    "id": 199,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install hot water control valve for heating system.": {
+    "id": 200,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install differential pressure switch for filter status monitoring.": {
+    "id": 201,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Perform testing, adjusting, and balancing (TAB) for the complete HVAC system.": {
+    "id": 202,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install DOAS-2 packaged rooftop unit with variable speed compressor and supply fan.": {
+    "id": 203,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide dehumidification system with hot gas reheat valve for DOAS-2 unit.": {
+    "id": 204,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide energy recovery wheel system with associated bypass dampers.": {
+    "id": 205,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide and install supply ductwork system with static pressure control.": {
+    "id": 206,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide and install VAV units and integrate with DOAS-2 for heating operation.": {
+    "id": 207,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install Fan Coil Units": {
+    "id": 208,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide and install refrigerant leak detection and mitigation system": {
+    "id": 209,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install HVAC system compressors": {
+    "id": 210,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide and install mechanical ventilation system including supply fans": {
+    "id": 211,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install VAV (Variable Air Volume) terminal units.": {
+    "id": 212,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Program VAV controllers for cooling mode, demand control ventilation, and occupied/unoccupied modes.": {
+    "id": 213,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install VAV terminal units with modulating dampers.": {
+    "id": 214,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install hot water reheat coils for VAV terminal units.": {
+    "id": 215,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install hydronic piping for hot water reheat system.": {
+    "id": 216,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Program demand control ventilation sequence for occupied and unoccupied modes.": {
+    "id": 217,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install split system air conditioning units (AC-1, 2, & 3) and associated condensing units (CU-1, 2, & 3).": {
+    "id": 218,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install Make-Up Air unit (MAU-1) with an integral gas heat exchanger.": {
+    "id": 219,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Furnish and install kitchen exhaust fan (EF-1).": {
+    "id": 220,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt heat transfer package (HTP-1).": {
+    "id": 221,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system pump.": {
+    "id": 222,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Provide and install glycol solution for the snowmelt system hydronic loop.": {
+    "id": 223,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install Hydronic Variable Air Volume (VAV) boxes with re-heat coils.": {
+    "id": 224,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install Roof Top Units (RTUs).": {
+    "id": 225,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install natural gas condensing boilers.": {
+    "id": 226,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Furnish and install hydronic pumps.": {
+    "id": 227,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Furnish and install various heating units including Fan Coil Units, Unit Heaters, and Cabinet Heaters.": {
+    "id": 228,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install finned tube radiation.": {
+    "id": 229,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install below roof hydronic heating coils.": {
+    "id": 230,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Install HVAC ductwork and casings.": {
+    "id": 231,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install a complete Direct-Digital Control (DDC) system for HVAC.": {
+    "id": 232,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Install hydronic piping system for heating and cooling.": {
+    "id": 233,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide and install insulation for HVAC piping and ductwork.": {
+    "id": 234,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Provide and install hangers and supports for HVAC piping and equipment.": {
+    "id": 235,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Perform commissioning of the HVAC system.": {
+    "id": 236,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ]
+    ]
+  },
+  "Install facility natural-gas piping system.": {
+    "id": 237,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install air terminal units, diffusers, grilles, and registers.": {
+    "id": 238,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install small-capacity split-system air conditioners.": {
+    "id": 239,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide identification labels and tags for HVAC piping and equipment.": {
+    "id": 240,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install fire/smoke dampers": {
+    "id": 241,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heaters (CUH.5)": {
+    "id": 242,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install mechanical equipment (CUIM.7)": {
+    "id": 243,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install Air Conditioning unit (AC-1)": {
+    "id": 244,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install Unit Heater (UHS)": {
+    "id": 245,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install fire/smoke damper in ductwork": {
+    "id": 246,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install HVAC air outlets and inlets (vents/diffusers)": {
+    "id": 247,
+    "sheets": [
+      [
+        "Level 02 Overall Power",
+        "E-502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install Fan Coil Unit (FCU-1).": {
+    "id": 248,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install fire/smoke damper.": {
+    "id": 249,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ],
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install rooftop unit (RTU-1).": {
+    "id": 250,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install exhaust fans (EF-1, EF-2, EF-4).": {
+    "id": 251,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install condensing units (CU.2, CUL5).": {
+    "id": 252,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install Dedicated Outdoor Air System (DOAS).": {
+    "id": 253,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide and install unit heaters (UH/EUH)": {
+    "id": 254,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide and install AC unit": {
+    "id": 255,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide complete HVAC system including all equipment, ductwork, and controls.": {
+    "id": 256,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heaters (CUH) and unit heaters (UH).": {
+    "id": 257,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install mechanical equipment including exhaust fan (EF-2), heat pump (HTP-1), and condensing unit (CU-3).": {
+    "id": 258,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install smoke dampeners for all specified areas.": {
+    "id": 259,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install HVAC equipment including EF-1, MAU-1, CUH-1, RTUs, and ERUs.": {
+    "id": 260,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop air-conditioning units (RTU-1, RTU-5)": {
+    "id": 261,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install Dedicated Outdoor Air System units (DOAS-1, DOAS-2)": {
+    "id": 262,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork systems and accessories": {
+    "id": 263,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide allowance for undefined mechanical scope.": {
+    "id": 264,
+    "sheets": [
+      [
+        "Level 01 Data Raceway",
+        "ET-501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide and install mechanical ventilation system for all toilet rooms.": {
+    "id": 265,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide and install HVAC system for public areas designed to maintain positive pressure.": {
+    "id": 266,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install overhead air curtains at exterior delivery doors.": {
+    "id": 267,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install exhaust fan for kitchen hood system": {
+    "id": 268,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install make-up air unit for kitchen hood system": {
+    "id": 269,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install exhaust ventilation system and hoods.": {
+    "id": 270,
+    "sheets": [
+      [
+        "Foodservice Special Conditions Layout",
+        "K103"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install exhaust fan": {
+    "id": 271,
+    "sheets": [
+      [
+        "Roof Top Layout",
+        "K104"
+      ],
+      [
+        "Exhaust Hood System Details",
+        "K505"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install kitchen exhaust hood, exhaust fan, and make-up air unit": {
+    "id": 272,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide natural gas piping and connections to foodservice equipment": {
+    "id": 273,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide and install HVAC system for the food service dry storage room to maintain a temperature of 68 to 72 degrees year-round.": {
+    "id": 274,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install kitchen exhaust hoods.": {
+    "id": 275,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide ventilation ductwork, fans, and final connections for foodservice equipment.": {
+    "id": 276,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install exhaust and supply fan system for kitchen hood": {
+    "id": 277,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install perforated supply plenums for hood": {
+    "id": 278,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Perform testing, adjusting, and balancing (TAB) for the kitchen hood mechanical system": {
+    "id": 279,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Install exhaust riser ductwork.": {
+    "id": 280,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Install supply riser ductwork with volume damper.": {
+    "id": 281,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Install facility natural gas piping.": {
+    "id": 282,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install solenoid electric gas valve for fire system integration.": {
+    "id": 283,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install duct fire thermostat with 12-foot wire leads.": {
+    "id": 284,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install grease exhaust fan unit EADU85H.": {
+    "id": 285,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install gas-fired make-up air unit EA1-D.250-15D.": {
+    "id": 286,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide and install grease ductwork between exhaust riser on hood and fan.": {
+    "id": 287,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install grease box and grease drain for exhaust system.": {
+    "id": 288,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install motorized backdraft damper for AI-D housing.": {
+    "id": 289,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish direct gas-fired heated make-up air unit with 15' mixed flow direct drive fan.": {
+    "id": 290,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install supply ductwork meeting SMACNA and AMCA standards.": {
+    "id": 291,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install 16' x 18' motorized back draft damper.": {
+    "id": 292,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide exterior gas piping connection to make-up air unit.": {
+    "id": 293,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install gas pressure gauges for mechanical system.": {
+    "id": 294,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ]
+    ]
+  },
+  "Furnish and install exhaust hood.": {
+    "id": 295,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install exhaust fan for Demand Control Ventilation system.": {
+    "id": 296,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide and install ductwork for exhaust system.": {
+    "id": 297,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install exhaust and make-up air fans for the kitchen ventilation system.": {
+    "id": 298,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install Variable Frequency Drives (VFDs) for exhaust and supply fans.": {
+    "id": 299,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide and install stainless steel duct temperature sensors and room temperature sensors.": {
+    "id": 300,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  }
+}

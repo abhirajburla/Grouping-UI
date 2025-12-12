@@ -16,6 +16,7 @@
             <div class="nav-section">
                 <h3 id="navScopes" class="nav-item clickable">Scopes</h3>
                 <div id="navGroupingMapping" class="nav-item clickable" style="margin-left: 10px; margin-top: 5px; font-size: 12px; color: #94a3b8;">Grouping to Spec Mapping</div>
+                <h3 id="navGrpsMep" class="nav-item clickable" style="margin-top: 20px;">GRPS MEP</h3>
             </div>
         </div>
     </div>
@@ -131,10 +132,32 @@
                     <!-- Package mapping tables will be populated here -->
                 </div>
             </div>
+            
+            <!-- GRPS MEP View -->
+            <div class="grps-mep-panel" id="grpsMepPanel" style="display: none;">
+                <div class="panel-header">
+                    <h2>GRPS MEP</h2>
+                    <button class="btn-export" id="exportGrpsExcel">Export Excel</button>
+                </div>
+                <div class="grps-mep-tabs">
+                    <button class="grps-tab active" data-scope="electrical">Electrical</button>
+                    <button class="grps-tab" data-scope="mechanical">Mechanical</button>
+                    <button class="grps-tab" data-scope="plumbing">Plumbing</button>
+                </div>
+                <div class="grps-toggle-buttons">
+                    <button class="grps-toggle-btn active" data-type="bid-items">Bid Items</button>
+                    <button class="grps-toggle-btn" data-type="contract-items">Contract Items</button>
+                    <button class="grps-toggle-btn" data-type="scope-items">Scope Items</button>
+                </div>
+                <div class="grps-mep-content" id="grpsMepContent">
+                    <!-- GRPS MEP tables will be populated here -->
+                </div>
+            </div>
         </div>
     </div>
 
     <script src="app.js"></script>
+    <script src="grps-mep.js"></script>
 </body>
 </html>
 

@@ -1,0 +1,420 @@
+{
+    "Plumbing Demolition": {
+      "scope_item_id": 1,
+      "combined_from": [
+        9,
+        11
+      ]
+    },
+    "Water Service & Entry": {
+      "scope_item_id": 2,
+      "combined_from": [
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        155,
+        173
+      ]
+    },
+    "Domestic Water Piping - Rough-in": {
+      "scope_item_id": 3,
+      "combined_from": [
+        3,
+        8,
+        25,
+        35,
+        84,
+        88,
+        108,
+        111,
+        112,
+        113,
+        117,
+        120,
+        126,
+        132
+      ]
+    },
+    "Domestic Water Piping - Distribution A": {
+      "scope_item_id": 4,
+      "combined_from": [
+        134,
+        135,
+        136,
+        140,
+        147,
+        150,
+        151,
+        159
+      ]
+    },
+    "Domestic Water Piping - Distribution B": {
+      "scope_item_id": 5,
+      "combined_from": [
+        160,
+        179,
+        185,
+        189,
+        190,
+        195,
+        210,
+        240
+      ]
+    },
+    "Sanitary & Vent Piping - Mains": {
+      "scope_item_id": 6,
+      "combined_from": [
+        89,
+        92,
+        99,
+        100,
+        105,
+        116,
+        127,
+        128,
+        133,
+        137
+      ]
+    },
+    "Sanitary & Vent Piping - Risers": {
+      "scope_item_id": 7,
+      "combined_from": [
+        29,
+        33,
+        94,
+        96,
+        101,
+        106,
+        157,
+        158,
+        167,
+        180,
+        181,
+        186,
+        191,
+        196,
+        211
+      ]
+    },
+    "Storm Drainage Piping": {
+      "scope_item_id": 8,
+      "combined_from": [
+        18,
+        45,
+        90,
+        93,
+        95,
+        102,
+        121,
+        124,
+        141,
+        161,
+        164,
+        175
+      ]
+    },
+    "Roof Drains": {
+      "scope_item_id": 9,
+      "combined_from": [
+        21,
+        22,
+        43,
+        44,
+        146
+      ]
+    },
+    "Gas Piping": {
+      "scope_item_id": 10,
+      "combined_from": [
+        85,
+        107,
+        143,
+        144,
+        152,
+        153,
+        154,
+        174,
+        202,
+        205,
+        227,
+        250,
+        258,
+        259,
+        260
+      ]
+    },
+    "Water Closets & Urinals": {
+      "scope_item_id": 11,
+      "combined_from": [
+        4,
+        48,
+        49,
+        176,
+        184,
+        198,
+        238
+      ]
+    },
+    "Lavatories": {
+      "scope_item_id": 12,
+      "combined_from": [
+        5,
+        50,
+        177,
+        192
+      ]
+    },
+    "Service & Mop Sinks": {
+      "scope_item_id": 13,
+      "combined_from": [
+        7,
+        62,
+        65,
+        75,
+        76,
+        178
+      ]
+    },
+    "General Sinks": {
+      "scope_item_id": 14,
+      "combined_from": [
+        58,
+        60,
+        63,
+        68,
+        71,
+        77,
+        78,
+        79,
+        80,
+        81
+      ]
+    },
+    "Drinking Fountains & Water Coolers": {
+      "scope_item_id": 15,
+      "combined_from": [
+        2,
+        6,
+        28,
+        52,
+        54,
+        56,
+        64,
+        67,
+        69,
+        234,
+        235
+      ]
+    },
+    "Showers": {
+      "scope_item_id": 16,
+      "combined_from": [
+        51,
+        83,
+        187
+      ]
+    },
+    "General Plumbing Fixtures - Level 1": {
+      "scope_item_id": 17,
+      "combined_from": [
+        1,
+        26,
+        27,
+        30,
+        31,
+        32,
+        46
+      ]
+    },
+    "General Plumbing Fixtures - Level 2": {
+      "scope_item_id": 18,
+      "combined_from": [
+        34,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        131,
+        142
+      ]
+    },
+    "General Plumbing Fixtures - Misc": {
+      "scope_item_id": 19,
+      "combined_from": [
+        162,
+        170,
+        197,
+        209,
+        231,
+        232,
+        239,
+        241
+      ]
+    },
+    "Floor Drains": {
+      "scope_item_id": 20,
+      "combined_from": [
+        23,
+        57,
+        59,
+        61,
+        87,
+        182,
+        199
+      ]
+    },
+    "Cleanouts": {
+      "scope_item_id": 21,
+      "combined_from": [
+        74,
+        97,
+        103,
+        109,
+        110,
+        119,
+        123,
+        163,
+        172,
+        183,
+        188,
+        193
+      ]
+    },
+    "Hydrants & Hose Bibbs": {
+      "scope_item_id": 22,
+      "combined_from": [
+        24,
+        118,
+        122,
+        129,
+        145
+      ]
+    },
+    "Plumbing Equipment": {
+      "scope_item_id": 23,
+      "combined_from": [
+        104,
+        149,
+        168,
+        169,
+        194,
+        201,
+        203,
+        225,
+        226,
+        237
+      ]
+    },
+    "Sump Pumps": {
+      "scope_item_id": 24,
+      "combined_from": [
+        17,
+        55,
+        98,
+        130,
+        139,
+        156,
+        166,
+        200,
+        206,
+        212,
+        213,
+        230,
+        236
+      ]
+    },
+    "Condensate & HVAC Plumbing": {
+      "scope_item_id": 25,
+      "combined_from": [
+        138,
+        204,
+        207,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221
+      ]
+    },
+    "Hydronic Piping": {
+      "scope_item_id": 26,
+      "combined_from": [
+        222,
+        223,
+        224,
+        228,
+        229
+      ]
+    },
+    "Foodservice Fixtures": {
+      "scope_item_id": 27,
+      "combined_from": [
+        242,
+        246,
+        247,
+        251,
+        257,
+        261
+      ]
+    },
+    "Foodservice Rough-in": {
+      "scope_item_id": 28,
+      "combined_from": [
+        243,
+        244,
+        245,
+        248,
+        249,
+        252,
+        253,
+        254,
+        255,
+        256,
+        262
+      ]
+    },
+    "Plumbing Insulation": {
+      "scope_item_id": 29,
+      "combined_from": [
+        47,
+        53,
+        73,
+        82,
+        114
+      ]
+    },
+    "Supports & Identification": {
+      "scope_item_id": 30,
+      "combined_from": [
+        19,
+        20,
+        70,
+        91,
+        115,
+        233
+      ]
+    },
+    "Faucets & Trim": {
+      "scope_item_id": 31,
+      "combined_from": [
+        72,
+        86
+      ]
+    },
+    "Commissioning & Allowances": {
+      "scope_item_id": 32,
+      "combined_from": [
+        125,
+        165,
+        208
+      ]
+    }
+  }

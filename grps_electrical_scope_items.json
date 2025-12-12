@@ -1,0 +1,450 @@
+{
+    "Electrical Demolition": {
+      "scope_item_id": 1,
+      "combined_from": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "Site Electrical & Utilities": {
+      "scope_item_id": 2,
+      "combined_from": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        36,
+        37,
+        48,
+        144,
+        145,
+        147,
+        197,
+        211
+      ]
+    },
+    "Building Electrical Systems": {
+      "scope_item_id": 3,
+      "combined_from": [
+        1,
+        2,
+        14,
+        16,
+        17,
+        18,
+        19,
+        21,
+        38,
+        43,
+        45
+      ]
+    },
+    "Plumbing & HVAC Electrical Support": {
+      "scope_item_id": 4,
+      "combined_from": [
+        67,
+        68,
+        69,
+        70,
+        85
+      ]
+    },
+    "Interior Lighting Fixtures": {
+      "scope_item_id": 5,
+      "combined_from": [
+        15,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        31,
+        34,
+        35,
+        40,
+        59,
+        62
+      ]
+    },
+    "General Lighting Systems": {
+      "scope_item_id": 6,
+      "combined_from": [
+        98,
+        114,
+        152,
+        162,
+        196,
+        205,
+        215,
+        221,
+        228,
+        230,
+        307
+      ]
+    },
+    "Specialty Lighting (Cabinet/Food/Hood)": {
+      "scope_item_id": 7,
+      "combined_from": [
+        49,
+        60,
+        248,
+        249,
+        255,
+        268,
+        269,
+        272,
+        274
+      ]
+    },
+    "Lighting Controls": {
+      "scope_item_id": 8,
+      "combined_from": [
+        101,
+        151,
+        155,
+        160,
+        163,
+        164,
+        181,
+        200,
+        203,
+        204,
+        267,
+        273
+      ]
+    },
+    "Emergency & Exterior Lighting": {
+      "scope_item_id": 9,
+      "combined_from": [
+        92,
+        103,
+        142,
+        149,
+        150,
+        153,
+        154,
+        158,
+        159,
+        165,
+        166,
+        217,
+        222,
+        231
+      ]
+    },
+    "Power Distribution Equipment": {
+      "scope_item_id": 10,
+      "combined_from": [
+        20,
+        91,
+        99,
+        112,
+        146,
+        156,
+        161,
+        189,
+        191,
+        192,
+        193,
+        195,
+        212,
+        213,
+        218
+      ]
+    },
+    "Additional Panelboards": {
+      "scope_item_id": 11,
+      "combined_from": [
+        224,
+        284,
+        290,
+        296,
+        305
+      ]
+    },
+    "Disconnects, Fuses & Surge Protection": {
+      "scope_item_id": 12,
+      "combined_from": [
+        100,
+        105,
+        108,
+        129,
+        131,
+        219,
+        220,
+        225,
+        229,
+        259,
+        280
+      ]
+    },
+    "Floor Boxes": {
+      "scope_item_id": 13,
+      "combined_from": [
+        52,
+        53,
+        55,
+        56,
+        57,
+        202
+      ]
+    },
+    "Wiring Devices - General": {
+      "scope_item_id": 14,
+      "combined_from": [
+        102,
+        139,
+        140,
+        148,
+        173,
+        180,
+        201,
+        223,
+        226,
+        242,
+        299
+      ]
+    },
+    "Equipment Power Connections": {
+      "scope_item_id": 15,
+      "combined_from": [
+        33,
+        39,
+        42,
+        44,
+        46,
+        47,
+        50,
+        58,
+        61,
+        63,
+        64,
+        65
+      ]
+    },
+    "Specialty Power Connections": {
+      "scope_item_id": 16,
+      "combined_from": [
+        186,
+        187,
+        240,
+        244,
+        263,
+        264,
+        288
+      ]
+    },
+    "Conduit & Raceways": {
+      "scope_item_id": 17,
+      "combined_from": [
+        27,
+        51,
+        54,
+        97,
+        104,
+        106,
+        113,
+        119,
+        134,
+        135,
+        143,
+        157,
+        179
+      ]
+    },
+    "Conductors & Wiring": {
+      "scope_item_id": 18,
+      "combined_from": [
+        136,
+        137,
+        138,
+        194,
+        209,
+        210,
+        214,
+        216,
+        283,
+        293,
+        303
+      ]
+    },
+    "Boxes & Rough-in": {
+      "scope_item_id": 19,
+      "combined_from": [
+        207,
+        208,
+        232,
+        270,
+        294,
+        300,
+        301,
+        302
+      ]
+    },
+    "Fire Alarm & Life Safety": {
+      "scope_item_id": 20,
+      "combined_from": [
+        29,
+        30,
+        32,
+        66,
+        75,
+        76,
+        82,
+        133,
+        276,
+        289
+      ]
+    },
+    "Generators & Emergency Power": {
+      "scope_item_id": 21,
+      "combined_from": [
+        73,
+        89,
+        90,
+        206,
+        306
+      ]
+    },
+    "HVAC Electrical Connections (Power)": {
+      "scope_item_id": 22,
+      "combined_from": [
+        83,
+        86,
+        109,
+        110,
+        115,
+        125,
+        130,
+        174,
+        176,
+        182,
+        190,
+        278,
+        281,
+        282
+      ]
+    },
+    "HVAC Controls & VFDs": {
+      "scope_item_id": 23,
+      "combined_from": [
+        84,
+        87,
+        94,
+        111,
+        117,
+        118,
+        121,
+        122,
+        124,
+        126,
+        128,
+        132,
+        178,
+        185,
+        279
+      ]
+    },
+    "Boiler & Mechanical Safety": {
+      "scope_item_id": 24,
+      "combined_from": [
+        71,
+        72,
+        78,
+        88,
+        116,
+        123,
+        127,
+        198
+      ]
+    },
+    "Plumbing Electrical Connections": {
+      "scope_item_id": 25,
+      "combined_from": [
+        74,
+        77,
+        79,
+        80,
+        81
+      ]
+    },
+    "Technology & AV Infrastructure": {
+      "scope_item_id": 26,
+      "combined_from": [
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        241,
+        243,
+        245,
+        246,
+        247
+      ]
+    },
+    "AV & Equipment Mounts": {
+      "scope_item_id": 27,
+      "combined_from": [
+        168,
+        169,
+        170,
+        172,
+        177,
+        183,
+        184
+      ]
+    },
+    "Food Service Electrical (Rough-in & Connections)": {
+      "scope_item_id": 28,
+      "combined_from": [
+        250,
+        251,
+        252,
+        253,
+        254,
+        256,
+        257,
+        258,
+        260,
+        261,
+        262,
+        265,
+        266,
+        271,
+        275
+      ]
+    },
+    "Kitchen Hood Electrical": {
+      "scope_item_id": 29,
+      "combined_from": [
+        199,
+        277,
+        285,
+        286,
+        287,
+        291,
+        292,
+        295,
+        297,
+        298
+      ]
+    },
+    "Elevator & Kiln Connections": {
+      "scope_item_id": 30,
+      "combined_from": [
+        41,
+        167,
+        227,
+        175
+      ]
+    }
+  }

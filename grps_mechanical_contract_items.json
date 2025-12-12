@@ -1,0 +1,5624 @@
+```json
+{
+  "Contractor shall furnish and install the HVAC system, including the boiler and pressure vessels, in accordance with the Contract Documents.": {
+    "id": 1,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Provide HVAC ductwork through corridors constructed of .019\" thick metal, in strict accordance with the Contract Documents.": {
+    "id": 2,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical systems and equipment as detailed in the Contract Documents.": {
+    "id": 3,
+    "sheets": [
+      [
+        "Code Plan Level 01 Overall Floor Plan",
+        "CP101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install the proposed gas service connection and associated piping in accordance with the Contract Documents.": {
+    "id": 4,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install architectural or landscape screening for exterior mechanical equipment as specified in the Contract Documents.": {
+    "id": 5,
+    "sheets": [
+      [
+        "Overall Orientation Plan",
+        "L0.0"
+      ]
+    ],
+    "specs": [
+      [
+        "32 35 00",
+        "Site Screening Devices"
+      ]
+    ]
+  },
+  "Provide architectural screening for exterior mechanical equipment and utility meter banks in accordance with the Contract Documents.": {
+    "id": 6,
+    "sheets": [
+      [
+        "Enlarged Layout Plan",
+        "L1.2"
+      ]
+    ],
+    "specs": [
+      [
+        "32 35 00",
+        "Site Screening Devices"
+      ]
+    ]
+  },
+  "Contractor shall provide reinforcement for roof openings measuring less than 13\" using 16 gauge sheet metal, as required by the Contract Documents.": {
+    "id": 7,
+    "sheets": [
+      [
+        "Typical Details",
+        "S0.4"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install packaged rooftop unit (RTU-2) in accordance with the Contract Documents.": {
+    "id": 8,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'b'",
+        "S3.2"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC ductwork systems as specified in the Contract Documents.": {
+    "id": 9,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'b'",
+        "S3.2"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide packaged rooftop air-conditioning units (RTUs) in strict accordance with the Contract Documents.": {
+    "id": 10,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'c'",
+        "S3.3"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall provide coordination for structural openings, weights, and locations for mechanical equipment as required by the Contract Documents.": {
+    "id": 11,
+    "sheets": [
+      [
+        "Bridge Foundation And Framing Plans",
+        "S4.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install radiant heating system for 4\" heated concrete topping slab in accordance with the Contract Documents.": {
+    "id": 12,
+    "sheets": [
+      [
+        "Foundation Sections",
+        "S6.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install the boiler as specified in the Contract Documents.": {
+    "id": 13,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Provide mechanical ductwork for heating and ventilation systems in accordance with the Contract Documents.": {
+    "id": 14,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical piping for heating systems, including steam, risers, and returns, as detailed in the Contract Documents.": {
+    "id": 15,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install radiators and registers in accordance with the Contract Documents.": {
+    "id": 16,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC systems, including ductwork and equipment for general building areas, as specified in the Contract Documents.": {
+    "id": 17,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide kitchen exhaust and make-up air system in strict accordance with the Contract Documents.": {
+    "id": 18,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide specialty high-temperature exhaust system for the Kiln room as required by the Contract Documents.": {
+    "id": 19,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install complete mechanical HVAC system per the drawings and Contract Documents.": {
+    "id": 20,
+    "sheets": [
+      [
+        "Level 01 Area A Floor Plan",
+        "A101A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install mechanical HVAC systems in accordance with the Contract Documents.": {
+    "id": 21,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan",
+        "A101C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide a complete Mechanical (HVAC) system as specified in the Contract Documents.": {
+    "id": 22,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan Dimensions",
+        "A101C.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide HVAC system and equipment as detailed in the Contract Documents.": {
+    "id": 23,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan",
+        "A102A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install mechanical systems and equipment for MECH room 200 in accordance with the Contract Documents.": {
+    "id": 24,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan Dimensions",
+        "A102A.1"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install mechanical grilles and diffusers as specified in the Contract Documents.": {
+    "id": 25,
+    "sheets": [
+      [
+        "Overall Level 01 Reflected Ceiling Plan",
+        "A110"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide ductwork in areas with exposed structure ceilings in strict accordance with the Contract Documents.": {
+    "id": 26,
+    "sheets": [
+      [
+        "Overall Level 01 Reflected Ceiling Plan",
+        "A110"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical grilles and diffusers as required by the Contract Documents.": {
+    "id": 27,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install ductwork in exposed ceiling areas in accordance with the Contract Documents.": {
+    "id": 28,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC ductwork, coordinated with structure and other trades, as specified in the Contract Documents.": {
+    "id": 29,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide mechanical grilles and diffusers in strict accordance with the Contract Documents.": {
+    "id": 30,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ],
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide HVAC ductwork as detailed in the Contract Documents.": {
+    "id": 31,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ],
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ],
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install air distribution devices, including mechanical grilles and diffusers, in accordance with the Contract Documents.": {
+    "id": 32,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install kitchen vent hood as specified in the Contract Documents.": {
+    "id": 33,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide mechanical grilles, registers, and diffusers in strict accordance with the Contract Documents.": {
+    "id": 34,
+    "sheets": [
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical grilles and diffusers, centered within ceiling grids, as required by the Contract Documents.": {
+    "id": 35,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork in areas with exposed structure ceilings in accordance with the Contract Documents.": {
+    "id": 36,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Rooftop Mechanical Equipment (RTU, EF, ERU, MAU) as specified in the Contract Documents.": {
+    "id": 37,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide Roof Penetrations, Sleeves, and Vents for Mechanical Systems in strict accordance with the Contract Documents.": {
+    "id": 38,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical exhaust/ventilator ductwork as detailed in the Contract Documents.": {
+    "id": 39,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install mechanical units in accordance with the Contract Documents.": {
+    "id": 40,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install a complete HVAC system, including equipment, ductwork, and controls, as specified in the Contract Documents.": {
+    "id": 41,
+    "sheets": [
+      [
+        "Building Sections",
+        "A300"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Provide a complete radiant heat system in strict accordance with the Contract Documents.": {
+    "id": 42,
+    "sheets": [
+      [
+        "Wall Sections",
+        "A312"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide hoistway and machine space ventilation system per code requirements and the Contract Documents.": {
+    "id": 43,
+    "sheets": [
+      [
+        "Enlarged Elevator Plan, Sections And Details",
+        "A710"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install a complete Mechanical/HVAC system in accordance with the Contract Documents.": {
+    "id": 44,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install identification for HVAC piping and equipment as specified in the Contract Documents.": {
+    "id": 45,
+    "sheets": [
+      [
+        "Signage Schedule And Details",
+        "A811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide HVAC grilles and diffusers in strict accordance with the Contract Documents.": {
+    "id": 46,
+    "sheets": [
+      [
+        "Level 01 Area A Finish Plan",
+        "AI101A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide HVAC grilles and diffusers as detailed in the Contract Documents.": {
+    "id": 47,
+    "sheets": [
+      [
+        "Level 01 Area C Finish Plan",
+        "AI101C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install grilles and diffusers in accordance with the Contract Documents.": {
+    "id": 48,
+    "sheets": [
+      [
+        "Level 02 Area A Finish Plan",
+        "AI102A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install a complete Mechanical / HVAC system as specified in the Contract Documents.": {
+    "id": 49,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ]
+    ]
+  },
+  "Provide complete Mechanical/HVAC systems for the project in strict accordance with the Contract Documents.": {
+    "id": 50,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide general mechanical scope of work as required by the Contract Documents.": {
+    "id": 51,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install Mechanical HVAC system in accordance with the Contract Documents.": {
+    "id": 52,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install concentric vent system for combustion and vent air as specified in the Contract Documents.": {
+    "id": 53,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide Exhaust Fan (EF-2) in strict accordance with the Contract Documents.": {
+    "id": 54,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide combustion air intake and exhaust vent system as detailed in the Contract Documents.": {
+    "id": 55,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install mechanical venting system for fuel-fired equipment, including concentric vent kit, in accordance with the Contract Documents.": {
+    "id": 56,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install combustion air intake system for fuel-fired equipment as specified in the Contract Documents.": {
+    "id": 57,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide galvanized sheet metal ductwork, minimum 26 gauge, in strict accordance with the Contract Documents.": {
+    "id": 58,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide balance dampers for each diffuser, grille, and branch duct as required by the Contract Documents.": {
+    "id": 59,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install vibration isolation at connections to motorized HVAC equipment in accordance with the Contract Documents.": {
+    "id": 60,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install low voltage control wiring for HVAC system as specified in the Contract Documents.": {
+    "id": 61,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Provide condensate drain piping with minimum 1% slope in strict accordance with the Contract Documents.": {
+    "id": 62,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide smoke detectors in ductwork as detailed in the Contract Documents.": {
+    "id": 63,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install HVAC ductwork for supply, return, and exhaust air systems in accordance with the Contract Documents.": {
+    "id": 64,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hangers and supports for HVAC ductwork as specified in the Contract Documents.": {
+    "id": 65,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide air outlets and inlets for HVAC systems in strict accordance with the Contract Documents.": {
+    "id": 66,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide insulation on HVAC ductwork as required by the Contract Documents.": {
+    "id": 67,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install testing, adjusting, and balancing (TAB) services for the HVAC system in accordance with the Contract Documents.": {
+    "id": 68,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install packaged rooftop air-conditioning unit (RTU-5) as specified in the Contract Documents.": {
+    "id": 69,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide cabinet unit heater (CUH-3) in strict accordance with the Contract Documents.": {
+    "id": 70,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide VAV terminal unit (VAV-1-4) as detailed in the Contract Documents.": {
+    "id": 71,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install HVAC supply, return, and exhaust ductwork in accordance with the Contract Documents.": {
+    "id": 72,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install air outlets and inlets, including grilles, as specified in the Contract Documents.": {
+    "id": 73,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide new thermostat and associated controls in strict accordance with the Contract Documents.": {
+    "id": 74,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide testing, adjusting, and balancing (TAB) for new HVAC system as required by the Contract Documents.": {
+    "id": 75,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install Supply Air (SA) ductwork in accordance with the Contract Documents.": {
+    "id": 76,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Return Air (RA) ductwork as specified in the Contract Documents.": {
+    "id": 77,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide Exhaust Air (EA) ductwork in strict accordance with the Contract Documents.": {
+    "id": 78,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide Variable Air Volume (VAV) boxes as detailed in the Contract Documents.": {
+    "id": 79,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install air devices including supply diffusers and grilles in accordance with the Contract Documents.": {
+    "id": 80,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install new thermostats and associated controls as specified in the Contract Documents.": {
+    "id": 81,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Provide Testing, Adjusting, and Balancing (TAB) for the complete HVAC system in strict accordance with the Contract Documents.": {
+    "id": 82,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide insulation for HVAC ductwork and equipment as required by the Contract Documents.": {
+    "id": 83,
+    "sheets": [
+      [
+        "Level 01 Hvac Area B",
+        "M-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted air conditioning units in accordance with the Contract Documents.": {
+    "id": 84,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Blue Diamond mini-condensate pumps for wall-mounted AC units as specified in the Contract Documents.": {
+    "id": 85,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide suspended unit heater in strict accordance with the Contract Documents.": {
+    "id": 86,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ],
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Contractor shall provide Skutt EnviroVent2 exhaust system for kiln as detailed in the Contract Documents.": {
+    "id": 87,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install supply, return, and exhaust air ductwork in accordance with the Contract Documents.": {
+    "id": 88,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ],
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ],
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install 4\" dryer vent routed through the roof as specified in the Contract Documents.": {
+    "id": 89,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide new thermostat in strict accordance with the Contract Documents.": {
+    "id": 90,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide wall mounted air conditioning unit as detailed in the Contract Documents.": {
+    "id": 91,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install fan coil unit in accordance with the Contract Documents.": {
+    "id": 92,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install mini-condensate pumps for mechanical units as specified in the Contract Documents.": {
+    "id": 93,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide refrigerant and condensate piping from indoor units to roof in strict accordance with the Contract Documents.": {
+    "id": 94,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide Variable Air Volume (VAV) boxes as required by the Contract Documents.": {
+    "id": 95,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ],
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Furnish and install hangers and supports for suspended mechanical equipment in accordance with the Contract Documents.": {
+    "id": 96,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Rooftop Unit (RTU-3) as specified in the Contract Documents.": {
+    "id": 97,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide new thermostats in strict accordance with the Contract Documents.": {
+    "id": 98,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide air outlets and inlets including diffusers, grilles, and registers as detailed in the Contract Documents.": {
+    "id": 99,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install testing, adjusting, and balancing (TAB) for the HVAC system in accordance with the Contract Documents.": {
+    "id": 100,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install rooftop unit (RTU) as specified in the Contract Documents.": {
+    "id": 101,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide Dedicated Outdoor Air System (DOAS) unit in strict accordance with the Contract Documents.": {
+    "id": 102,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Contractor shall provide condensing unit as detailed in the Contract Documents.": {
+    "id": 103,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Furnish and install facility natural gas piping in accordance with the Contract Documents.": {
+    "id": 104,
+    "sheets": [
+      [
+        "Level 03 Hvac Roof",
+        "M-403"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install fin tube radiation units (FT-1, FT-2) as specified in the Contract Documents.": {
+    "id": 105,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide manufacturer caps on open ends of fin tube enclosures in strict accordance with the Contract Documents.": {
+    "id": 106,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide 2 1/2\" hydronic heating piping (HS/HR) as required by the Contract Documents.": {
+    "id": 107,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system manifold and associated 2\" HSHR piping in accordance with the Contract Documents.": {
+    "id": 108,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install cabinet unit heater (CUH3) as specified in the Contract Documents.": {
+    "id": 109,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide Variable Air Volume (VAV) unit (VAV-1.7) in strict accordance with the Contract Documents.": {
+    "id": 110,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Contractor shall provide hydronic heating piping, including supply (HS) and return (HR) lines, as detailed in the Contract Documents.": {
+    "id": 111,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Furnish and install Variable Air Volume (VAV) terminal units in accordance with the Contract Documents.": {
+    "id": 112,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install fin tube convection heating units (FT-1, FT-3, FT-4) as specified in the Contract Documents.": {
+    "id": 113,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide snowmelt system manifold and associated piping in strict accordance with the Contract Documents.": {
+    "id": 114,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide manufacturer-specific end caps and trim pieces for fin tube enclosures as required by the Contract Documents.": {
+    "id": 115,
+    "sheets": [
+      [
+        "Level 01 Piping Area B",
+        "M-601B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install rooftop condensing unit in accordance with the Contract Documents.": {
+    "id": 116,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install refrigerant piping from interior unit to rooftop condensing unit as specified in the Contract Documents.": {
+    "id": 117,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Provide hydronic supply and return piping (HS/HR) in strict accordance with the Contract Documents.": {
+    "id": 118,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical equipment units FT-1 and FT-5 as detailed in the Contract Documents.": {
+    "id": 119,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install fin tube radiation units in accordance with the Contract Documents.": {
+    "id": 120,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic heating piping (HS/HR) as specified in the Contract Documents.": {
+    "id": 121,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide VAV box VAV-1-17 in strict accordance with the Contract Documents.": {
+    "id": 122,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Contractor shall provide refrigerant piping from unit up through roof as required by the Contract Documents.": {
+    "id": 123,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ]
+    ]
+  },
+  "Furnish and install mini-condensate pump in accordance with the Contract Documents.": {
+    "id": 124,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install control valves for fin tube units as specified in the Contract Documents.": {
+    "id": 125,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide manufacturer trim pieces for fin tube enclosures in strict accordance with the Contract Documents.": {
+    "id": 126,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide manufacturer end caps for fin tube enclosures as detailed in the Contract Documents.": {
+    "id": 127,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install 3\" hydronic supply (HS) piping in accordance with the Contract Documents.": {
+    "id": 128,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install 2 1/2\" hydronic return (HR) piping as specified in the Contract Documents.": {
+    "id": 129,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide 3/4\" hydronic supply (HS) and return (HR) piping to fin tube units in strict accordance with the Contract Documents.": {
+    "id": 130,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide fin tube unit FT-1 as detailed in the Contract Documents.": {
+    "id": 131,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heater CUH-1 in accordance with the Contract Documents.": {
+    "id": 132,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install VAV box VAV-3-1 as specified in the Contract Documents.": {
+    "id": 133,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Provide control valves and shutoff valves for fin tube units in strict accordance with the Contract Documents.": {
+    "id": 134,
+    "sheets": [
+      [
+        "Level 02 Piping Area B",
+        "M-602B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide snowmelt system tubing for Zone #1 (1088 SF) and Zone #2 (1629 SF) as required by the Contract Documents.": {
+    "id": 135,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system tubing for Alternate Area (300 SF) in accordance with the Contract Documents.": {
+    "id": 136,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install snowmelt manifolds as specified in the Contract Documents.": {
+    "id": 137,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide 10\" combustion air ducting through roof in strict accordance with the Contract Documents.": {
+    "id": 138,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide 12\" vent ducting through roof as detailed in the Contract Documents.": {
+    "id": 139,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted air conditioning unit with condensate pump in accordance with the Contract Documents.": {
+    "id": 140,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install condensing boilers as specified in the Contract Documents.": {
+    "id": 141,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Provide hydronic heating piping system in strict accordance with the Contract Documents.": {
+    "id": 142,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide hydronic system pumps as required by the Contract Documents.": {
+    "id": 143,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Furnish and install hydronic system valves including control, relief, butterfly, and triple duty types in accordance with the Contract Documents.": {
+    "id": 144,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic specialties including expansion tank, air vents, suction diffuser, and strainers as specified in the Contract Documents.": {
+    "id": 145,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide differential pressure bypass valve assembly in strict accordance with the Contract Documents.": {
+    "id": 146,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide natural gas piping system for boilers, including gas train and regulators, as detailed in the Contract Documents.": {
+    "id": 147,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install boiler flue venting through roof in accordance with the Contract Documents.": {
+    "id": 148,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install water treatment system including chemical shot feeder and condensate neutralizing kit as specified in the Contract Documents.": {
+    "id": 149,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide HVAC sheet metal ductwork system, including flexible duct, in strict accordance with the Contract Documents.": {
+    "id": 150,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide HVAC ductwork accessories including dampers and diffusers as required by the Contract Documents.": {
+    "id": 151,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Furnish and install hydronic piping system including PEX tubing in accordance with the Contract Documents.": {
+    "id": 152,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic system valves as specified in the Contract Documents.": {
+    "id": 153,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide supply and return manifolds in strict accordance with the Contract Documents.": {
+    "id": 154,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide flat plate brazed plate heat exchanger as detailed in the Contract Documents.": {
+    "id": 155,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install air separator, glycol makeup unit, and expansion tank in accordance with the Contract Documents.": {
+    "id": 156,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC insulation for pipes and ductwork as specified in the Contract Documents.": {
+    "id": 157,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Provide split-system HVAC units (Models PUY-AK36NL, PKA-AK36NL, PUY-AH24NL, PKA AK24NL, PUY-AK12NL, PEAD-AA12NL) in strict accordance with the Contract Documents.": {
+    "id": 158,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall provide return air ductwork, including fittings and turning vanes, as required by the Contract Documents.": {
+    "id": 159,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install plate and frame heat exchanger in accordance with the Contract Documents.": {
+    "id": 160,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic system accessories including expansion tank, air separator, and glycol feed unit as specified in the Contract Documents.": {
+    "id": 161,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide inline hydronic pumps in strict accordance with the Contract Documents.": {
+    "id": 162,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Contractor shall provide hydronic piping for snow melt system as detailed in the Contract Documents.": {
+    "id": 163,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install fin tube radiation and coils in accordance with the Contract Documents.": {
+    "id": 164,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic system valves and strainers as specified in the Contract Documents.": {
+    "id": 165,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide gas shut off valves in strict accordance with the Contract Documents.": {
+    "id": 166,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide hot water boiler(s) for the heating plant system as required by the Contract Documents.": {
+    "id": 167,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Furnish and install hot water distribution pumps in accordance with the Contract Documents.": {
+    "id": 168,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic piping for the variable primary loop heating system as specified in the Contract Documents.": {
+    "id": 169,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide control valves, including two-way differential pressure bypass and hot water bypass valves, in strict accordance with the Contract Documents.": {
+    "id": 170,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide freeze protection system including continuous pump operation and boiler sequencing based on outdoor air temperature as detailed in the Contract Documents.": {
+    "id": 171,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install SZVAV Rooftop Units (RTU-L5 & RTU-LE) with variable speed compressors and DX cooling in accordance with the Contract Documents.": {
+    "id": 172,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic piping and hot water control valves for rooftop unit heating coils as specified in the Contract Documents.": {
+    "id": 173,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide economizer system with enthalpy controls and modulating outdoor air dampers in strict accordance with the Contract Documents.": {
+    "id": 174,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall provide demand control ventilation (DCV) system with return air CO2 sensors as required by the Contract Documents.": {
+    "id": 175,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install relief air fan system with associated building pressure controls in accordance with the Contract Documents.": {
+    "id": 176,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install differential pressure switches for HVAC filter status monitoring as specified in the Contract Documents.": {
+    "id": 177,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install VAV Rooftop Unit (RTU-1.2.4) with variable and fixed speed compressors in accordance with the Contract Documents.": {
+    "id": 178,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Variable Frequency Drive (VFD) for supply fan as specified in the Contract Documents.": {
+    "id": 179,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide supply duct static pressure control system with sensors in strict accordance with the Contract Documents.": {
+    "id": 180,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide economizer with reference enthalpy control as detailed in the Contract Documents.": {
+    "id": 181,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install relief air fan with VFD and building pressure control system in accordance with the Contract Documents.": {
+    "id": 182,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install differential pressure switch for filter status monitoring as specified in the Contract Documents.": {
+    "id": 183,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide VAV Rooftop Unit (RTU-3) in strict accordance with the Contract Documents.": {
+    "id": 184,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall provide supply fan with Variable Frequency Drive (VFD) for duct static pressure control as required by the Contract Documents.": {
+    "id": 185,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install relief air fan system with start/stop controls in accordance with the Contract Documents.": {
+    "id": 186,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install economizer with modulating mixed and outdoor air dampers as specified in the Contract Documents.": {
+    "id": 187,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide variable speed and fixed speed compressors for staged DX cooling in strict accordance with the Contract Documents.": {
+    "id": 188,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall provide hot water valve for heating coil control as detailed in the Contract Documents.": {
+    "id": 189,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install DX coil frost protection thermostat in accordance with the Contract Documents.": {
+    "id": 190,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install filter bank with differential pressure switch for status monitoring as specified in the Contract Documents.": {
+    "id": 191,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide cabinet unit heater(s) as per sequence of operation in strict accordance with the Contract Documents.": {
+    "id": 192,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide exhaust fans (EF-2, 3, 4, 5) including start/stop controls as required by the Contract Documents.": {
+    "id": 193,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install supply fan system including operational controls in accordance with the Contract Documents.": {
+    "id": 194,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hot water control valves for HVAC units as specified in the Contract Documents.": {
+    "id": 195,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide differential pressure switches for fan status monitoring and alarm annunciation in strict accordance with the Contract Documents.": {
+    "id": 196,
+    "sheets": [
+      [
+        "Mechanical Controls Cabinet Unit Heater Exhaust Fans",
+        "M-807"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide packaged rooftop air-conditioning unit with variable speed compressor and supply fan as detailed in the Contract Documents.": {
+    "id": 197,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install energy recovery wheel with associated outside air and relief air bypass dampers in accordance with the Contract Documents.": {
+    "id": 198,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install dehumidification system with hot gas reheat valve as specified in the Contract Documents.": {
+    "id": 199,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide hot water control valve for heating system in strict accordance with the Contract Documents.": {
+    "id": 200,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide differential pressure switch for filter status monitoring as required by the Contract Documents.": {
+    "id": 201,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install testing, adjusting, and balancing (TAB) for the complete HVAC system in accordance with the Contract Documents.": {
+    "id": 202,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ],
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install DOAS-2 packaged rooftop unit with variable speed compressor and supply fan as specified in the Contract Documents.": {
+    "id": 203,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Provide dehumidification system with hot gas reheat valve for DOAS-2 unit in strict accordance with the Contract Documents.": {
+    "id": 204,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall provide energy recovery wheel system with associated bypass dampers as detailed in the Contract Documents.": {
+    "id": 205,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Furnish and install supply ductwork system with static pressure control in accordance with the Contract Documents.": {
+    "id": 206,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install VAV units and integrate with DOAS-2 for heating operation as specified in the Contract Documents.": {
+    "id": 207,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Provide Fan Coil Units in strict accordance with the Contract Documents.": {
+    "id": 208,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide refrigerant leak detection and mitigation system as required by the Contract Documents.": {
+    "id": 209,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install HVAC system compressors in accordance with the Contract Documents.": {
+    "id": 210,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install mechanical ventilation system including supply fans as specified in the Contract Documents.": {
+    "id": 211,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide VAV (Variable Air Volume) terminal units in strict accordance with the Contract Documents.": {
+    "id": 212,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Contractor shall provide programming for VAV controllers for cooling mode, demand control ventilation, and occupied/unoccupied modes as detailed in the Contract Documents.": {
+    "id": 213,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install VAV terminal units with modulating dampers in accordance with the Contract Documents.": {
+    "id": 214,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hot water reheat coils for VAV terminal units as specified in the Contract Documents.": {
+    "id": 215,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide hydronic piping for hot water reheat system in strict accordance with the Contract Documents.": {
+    "id": 216,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Contractor shall provide programming for demand control ventilation sequence for occupied and unoccupied modes as required by the Contract Documents.": {
+    "id": 217,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install split system air conditioning units (AC-1, 2, & 3) and associated condensing units (CU-1, 2, & 3) in accordance with the Contract Documents.": {
+    "id": 218,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Make-Up Air unit (MAU-1) with an integral gas heat exchanger as specified in the Contract Documents.": {
+    "id": 219,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Provide kitchen exhaust fan (EF-1) in strict accordance with the Contract Documents.": {
+    "id": 220,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide snowmelt heat transfer package (HTP-1) as detailed in the Contract Documents.": {
+    "id": 221,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install snowmelt system pump in accordance with the Contract Documents.": {
+    "id": 222,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install glycol solution for the snowmelt system hydronic loop as specified in the Contract Documents.": {
+    "id": 223,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Provide Hydronic Variable Air Volume (VAV) boxes with re-heat coils in strict accordance with the Contract Documents.": {
+    "id": 224,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ]
+    ]
+  },
+  "Contractor shall provide Roof Top Units (RTUs) as required by the Contract Documents.": {
+    "id": 225,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install natural gas condensing boilers in accordance with the Contract Documents.": {
+    "id": 226,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hydronic pumps as specified in the Contract Documents.": {
+    "id": 227,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ]
+    ]
+  },
+  "Provide various heating units including Fan Coil Units, Unit Heaters, and Cabinet Heaters in strict accordance with the Contract Documents.": {
+    "id": 228,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide finned tube radiation as detailed in the Contract Documents.": {
+    "id": 229,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install below roof hydronic heating coils in accordance with the Contract Documents.": {
+    "id": 230,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC ductwork and casings as specified in the Contract Documents.": {
+    "id": 231,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide a complete Direct-Digital Control (DDC) system for HVAC in strict accordance with the Contract Documents.": {
+    "id": 232,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide hydronic piping system for heating and cooling as required by the Contract Documents.": {
+    "id": 233,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install insulation for HVAC piping and ductwork in accordance with the Contract Documents.": {
+    "id": 234,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install hangers and supports for HVAC piping and equipment as specified in the Contract Documents.": {
+    "id": 235,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide commissioning services for the HVAC system in strict accordance with the Contract Documents.": {
+    "id": 236,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide facility natural-gas piping system as detailed in the Contract Documents.": {
+    "id": 237,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install air terminal units, diffusers, grilles, and registers in accordance with the Contract Documents.": {
+    "id": 238,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install small-capacity split-system air conditioners as specified in the Contract Documents.": {
+    "id": 239,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide identification labels and tags for HVAC piping and equipment in strict accordance with the Contract Documents.": {
+    "id": 240,
+    "sheets": [
+      [
+        "Level 01 Overall Lighting",
+        "E-401"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Contractor shall provide fire/smoke dampers as required by the Contract Documents.": {
+    "id": 241,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install cabinet unit heaters (CUH.5) in accordance with the Contract Documents.": {
+    "id": 242,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install mechanical equipment (CUIM.7) as specified in the Contract Documents.": {
+    "id": 243,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Provide Air Conditioning unit (AC-1) in strict accordance with the Contract Documents.": {
+    "id": 244,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall provide Unit Heater (UHS) as detailed in the Contract Documents.": {
+    "id": 245,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install fire/smoke damper in ductwork in accordance with the Contract Documents.": {
+    "id": 246,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC air outlets and inlets (vents/diffusers) as specified in the Contract Documents.": {
+    "id": 247,
+    "sheets": [
+      [
+        "Level 02 Overall Power",
+        "E-502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide Fan Coil Unit (FCU-1) in strict accordance with the Contract Documents.": {
+    "id": 248,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide fire/smoke damper as required by the Contract Documents.": {
+    "id": 249,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ],
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install rooftop unit (RTU-1) in accordance with the Contract Documents.": {
+    "id": 250,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install exhaust fans (EF-1, EF-2, EF-4) as specified in the Contract Documents.": {
+    "id": 251,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide condensing units (CU.2, CUL5) in strict accordance with the Contract Documents.": {
+    "id": 252,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall provide Dedicated Outdoor Air System (DOAS) as detailed in the Contract Documents.": {
+    "id": 253,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Furnish and install unit heaters (UH/EUH) in accordance with the Contract Documents.": {
+    "id": 254,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install AC unit as specified in the Contract Documents.": {
+    "id": 255,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Provide complete HVAC system including all equipment, ductwork, and controls in strict accordance with the Contract Documents.": {
+    "id": 256,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide cabinet unit heaters (CUH) and unit heaters (UH) as required by the Contract Documents.": {
+    "id": 257,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install mechanical equipment including exhaust fan (EF-2), heat pump (HTP-1), and condensing unit (CU-3) in accordance with the Contract Documents.": {
+    "id": 258,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install smoke dampeners for all specified areas as specified in the Contract Documents.": {
+    "id": 259,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide HVAC equipment including EF-1, MAU-1, CUH-1, RTUs, and ERUs in strict accordance with the Contract Documents.": {
+    "id": 260,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Contractor shall provide packaged rooftop air-conditioning units (RTU-1, RTU-5) as detailed in the Contract Documents.": {
+    "id": 261,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Furnish and install Dedicated Outdoor Air System units (DOAS-1, DOAS-2) in accordance with the Contract Documents.": {
+    "id": 262,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install HVAC ductwork systems and accessories as specified in the Contract Documents.": {
+    "id": 263,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Provide allowance for undefined mechanical scope in strict accordance with the Contract Documents.": {
+    "id": 264,
+    "sheets": [
+      [
+        "Level 01 Data Raceway",
+        "ET-501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide mechanical ventilation system for all toilet rooms as required by the Contract Documents.": {
+    "id": 265,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install HVAC system for public areas designed to maintain positive pressure in accordance with the Contract Documents.": {
+    "id": 266,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install overhead air curtains at exterior delivery doors as specified in the Contract Documents.": {
+    "id": 267,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide exhaust fan for kitchen hood system in strict accordance with the Contract Documents.": {
+    "id": 268,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall provide make-up air unit for kitchen hood system as detailed in the Contract Documents.": {
+    "id": 269,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install exhaust ventilation system and hoods in accordance with the Contract Documents.": {
+    "id": 270,
+    "sheets": [
+      [
+        "Foodservice Special Conditions Layout",
+        "K103"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install exhaust fan as specified in the Contract Documents.": {
+    "id": 271,
+    "sheets": [
+      [
+        "Roof Top Layout",
+        "K104"
+      ],
+      [
+        "Exhaust Hood System Details",
+        "K505"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Provide kitchen exhaust hood, exhaust fan, and make-up air unit in strict accordance with the Contract Documents.": {
+    "id": 272,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ]
+    ]
+  },
+  "Contractor shall provide natural gas piping and connections to foodservice equipment as required by the Contract Documents.": {
+    "id": 273,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install HVAC system for the food service dry storage room to maintain a temperature of 68 to 72 degrees year-round in accordance with the Contract Documents.": {
+    "id": 274,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install kitchen exhaust hoods as specified in the Contract Documents.": {
+    "id": 275,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide ventilation ductwork, fans, and final connections for foodservice equipment in strict accordance with the Contract Documents.": {
+    "id": 276,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide exhaust and supply fan system for kitchen hood as detailed in the Contract Documents.": {
+    "id": 277,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ]
+    ]
+  },
+  "Furnish and install perforated supply plenums for hood in accordance with the Contract Documents.": {
+    "id": 278,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install testing, adjusting, and balancing (TAB) for the kitchen hood mechanical system as specified in the Contract Documents.": {
+    "id": 279,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Provide exhaust riser ductwork in strict accordance with the Contract Documents.": {
+    "id": 280,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Contractor shall provide supply riser ductwork with volume damper as required by the Contract Documents.": {
+    "id": 281,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install facility natural gas piping in accordance with the Contract Documents.": {
+    "id": 282,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install solenoid electric gas valve for fire system integration as specified in the Contract Documents.": {
+    "id": 283,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide duct fire thermostat with 12-foot wire leads in strict accordance with the Contract Documents.": {
+    "id": 284,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Contractor shall provide grease exhaust fan unit EADU85H as detailed in the Contract Documents.": {
+    "id": 285,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 00",
+        "Common Work Results for HVAC"
+      ],
+      [
+        "23 05 16",
+        "Expansion Fittings and Loops for HVAC Piping"
+      ],
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ],
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ],
+      [
+        "23 05 29",
+        "Hangers and Supports for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 53",
+        "Identification for HVAC Piping and Equipment"
+      ],
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ],
+      [
+        "23 07 00",
+        "HVAC Insulation"
+      ],
+      [
+        "23 08 00",
+        "Commissioning Of Hvac"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ],
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ],
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ],
+      [
+        "23 21 23",
+        "Hydronic Pumps"
+      ],
+      [
+        "23 23 00",
+        "Refrigerant Piping"
+      ],
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ],
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ],
+      [
+        "23 36 00",
+        "Air Terminal Units"
+      ],
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ],
+      [
+        "23 52 16",
+        "Condensing Boilers"
+      ],
+      [
+        "23 57 00",
+        "Heat Exchangers For Hvac"
+      ],
+      [
+        "23 72 23",
+        "Packaged Air-To-Air Energy Recovery Units"
+      ],
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ],
+      [
+        "23 81 26.13",
+        "Small-Capacity Split-System Air Conditioners"
+      ],
+      [
+        "23 82 00",
+        "Convection Heating and Cooling Units"
+      ],
+      [
+        "23 83 00",
+        "Radiant Heating and Cooling Units"
+      ]
+    ]
+  },
+  "Furnish and install gas-fired make-up air unit EA1-D.250-15D in accordance with the Contract Documents.": {
+    "id": 286,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install grease ductwork between exhaust riser on hood and fan as specified in the Contract Documents.": {
+    "id": 287,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide grease box and grease drain for exhaust system in strict accordance with the Contract Documents.": {
+    "id": 288,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall provide motorized backdraft damper for AI-D housing as required by the Contract Documents.": {
+    "id": 289,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Furnish and install direct gas-fired heated make-up air unit with 15' mixed flow direct drive fan in accordance with the Contract Documents.": {
+    "id": 290,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 74 16",
+        "Packaged Rooftop Air-Conditioning Units"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install supply ductwork meeting SMACNA and AMCA standards as specified in the Contract Documents.": {
+    "id": 291,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Provide 16' x 18' motorized back draft damper in strict accordance with the Contract Documents.": {
+    "id": 292,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 33 00",
+        "Air Duct Accessories"
+      ]
+    ]
+  },
+  "Contractor shall provide exterior gas piping connection to make-up air unit as detailed in the Contract Documents.": {
+    "id": 293,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Furnish and install gas pressure gauges for mechanical system in accordance with the Contract Documents.": {
+    "id": 294,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 19",
+        "Meters and Gauges for HVAC Piping"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install exhaust hood as specified in the Contract Documents.": {
+    "id": 295,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Provide exhaust fan for Demand Control Ventilation system in strict accordance with the Contract Documents.": {
+    "id": 296,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 37 00",
+        "Air Outlets and Inlets"
+      ]
+    ]
+  },
+  "Contractor shall provide ductwork for exhaust system as required by the Contract Documents.": {
+    "id": 297,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "23 31 00",
+        "Hvac Ducts and Casings"
+      ]
+    ]
+  },
+  "Furnish and install exhaust and make-up air fans for the kitchen ventilation system in accordance with the Contract Documents.": {
+    "id": 298,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 93",
+        "Testing, Adjusting, and Balancing for HVAC"
+      ]
+    ]
+  },
+  "Contractor shall furnish and install Variable Frequency Drives (VFDs) for exhaust and supply fans as specified in the Contract Documents.": {
+    "id": 299,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide stainless steel duct temperature sensors and room temperature sensors in strict accordance with the Contract Documents.": {
+    "id": 300,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  }
+}
+```

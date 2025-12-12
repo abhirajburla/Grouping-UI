@@ -1,0 +1,5151 @@
+{
+  "Complete electrical system compliant with 2023 Michigan Electrical Code.": {
+    "id": 1,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide complete electrical distribution system including panelboards, raceways, and wiring.": {
+    "id": 2,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide site electrical wiring, conduit, and connections": {
+    "id": 3,
+    "sheets": [
+      [
+        "Alta/nsps Land Title Survey Re: 928 Aberdeen St Ne, Grand Rapids, Mi Part Of The Sw 1/4, Section 8, Tzn, R11w, City Of Grand Rapids, Kent County, Michigan",
+        "1 of 1"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Coordinate with utility provider for removal of overhead electrical utilities.": {
+    "id": 4,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Remove existing power pole.": {
+    "id": 5,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "02 41 19",
+        "Selective Demolition"
+      ]
+    ]
+  },
+  "Remove existing exterior light fixtures.": {
+    "id": 6,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Demolish and remove all interior electrical systems, equipment, and appurtenances.": {
+    "id": 7,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "02 41 19",
+        "Selective Demolition"
+      ]
+    ]
+  },
+  "Provide and install proposed electrical service connection, conduit, and wiring": {
+    "id": 8,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Install underground electrical sleeves and conduits below paving and walks.": {
+    "id": 9,
+    "sheets": [
+      [
+        "Overall Orientation Plan",
+        "L0.0"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 44",
+        "Sleeves and Sleeve Seals for Electrical Raceways and Cabling"
+      ]
+    ]
+  },
+  "Install underground on-site electrical wiring and cables.": {
+    "id": 10,
+    "sheets": [
+      [
+        "Overall Orientation Plan",
+        "L0.0"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and install underground electrical wiring and cables.": {
+    "id": 11,
+    "sheets": [
+      [
+        "Enlarged Layout Plan",
+        "L1.1"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide underground conduit and wiring for all on-site electrical systems.": {
+    "id": 12,
+    "sheets": [
+      [
+        "Enlarged Layout Plan",
+        "L1.2"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical power and data connections for LED display units.": {
+    "id": 13,
+    "sheets": [
+      [
+        "Monument Sign",
+        "AS101"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install electrical distribution system including panelboards and feeders": {
+    "id": 14,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install interior lighting system and associated controls": {
+    "id": 15,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide complete electrical system including power, lighting, and devices.": {
+    "id": 16,
+    "sheets": [
+      [
+        "Level 01 Area B Floor Plan",
+        "A101B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install complete electrical system including lighting, power, and devices.": {
+    "id": 17,
+    "sheets": [
+      [
+        "Level 01 Area B Floor Plan Dimensions",
+        "A101B.1"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide electrical systems.": {
+    "id": 18,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan",
+        "A101C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide complete Electrical system.": {
+    "id": 19,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan Dimensions",
+        "A101C.1"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install electrical distribution equipment, including panelboards and transformers, in Electrical Room 240.": {
+    "id": 20,
+    "sheets": [
+      [
+        "Overall Level 02 Floor Plan",
+        "A102"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ]
+    ]
+  },
+  "Provide complete electrical systems including power, lighting, and distribution.": {
+    "id": 21,
+    "sheets": [
+      [
+        "Level 02 & Level 03 Area B Floor Plan",
+        "A102B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install electrical fixtures, including coordination for placement in ceiling grids and exposed structures.": {
+    "id": 22,
+    "sheets": [
+      [
+        "Overall Level 01 Reflected Ceiling Plan",
+        "A110"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install electrical fixtures and speakers": {
+    "id": 23,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted linear fixtures": {
+    "id": 24,
+    "sheets": [
+      [
+        "Level 01 Area A Reflected Ceiling Plan",
+        "A110A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted linear fixtures.": {
+    "id": 25,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install ceiling-mounted electrical fixtures, coordinated with ceiling grid and other trades.": {
+    "id": 26,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 05 29",
+        "Hangers and Supports for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical systems (conduit, wiring, boxes) in areas with open-to-structure painted ceilings.": {
+    "id": 27,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install interior lighting fixtures.": {
+    "id": 28,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ],
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install low voltage devices including speakers, smoke and thermal detectors.": {
+    "id": 29,
+    "sheets": [
+      [
+        "Level 01 Area C Reflected Ceiling Plan",
+        "A110C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install smoke and thermal detectors.": {
+    "id": 30,
+    "sheets": [
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install interior lighting fixtures, including high bay and decorative pendants.": {
+    "id": 31,
+    "sheets": [
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install speakers, smoke detectors, and thermal detectors.": {
+    "id": 32,
+    "sheets": [
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide electrical power for motorized flexshades.": {
+    "id": 33,
+    "sheets": [
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted linear light fixtures.": {
+    "id": 34,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install ceiling-mounted electrical fixtures, centered in ceiling grids.": {
+    "id": 35,
+    "sheets": [
+      [
+        "Level 02 & 03 Area B Reflected Ceiling Plan",
+        "A111B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide Roof Penetrations and Sleeves for Electrical Equipment and Conduit": {
+    "id": 36,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "260544",
+        "Sleeves and Sleeve Seals for Electrical Raceways and Cabling"
+      ]
+    ]
+  },
+  "Install galvanized electrical pipe conduit": {
+    "id": 37,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical systems fit-out for Electrical Room 125.": {
+    "id": 38,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A400"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide electrical power connections for Electric Water Coolers (EWC).": {
+    "id": 39,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install light fixtures": {
+    "id": 40,
+    "sheets": [
+      [
+        "Enlarged Plans And Details",
+        "A403"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Provide 15-amp fused service to elevator control cabinet.": {
+    "id": 41,
+    "sheets": [
+      [
+        "Enlarged Elevator Plan, Sections And Details",
+        "A710"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install lighting, light switch, and GFCI outlet in elevator machine space and pit.": {
+    "id": 42,
+    "sheets": [
+      [
+        "Enlarged Elevator Plan, Sections And Details",
+        "A710"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide electrical service connections for casework and owner-furnished equipment": {
+    "id": 43,
+    "sheets": [
+      [
+        "Level 01 Area A Equipment Plan",
+        "A801A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide final connections for electrical services within casework": {
+    "id": 44,
+    "sheets": [
+      [
+        "Level 01 Area B Equipment Plan",
+        "A801B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide complete Electrical system including power and lighting.": {
+    "id": 45,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide electrical rough-in and final connections for equipment and casework.": {
+    "id": 46,
+    "sheets": [
+      [
+        "Level 02 Area A Equipment Plan",
+        "A802A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical rough-in and connections for casework and associated equipment.": {
+    "id": 47,
+    "sheets": [
+      [
+        "Level 02 Area B Equipment Plan",
+        "A802B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install identification for electrical systems.": {
+    "id": 48,
+    "sheets": [
+      [
+        "Signage Schedule And Details",
+        "A811"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 53",
+        "Identification for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install under-cabinet lighting system.": {
+    "id": 49,
+    "sheets": [
+      [
+        "Casework Details",
+        "A820"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install electrical outlets as per electrical drawings.": {
+    "id": 50,
+    "sheets": [
+      [
+        "Millwork Plans & Details",
+        "A823"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install exposed electrical conduit": {
+    "id": 51,
+    "sheets": [
+      [
+        "Level 01 Area A Finish Plan",
+        "AI101A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install electrical floor boxes": {
+    "id": 52,
+    "sheets": [
+      [
+        "Level 01 Area A Finish Plan",
+        "AI101A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install floor boxes": {
+    "id": 53,
+    "sheets": [
+      [
+        "Level 01 Area B Finish Plan",
+        "AI101B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install raceways and boxes for electrical systems.": {
+    "id": 54,
+    "sheets": [
+      [
+        "Level 01 Area C Finish Plan",
+        "AI101C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install electrical floor boxes.": {
+    "id": 55,
+    "sheets": [
+      [
+        "Level 01 Area C Finish Plan",
+        "AI101C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install floor boxes": {
+    "id": 56,
+    "sheets": [
+      [
+        "Level 02 Area A Finish Plan",
+        "AI102A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install floor boxes.": {
+    "id": 57,
+    "sheets": [
+      [
+        "Level 02 Area B Finish Plan",
+        "AI102B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power and AV inputs for equipment": {
+    "id": 58,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install can lighting": {
+    "id": 59,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install under cabinet lighting": {
+    "id": 60,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide electrical power for AV equipment.": {
+    "id": 61,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI201"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install suspended linear lighting fixtures": {
+    "id": 62,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI202"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide power connections for equipment and AV systems": {
+    "id": 63,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI202"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical connection for owner-furnished medical fridge, including connection to generator power.": {
+    "id": 64,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI203"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Coordination of electrical rough-ins for devices located in casework.": {
+    "id": 65,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI204"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide wiring for all fire suppression water flow switches, valve supervisory switches, and smoke detectors to the main fire alarm panel.": {
+    "id": 66,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide complete Electrical system": {
+    "id": 67,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 08 00",
+        "Commissioning of Electrical"
+      ]
+    ]
+  },
+  "Provide complete Electrical systems for the project.": {
+    "id": 68,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "General electrical scope of work.": {
+    "id": 69,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide and install Electrical system.": {
+    "id": 70,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install Electric Heater (EH.1)": {
+    "id": 71,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install Emergency Power Off (EPO) switch for domestic water heater and boiler.": {
+    "id": 72,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power and control wiring to generator.": {
+    "id": 73,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide a complete electrical system including conduit, wiring, devices, panelboards, and lighting.": {
+    "id": 74,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install fire alarm notification appliances including strobes and bells.": {
+    "id": 75,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide electrical connections to fire suppression supervisory switches.": {
+    "id": 76,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install high water alarm system.": {
+    "id": 77,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install aquastat for pump control.": {
+    "id": 78,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical connections for all mechanical and plumbing equipment.": {
+    "id": 79,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install electrical disconnects for equipment as required.": {
+    "id": 80,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide hard-wired electrical connections for sensor-operated faucets and electric water coolers.": {
+    "id": 81,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and connect smoke detectors.": {
+    "id": 82,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide power wiring to HVAC equipment.": {
+    "id": 83,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide control wiring to interlock fire/smoke dampers with air handling units.": {
+    "id": 84,
+    "sheets": [
+      [
+        "Mechanical Symbols Abbreviations, And Notes",
+        "M-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide complete electrical system scope of work": {
+    "id": 85,
+    "sheets": [
+      [
+        "Level 01 Overall Hvac",
+        "M-401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide power wiring to HVAC equipment including RTU-5 and CUH-3": {
+    "id": 86,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide control wiring for new thermostat": {
+    "id": 87,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide electrical outlet for kiln exhaust system (115V/1PH/1.4A).": {
+    "id": 88,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install gas-engine-driven generator sets": {
+    "id": 89,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 32 13.16",
+        "Gas-Engine-Driven Generator Sets"
+      ]
+    ]
+  },
+  "Furnish and install transfer switches for emergency power systems": {
+    "id": 90,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Furnish and install electrical panelboards": {
+    "id": 91,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ],
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Furnish and install emergency and exit lighting systems": {
+    "id": 92,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Provide complete commissioning of electrical systems": {
+    "id": 93,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 08 00",
+        "Commissioning of Electrical"
+      ]
+    ]
+  },
+  "Furnish and install variable-frequency motor controllers (VFDs)": {
+    "id": 94,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide grounding and bonding for electrical systems": {
+    "id": 95,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install low-voltage electrical power conductors and cables": {
+    "id": 96,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install raceways and boxes for electrical systems": {
+    "id": 97,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install interior lighting fixtures": {
+    "id": 98,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install low-voltage transformers": {
+    "id": 99,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ]
+    ]
+  },
+  "Furnish and install enclosed switches and circuit breakers": {
+    "id": 100,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and install lighting control devices": {
+    "id": 101,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Furnish and install wiring devices": {
+    "id": 102,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install exterior lighting fixtures": {
+    "id": 103,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Provide sleeves and sleeve seals for electrical raceways and cabling": {
+    "id": 104,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 44",
+        "Sleeves and Sleeve Seals for Electrical Raceways and Cabling"
+      ]
+    ]
+  },
+  "Provide surge protection for low-voltage electrical power circuits": {
+    "id": 105,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 43 13",
+        "Surge Protection for Low-Voltage Electrical Power Circuits"
+      ]
+    ]
+  },
+  "Provide hangers and supports for electrical systems": {
+    "id": 106,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 29",
+        "Hangers and Supports for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide identification for electrical systems": {
+    "id": 107,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 53",
+        "Identification for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install fuses for electrical equipment": {
+    "id": 108,
+    "sheets": [
+      [
+        "Level 02 Overall Hvac",
+        "M-402"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 13",
+        "Fuses"
+      ]
+    ]
+  },
+  "Provide electrical connections for new mechanical equipment including AC unit, fan coil unit, and condensate pumps.": {
+    "id": 109,
+    "sheets": [
+      [
+        "Level 02 Hvac Area A",
+        "M-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power wiring to mechanical equipment including VAV boxes and RTUs.": {
+    "id": 110,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide low-voltage control wiring for thermostats and the HVAC control system.": {
+    "id": 111,
+    "sheets": [
+      [
+        "Level 02 Hvac Area B",
+        "M-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide electrical distribution system including panelboards, transformers, and transfer switches": {
+    "id": 112,
+    "sheets": [
+      [
+        "Level 01 Overall Piping",
+        "M-601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ],
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Install electrical raceways, boxes, conductors, and wiring devices": {
+    "id": 113,
+    "sheets": [
+      [
+        "Level 01 Overall Piping",
+        "M-601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install interior, exterior, emergency, and exit lighting systems and controls": {
+    "id": 114,
+    "sheets": [
+      [
+        "Level 01 Overall Piping",
+        "M-601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ],
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ],
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide electrical power connections for new mechanical equipment": {
+    "id": 115,
+    "sheets": [
+      [
+        "Level 01 Piping Area C",
+        "M-601C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install boiler Emergency Power Off (EPO) switch.": {
+    "id": 116,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power wiring and connections for Variable Frequency Drives (VFDs).": {
+    "id": 117,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide power and control wiring for mechanical equipment and the Building Automation System (BAS).": {
+    "id": 118,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install electrical conduit and raceways for mechanical equipment": {
+    "id": 119,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical wiring and final connections to mechanical equipment": {
+    "id": 120,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-801"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install control panel for mechanical equipment.": {
+    "id": 121,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-802"
+      ]
+    ],
+    "specs": [
+      [
+        "23 09 23",
+        "Direct-Digital Control System For Hvac"
+      ]
+    ]
+  },
+  "Furnish and install Variable Frequency Drives (VFDs) for hot water distribution pumps.": {
+    "id": 122,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Furnish and install boiler emergency shutdown switch(es).": {
+    "id": 123,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide pump failure detection and automatic lag pump start, including current switches and BAS alarm integration.": {
+    "id": 124,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "23 09 13",
+        "Instrumentation And Control Devices For Hvac"
+      ]
+    ]
+  },
+  "Provide power wiring to all mechanical equipment including fans, compressors, and heaters": {
+    "id": 125,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install motor starters for ignition devices and other required equipment": {
+    "id": 126,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide power and control wiring for electric heating and electrostatic devices": {
+    "id": 127,
+    "sheets": [
+      [
+        "Mechanical Controls Fan Coil Unit",
+        "M-810"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and install Variable Frequency Drives (VFDs) for pumps and other mechanical equipment.": {
+    "id": 128,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide and install disconnect switches for mechanical equipment.": {
+    "id": 129,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power wiring, conduit, and connections for mechanical equipment": {
+    "id": 130,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install disconnect switches for mechanical equipment": {
+    "id": 131,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install motor starters for mechanical equipment": {
+    "id": 132,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide and install duct smoke detectors on return air systems": {
+    "id": 133,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Install minimum 1/2\" electrical conduit for power feeds.": {
+    "id": 134,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install liquid-tight flexible metallic conduit for final connections to vibrating equipment.": {
+    "id": 135,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install copper conductors for all power, lighting, and control circuits.": {
+    "id": 136,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide dedicated neutral conductors for all electrical circuits.": {
+    "id": 137,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Install equipment grounding conductors for all power and lighting circuits.": {
+    "id": 138,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Install specification grade, hard use, and tamper-resistant receptacles.": {
+    "id": 139,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install Ground Fault Circuit Interrupter (GFCI) receptacles or breakers as required.": {
+    "id": 140,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Install handle lock-on devices on circuit breakers for night, emergency, and exit light circuits.": {
+    "id": 141,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide unswitched power to emergency battery packs, lighting inverters, and emergency lighting units.": {
+    "id": 142,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Provide and install cable tray systems as shown on equipment provider drawings.": {
+    "id": 143,
+    "sheets": [
+      [
+        "Electrical Cover Sheet",
+        "E-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install utility transformer": {
+    "id": 144,
+    "sheets": [
+      [
+        "Electrical Site Plan",
+        "E-200"
+      ]
+    ],
+    "specs": [
+      [
+        "262200",
+        "Low-Voltage Transformers"
+      ]
+    ]
+  },
+  "Furnish and Install Utility Transformer": {
+    "id": 145,
+    "sheets": [
+      [
+        "Electrical Site Plan",
+        "E-200"
+      ]
+    ],
+    "specs": [
+      [
+        "262416",
+        "Panelboards"
+      ],
+      [
+        "262816",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and Install Electrical Panels with Main and Branch Breakers": {
+    "id": 146,
+    "sheets": [
+      [
+        "Electrical Site Plan",
+        "E-200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install Underground Electrical Conduit Raceway System": {
+    "id": 147,
+    "sheets": [
+      [
+        "Electrical Site Plan",
+        "E-200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "262726",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install 18\"x24\" NEMA 3R Box with Quad Receptacle": {
+    "id": 148,
+    "sheets": [
+      [
+        "Electrical Site Plan",
+        "E-200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install generator transfer devices for life safety lighting systems.": {
+    "id": 149,
+    "sheets": [
+      [
+        "Level 01 Lighting Area A",
+        "E-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Provide and install life safety and emergency lighting systems.": {
+    "id": 150,
+    "sheets": [
+      [
+        "Level 01 Lighting Area A",
+        "E-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Provide and install lighting control system including local switching and exterior photocell.": {
+    "id": 151,
+    "sheets": [
+      [
+        "Level 01 Lighting Area A",
+        "E-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ],
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Provide and install lighting fixtures in elevator pit.": {
+    "id": 152,
+    "sheets": [
+      [
+        "Level 01 Lighting Area A",
+        "E-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install generator transfer devices (Bodine GTD20A or equal) for life safety lighting systems": {
+    "id": 153,
+    "sheets": [
+      [
+        "Level 01 Lighting Area B",
+        "E-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Furnish and install life safety and emergency lighting fixtures": {
+    "id": 154,
+    "sheets": [
+      [
+        "Level 01 Lighting Area B",
+        "E-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Provide and install local switching and lighting control devices": {
+    "id": 155,
+    "sheets": [
+      [
+        "Level 01 Lighting Area B",
+        "E-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install electrical panelboards LPA, LPB, and LPC": {
+    "id": 156,
+    "sheets": [
+      [
+        "Level 01 Lighting Area B",
+        "E-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install raceways, conductors, and supports for electrical power distribution": {
+    "id": 157,
+    "sheets": [
+      [
+        "Level 01 Lighting Area B",
+        "E-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 05 29",
+        "Hangers and Supports for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install Generator Transfer Device (BODINE GTD20A or equal) for life safety lighting.": {
+    "id": 158,
+    "sheets": [
+      [
+        "Level 01 Lighting Area C",
+        "E-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Provide and install life safety lighting fixtures (Type LFEM).": {
+    "id": 159,
+    "sheets": [
+      [
+        "Level 01 Lighting Area C",
+        "E-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install local lighting control switching scheme.": {
+    "id": 160,
+    "sheets": [
+      [
+        "Level 01 Lighting Area C",
+        "E-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide and install panelboards including types LPB and LP-EM.": {
+    "id": 161,
+    "sheets": [
+      [
+        "Level 01 Lighting Area C",
+        "E-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install general interior lighting fixtures (Type LF).": {
+    "id": 162,
+    "sheets": [
+      [
+        "Level 01 Lighting Area C",
+        "E-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install high bay mounted occupancy sensors with daylight harvesting capabilities in the gym": {
+    "id": 163,
+    "sheets": [
+      [
+        "Level 02 Lighting Area A",
+        "E-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide and install light switches": {
+    "id": 164,
+    "sheets": [
+      [
+        "Level 02 Lighting Area A",
+        "E-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install life safety lighting fixtures": {
+    "id": 165,
+    "sheets": [
+      [
+        "Level 02 Lighting Area A",
+        "E-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ],
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install exit signs": {
+    "id": 166,
+    "sheets": [
+      [
+        "Level 02 Lighting Area A",
+        "E-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Provide electrical power and connections for elevator system, including rated shunt trip and lighting disconnects": {
+    "id": 167,
+    "sheets": [
+      [
+        "Level 01 Power Area A",
+        "E-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ],
+      [
+        "14 21 00",
+        "Electric Traction Elevators"
+      ]
+    ]
+  },
+  "Provide electrical power, switches, and connections for basketball hoop motors": {
+    "id": 168,
+    "sheets": [
+      [
+        "Level 01 Power Area A",
+        "E-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 29 23",
+        "Variable-Frequency Motor Controllers"
+      ]
+    ]
+  },
+  "Provide electrical power to projector mount": {
+    "id": 169,
+    "sheets": [
+      [
+        "Level 01 Power Area A",
+        "E-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical power and final connection for movable stage": {
+    "id": 170,
+    "sheets": [
+      [
+        "Level 01 Power Area A",
+        "E-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide power connections to mechanical and plumbing equipment": {
+    "id": 171,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power to projector mount and technology box": {
+    "id": 172,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install wiring devices including weatherproof outlets and standard receptacles": {
+    "id": 173,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical power connection for Air Conditioning unit (AC-1)": {
+    "id": 174,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical power connection for Art Kiln (208V, 9984W)": {
+    "id": 175,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical power connection for Unit Heater (UHS)": {
+    "id": 176,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical power connections for projector mount and technology box": {
+    "id": 177,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical power connection for fire/smoke damper": {
+    "id": 178,
+    "sheets": [
+      [
+        "Level 01 Power Area C",
+        "E-501C"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install electrical junction boxes": {
+    "id": 179,
+    "sheets": [
+      [
+        "Level 02 Overall Power",
+        "E-502"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install electrical receptacles": {
+    "id": 180,
+    "sheets": [
+      [
+        "Level 02 Overall Power",
+        "E-502"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install motion sensors for lighting control": {
+    "id": 181,
+    "sheets": [
+      [
+        "Level 02 Overall Power",
+        "E-502"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide 208V power connection for Fan Coil Unit (FCU-1).": {
+    "id": 182,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power connection for projector mount.": {
+    "id": 183,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ],
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power connection for technology box.": {
+    "id": 184,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ],
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power connection for fire/smoke damper.": {
+    "id": 185,
+    "sheets": [
+      [
+        "Level 02 Power Area A",
+        "E-502A"
+      ],
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power connection for ADA door opener and related hardware.": {
+    "id": 186,
+    "sheets": [
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide duplex receptacle for digital sign.": {
+    "id": 187,
+    "sheets": [
+      [
+        "Level 02 Power Area B",
+        "E-502B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power wiring, conduit, and connections to all mechanical and foodservice equipment.": {
+    "id": 188,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install electrical distribution panels including MDP2, 1RPA, and 2RPB.": {
+    "id": 189,
+    "sheets": [
+      [
+        "Level 03 Power Roof",
+        "E-503"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power distribution and connections for HVAC loads.": {
+    "id": 190,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install new 200A panel '1RPA' (120/208V, 3-phase, 4W).": {
+    "id": 191,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Furnish and install receptacle distribution panels.": {
+    "id": 192,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install 25kVA transformer (480V primary to 120/208V secondary).": {
+    "id": 193,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ]
+    ]
+  },
+  "Install feeder conduit (2-1/2\" C) with 3/0 conductors and ground.": {
+    "id": 194,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install CT cabinet for utility metering.": {
+    "id": 195,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide power distribution for lighting loads.": {
+    "id": 196,
+    "sheets": [
+      [
+        "Electrical One Line Diagram",
+        "E-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install new utility transformer": {
+    "id": 197,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ]
+    ]
+  },
+  "Provide and install boiler emergency-stop system including contactor and associated components": {
+    "id": 198,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install shunt trip breakers for all receptacles under the kitchen hood": {
+    "id": 199,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power to lighting controller": {
+    "id": 200,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide and install 208V, 1-phase, NEMA Type 6-20R receptacles": {
+    "id": 201,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install tombstone style floor receptacles": {
+    "id": 202,
+    "sheets": [
+      [
+        "Enlarged Plans",
+        "E-700"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install a complete lighting control system including controller, power packs, and wireless communication between zones.": {
+    "id": 203,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Furnish and install occupancy/photocell sensors and dimming switches for the lighting control system.": {
+    "id": 204,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install interior and site lighting fixtures, including fixtures with integrated sensors.": {
+    "id": 205,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ],
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Furnish and install emergency power system including UL924/1008 generator transfer device and life safety circuits.": {
+    "id": 206,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ],
+      [
+        "26 32 13.16",
+        "Gas-Engine-Driven Generator Sets"
+      ]
+    ]
+  },
+  "Furnish and install electrical conduit system including stub-ups below grade, above ceiling, and connections to cable tray.": {
+    "id": 207,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install various electrical boxes including floor boxes, TV back boxes, and back boxes with mud rings.": {
+    "id": 208,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install a complete grounding and bonding system including ground rods, ground bus, and conductors.": {
+    "id": 209,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install low voltage and power conductors including #3/0 AWG, #4 AWG, and #6 CU.": {
+    "id": 210,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install 24\" x 18\" x 18\" minimum electrical handholes with engraved covers.": {
+    "id": 211,
+    "sheets": [
+      [
+        "Electrical Details",
+        "E-800"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install main distribution panel (MDP) and distribution panel (DP).": {
+    "id": 212,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide 480/277V, 3-phase main electrical service and feeders.": {
+    "id": 213,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide branch circuit wiring, conduit, and devices.": {
+    "id": 214,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install interior LED light fixtures as per schedule.": {
+    "id": 215,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide modular wiring system for light fixtures.": {
+    "id": 216,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install exit signs and emergency egress lighting system.": {
+    "id": 217,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-900"
+      ]
+    ],
+    "specs": [
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ]
+    ]
+  },
+  "Furnish and install Panelboard 1LPC, 480/277V, 35kAIC rating.": {
+    "id": 218,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install integral surge protection devices (SPD) per NEC requirements.": {
+    "id": 219,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 43 13",
+        "Surge Protection for Low-Voltage Electrical Power Circuits"
+      ]
+    ]
+  },
+  "Provide and install GFCI breakers for all specified circuits.": {
+    "id": 220,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ],
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and install interior lighting fixtures for Areas A, B, and C.": {
+    "id": 221,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install outdoor wallpack lighting fixtures.": {
+    "id": 222,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install general purpose receptacles and power connections for equipment.": {
+    "id": 223,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install panelboards including MDP, 1LPC, 1LPB, and T-OP.": {
+    "id": 224,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide integral surge protection devices for electrical panels as required by NEC.": {
+    "id": 225,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 43 13",
+        "Surge Protection for Low-Voltage Electrical Power Circuits"
+      ]
+    ]
+  },
+  "Furnish and install general and specialty receptacles.": {
+    "id": 226,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical connections for elevator equipment, including disconnect and lighting.": {
+    "id": 227,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and install interior lighting systems.": {
+    "id": 228,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-902"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide and install integral surge protection devices for panelboards": {
+    "id": 229,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "26 43 13",
+        "Surge Protection for Low-Voltage Electrical Power Circuits"
+      ]
+    ]
+  },
+  "Provide and install interior lighting systems and controls": {
+    "id": 230,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Provide and install exterior lighting systems": {
+    "id": 231,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-903"
+      ]
+    ],
+    "specs": [
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  },
+  "Provide and install (2) 4-inch electrical conduits to the second level IDF room.": {
+    "id": 232,
+    "sheets": [
+      [
+        "Level 01 Data Raceway",
+        "ET-501"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide power connections to electrified door hardware and educational equipment.": {
+    "id": 233,
+    "sheets": [
+      [
+        "TECHNOLOGY COVER SHEET",
+        "T-100"
+      ]
+    ],
+    "specs": [
+      [
+        "26_05_19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26_05_33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Supply and install NEMA rated enclosure for network equipment": {
+    "id": 234,
+    "sheets": [
+      [
+        "Technology Site Plan",
+        "T-200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install ceiling boxes for data drops": {
+    "id": 235,
+    "sheets": [
+      [
+        "Level 01 Technology Area A",
+        "T-500A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install gang boxes for gym audio visual speakers": {
+    "id": 236,
+    "sheets": [
+      [
+        "Level 01 Technology Area A",
+        "T-500A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install 2\" sleeves for data cabling pathways": {
+    "id": 237,
+    "sheets": [
+      [
+        "Level 01 Technology Area A",
+        "T-500A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 44",
+        "Sleeves and Sleeve Seals for Electrical Raceways and Cabling"
+      ]
+    ]
+  },
+  "Install ceiling boxes for low voltage systems": {
+    "id": 238,
+    "sheets": [
+      [
+        "Level 01 Technology Area C",
+        "T-500C"
+      ]
+    ],
+    "specs": [
+      [
+        "26_05_33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide raceway and power wiring to AV ceiling box locations.": {
+    "id": 239,
+    "sheets": [
+      [
+        "Level 02 Technology Area A",
+        "T-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide raceway and power connection for digital signage.": {
+    "id": 240,
+    "sheets": [
+      [
+        "Level 02 Technology Area A",
+        "T-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical rough-in and power connection for security camera under canopy": {
+    "id": 241,
+    "sheets": [
+      [
+        "Level 02 Technology Area B",
+        "T-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and install 220V electrical circuit(s)": {
+    "id": 242,
+    "sheets": [
+      [
+        "Level 02 Technology Area B",
+        "T-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install electrical boxes and mudrings for low voltage and power devices": {
+    "id": 243,
+    "sheets": [
+      [
+        "Teaching Wall Elevation New Wall Suspended Ceiling",
+        "T-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install duplex receptacles for projector power": {
+    "id": 244,
+    "sheets": [
+      [
+        "Teaching Wall Elevation New Wall Suspended Ceiling",
+        "T-600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical power connections for AV equipment including projector, touch unit, and amplifier": {
+    "id": 245,
+    "sheets": [
+      [
+        "Classroom Technology Schematic",
+        "T-601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical power connections for AV equipment, including display, conference camera, and collaboration PC.": {
+    "id": 246,
+    "sheets": [
+      [
+        "Small Collaboration Conference Room Schematic",
+        "T-602"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install double gang wall boxes": {
+    "id": 247,
+    "sheets": [
+      [
+        "Paging System Schematic",
+        "T-604"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install lighting system to achieve minimum 70 and 50 footcandle levels as required.": {
+    "id": 248,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install shatterproof light fixtures or shields in food preparation and storage areas.": {
+    "id": 249,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide electrical power connections for all foodservice equipment": {
+    "id": 250,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical rough-in for owner-provided Point of Sale system": {
+    "id": 251,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide electrical rough-in and final connections for foodservice equipment": {
+    "id": 252,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical connections to junction box for hood lights and controls": {
+    "id": 253,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install low voltage data line for Point of Sale system": {
+    "id": 254,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install heat lamps and LED lighting for breath guard": {
+    "id": 255,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide electrical rough-in and connections for all food service equipment.": {
+    "id": 256,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install all wiring, conduit, junction boxes, and electrical outlets for foodservice equipment.": {
+    "id": 257,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Install Kitchen Equipment Contractor (KEC) furnished control panels, starters, solenoid valves, and disconnect switches.": {
+    "id": 258,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and install fused quick disconnects adjacent to foodservice equipment not in line of sight of the electrical panel.": {
+    "id": 259,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ],
+      [
+        "26 28 13",
+        "Fuses"
+      ]
+    ]
+  },
+  "Furnish and install 6'-0\" pigtail flex conduit and provide caps and cords for final connection to foodservice equipment.": {
+    "id": 260,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install shunt trip breakers for all electrical service to equipment under exhaust hoods.": {
+    "id": 261,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Furnish and install dedicated grounding wire to all foodservice equipment.": {
+    "id": 262,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install ground fault protection (GFCI) for all receptacles in kitchen and serving areas.": {
+    "id": 263,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical connections and receptacles for foodservice equipment, including NEMA 5-15P.": {
+    "id": 264,
+    "sheets": [
+      [
+        "Custom Serving Counter Sheets",
+        "K400"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Provide final electrical power supply connections to equipment": {
+    "id": 265,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and install junction boxes for equipment power connections": {
+    "id": 266,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install switches for equipment control": {
+    "id": 267,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ],
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ]
+    ]
+  },
+  "Furnish and install LED lighting systems with drivers": {
+    "id": 268,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Furnish and install 48\" 120V heat lamps": {
+    "id": 269,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install wire chase/raceways for electrical wiring": {
+    "id": 270,
+    "sheets": [
+      [
+        "Custom Breath Guard Sheets",
+        "K401"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide electrical connections for kitchen hood, fan, and fire suppression system": {
+    "id": 271,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install recessed round light fixtures in kitchen hood": {
+    "id": 272,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide and install switches for hood light and fan": {
+    "id": 273,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K500"
+      ]
+    ],
+    "specs": [
+      [
+        "26 09 23",
+        "Lighting Control Devices"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install recessed round LED light fixtures (3500K).": {
+    "id": 274,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ]
+    ]
+  },
+  "Provide power wiring and connections for equipment.": {
+    "id": 275,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide electrical hookup and connections for fire suppression system components.": {
+    "id": 276,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and wire shunt trip breaker for kitchen equipment interlock with fire suppression system.": {
+    "id": 277,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K502"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install power wiring and NEMA safety disconnect switches for all mechanical equipment.": {
+    "id": 278,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide ECM wiring packages for mechanical units.": {
+    "id": 279,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install service disconnect switch for mechanical equipment.": {
+    "id": 280,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide power and control wiring for mechanical unit, including flex conduit and ECM wiring package.": {
+    "id": 281,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K504"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide final power connections to mechanical equipment": {
+    "id": 282,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K505"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Furnish and install electrical wiring and conductors": {
+    "id": 283,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K505"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ],
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide and install electrical control panel.": {
+    "id": 284,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Provide and install circuit breakers.": {
+    "id": 285,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install optional 120 VAC shunt trip breaker.": {
+    "id": 286,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install low-voltage DC and signaling wiring in separate conduit.": {
+    "id": 287,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install optional 120 VAC appliance kill switches.": {
+    "id": 288,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide electrical connections for Ansul solenoid.": {
+    "id": 289,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 00",
+        "Common Work Results for Electrical"
+      ]
+    ]
+  },
+  "Furnish and install electrical panels.": {
+    "id": 290,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ]
+    ]
+  },
+  "Furnish and install circuit breakers, including shunt trip mechanisms.": {
+    "id": 291,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Install low-voltage signaling and control wire in separate conduit from AC sources.": {
+    "id": 292,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Install AC power wiring and conductors.": {
+    "id": 293,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Furnish and install electrical boxes, terminals, and connections.": {
+    "id": 294,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install electrical switches and control devices, including dry contacts.": {
+    "id": 295,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K507"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install a UL 508A listed, NEMA 1 rated Demand Control Ventilation Hood Control Panel.": {
+    "id": 296,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide and install a shunt trip breaker for appliance shutdown upon fire system activation.": {
+    "id": 297,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "26 28 16",
+        "Enclosed Switches and Circuit Breakers"
+      ]
+    ]
+  },
+  "Provide audible and visual alarms for VFD faults and sensor failures, and an energy savings indicator.": {
+    "id": 298,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 53",
+        "Identification for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install pass-thru electrical outlets": {
+    "id": 299,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Provide and install 1/2\" empty conduit raceway from wall to above ceiling": {
+    "id": 300,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide and install electrical boxes and conduit for remote pull stations": {
+    "id": 301,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K600"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Provide raceways, boxes, hangers and supports for electrical systems.": {
+    "id": 302,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 29",
+        "Hangers and Supports for Electrical Systems"
+      ],
+      [
+        "26 05 33",
+        "Raceways and Boxes for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install low-voltage electrical power conductors and cables.": {
+    "id": 303,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 19",
+        "Low-Voltage Electrical Power Conductors and Cables"
+      ]
+    ]
+  },
+  "Provide grounding and bonding for electrical systems.": {
+    "id": 304,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 05 26",
+        "Grounding and Bonding for Electrical Systems"
+      ]
+    ]
+  },
+  "Furnish and install panelboards, transformers, and wiring devices.": {
+    "id": 305,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 22 00",
+        "Low-Voltage Transformers"
+      ],
+      [
+        "26 24 16",
+        "Panelboards"
+      ],
+      [
+        "26 27 26",
+        "Wiring Devices"
+      ]
+    ]
+  },
+  "Furnish and install gas-engine-driven generator set and transfer switches.": {
+    "id": 306,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 32 13.16",
+        "Gas-Engine-Driven Generator Sets"
+      ],
+      [
+        "26 36 00",
+        "Transfer Switches"
+      ]
+    ]
+  },
+  "Furnish and install interior, exterior, and emergency lighting systems.": {
+    "id": 307,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K601"
+      ]
+    ],
+    "specs": [
+      [
+        "26 51 00",
+        "Interior Lighting"
+      ],
+      [
+        "26 52 13",
+        "Emergency and Exit Lighting"
+      ],
+      [
+        "26 56 00",
+        "Exterior Lighting"
+      ]
+    ]
+  }
+}

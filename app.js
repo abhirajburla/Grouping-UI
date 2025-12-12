@@ -348,18 +348,24 @@ function showScopesView() {
     currentView = 'scopes';
     document.getElementById('bidItemsPanel').style.display = 'flex';
     document.getElementById('packageMappingPanel').style.display = 'none';
+    document.getElementById('grpsMepPanel').style.display = 'none';
     document.querySelector('.scopes-panel').style.display = 'flex';
     document.getElementById('navScopes').style.color = '#ffffff';
     document.getElementById('navGroupingMapping').style.color = '#94a3b8';
+    const navGrpsMep = document.getElementById('navGrpsMep');
+    if (navGrpsMep) navGrpsMep.style.color = '#94a3b8';
 }
 
 function showPackageMappingView() {
     currentView = 'packageMapping';
     document.getElementById('bidItemsPanel').style.display = 'none';
     document.getElementById('packageMappingPanel').style.display = 'flex';
+    document.getElementById('grpsMepPanel').style.display = 'none';
     document.querySelector('.scopes-panel').style.display = 'none';
     document.getElementById('navScopes').style.color = '#94a3b8';
     document.getElementById('navGroupingMapping').style.color = '#ffffff';
+    const navGrpsMep = document.getElementById('navGrpsMep');
+    if (navGrpsMep) navGrpsMep.style.color = '#94a3b8';
     renderPackageMapping('electrical');
 }
 

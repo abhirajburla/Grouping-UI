@@ -1,0 +1,4456 @@
+{
+  "Plumbing systems and ADA-compliant fixtures for restrooms.": {
+    "id": 1,
+    "sheets": [
+      [
+        "Building Code Analysis",
+        "CP001"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install bi-level drinking fountains": {
+    "id": 2,
+    "sheets": [
+      [
+        "Code Plan Level 01 Overall Floor Plan",
+        "CP101"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide domestic water, sanitary waste, and vent piping systems for all plumbing fixtures.": {
+    "id": 3,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install water closets (WC) per fixture counts.": {
+    "id": 4,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install lavatories (LAV) per fixture counts.": {
+    "id": 5,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install bi-level drinking fountains with bottle-filling stations.": {
+    "id": 6,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install service sinks.": {
+    "id": 7,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install Domestic Water, Sanitary Waste, and Vent Piping for Fixtures": {
+    "id": 8,
+    "sheets": [
+      [
+        "Code Plan Level 02 Overall Floor Plan",
+        "CP102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Abandon 222 LF of 8-inch sanitary line in place by filling with grout.": {
+    "id": 9,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Cut and cap existing water service at valve.": {
+    "id": 10,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Demolish and remove all interior plumbing piping and equipment.": {
+    "id": 11,
+    "sheets": [
+      [
+        "Demolition Plan",
+        "CD1.0"
+      ]
+    ],
+    "specs": [
+      [
+        "02 41 19",
+        "Selective Demolition"
+      ]
+    ]
+  },
+  "Install 4-inch ductile iron domestic water service": {
+    "id": 12,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Perform 4-inch live tap for domestic water on existing cast iron main": {
+    "id": 13,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install Type K copper water service for services 2-inch or smaller": {
+    "id": 14,
+    "sheets": [
+      [
+        "Overall Utility Plan",
+        "C4.0"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install Double Check Valve Assembly (DCVA) conforming to ASSE 1015": {
+    "id": 15,
+    "sheets": [
+      [
+        "City Of Grand Rapids Water Main Details",
+        "C5.3"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install 6\" valves for water main": {
+    "id": 16,
+    "sheets": [
+      [
+        "City Of Grand Rapids Water Main Details",
+        "C5.3"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Install 1\" diameter sump": {
+    "id": 17,
+    "sheets": [
+      [
+        "City Of Grand Rapids Water Main Details",
+        "C5.3"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Install Downspout and Gutter Drain Connections to Storm System": {
+    "id": 18,
+    "sheets": [
+      [
+        "Civil Details",
+        "C5.4"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide under-slab plumbing utilities and coordinate locations": {
+    "id": 19,
+    "sheets": [
+      [
+        "General Structural Notes",
+        "S0.1"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install pipe sleeves through walls and caulk penetrations": {
+    "id": 20,
+    "sheets": [
+      [
+        "Typical Details",
+        "S0.3"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install roof sumps": {
+    "id": 21,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'a'",
+        "S3.1"
+      ],
+      [
+        "Roof Framing Plan Area 'b'",
+        "S3.2"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install roof sump drains.": {
+    "id": 22,
+    "sheets": [
+      [
+        "Roof Framing Plan Area 'c'",
+        "S3.3"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install floor drains.": {
+    "id": 23,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install hose connections.": {
+    "id": 24,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install interior plumbing piping and systems.": {
+    "id": 25,
+    "sheets": [
+      [
+        "Foundation Plan",
+        "PRWG .NO 12 304"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in for all restroom, toilet, kitchen, and laundry locations": {
+    "id": 26,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures in all restroom and toilet locations": {
+    "id": 27,
+    "sheets": [
+      [
+        "Overall Level 01 Floor Plan",
+        "A101"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install drinking fountain and bottle-filling stations": {
+    "id": 28,
+    "sheets": [
+      [
+        "Level 01 Area A Floor Plan",
+        "A101A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install plumbing vents and risers": {
+    "id": 29,
+    "sheets": [
+      [
+        "Level 01 Area A Floor Plan",
+        "A101A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures in all student and staff restrooms.": {
+    "id": 30,
+    "sheets": [
+      [
+        "Level 01 Area A Floor Plan Dimensions",
+        "A101A.1"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide complete plumbing systems for all student, staff, and public restrooms.": {
+    "id": 31,
+    "sheets": [
+      [
+        "Level 01 Area B Floor Plan",
+        "A101B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install plumbing fixtures and systems for all restrooms.": {
+    "id": 32,
+    "sheets": [
+      [
+        "Level 01 Area B Floor Plan Dimensions",
+        "A101B.1"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing systems including vents and risers.": {
+    "id": 33,
+    "sheets": [
+      [
+        "Level 01 Area C Floor Plan",
+        "A101C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures for all student restrooms and shower areas.": {
+    "id": 34,
+    "sheets": [
+      [
+        "Overall Level 02 Floor Plan",
+        "A102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install domestic water, sanitary waste, and vent piping systems for all new plumbing fixtures.": {
+    "id": 35,
+    "sheets": [
+      [
+        "Overall Level 02 Floor Plan",
+        "A102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide plumbing systems including fixtures for restrooms, shower, and custodial areas.": {
+    "id": 36,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan",
+        "A102A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and fixtures for restrooms and shower areas.": {
+    "id": 37,
+    "sheets": [
+      [
+        "Level 02 Area A Floor Plan Dimensions",
+        "A102A.1"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide complete plumbing systems including fixtures, vents, and risers for all restrooms.": {
+    "id": 38,
+    "sheets": [
+      [
+        "Level 02 & Level 03 Area B Floor Plan",
+        "A102B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted plumbing fixtures.": {
+    "id": 39,
+    "sheets": [
+      [
+        "Level 02 & Level 03 Area B Floor Plan Dimensions",
+        "A102B.1"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing systems in areas with open-to-structure painted ceilings.": {
+    "id": 40,
+    "sheets": [
+      [
+        "Level 01 Area B Reflected Ceiling Plan",
+        "A110B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures in all restrooms and shower areas.": {
+    "id": 41,
+    "sheets": [
+      [
+        "Overall Level 02 Reflected Ceiling Plan",
+        "A111"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures for restrooms and shower areas.": {
+    "id": 42,
+    "sheets": [
+      [
+        "Level 02 Area A Reflected Ceiling Plan",
+        "A111A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install roof drains": {
+    "id": 43,
+    "sheets": [
+      [
+        "Overall Roof Plan",
+        "A120"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install roof drain and overflow roof drain systems": {
+    "id": 44,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install insulated PVC drain piping with supports": {
+    "id": 45,
+    "sheets": [
+      [
+        "Roof Details",
+        "A121"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including water closets, urinals, lavatories, sinks, and water fountains.": {
+    "id": 46,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install insulation on exposed pipes under lavatories and sinks per ADA requirements.": {
+    "id": 47,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Furnish and install Water Closets (WC).": {
+    "id": 48,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install Urinals.": {
+    "id": 49,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install wall-mount and undermount lavatories.": {
+    "id": 50,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install shower fixtures.": {
+    "id": 51,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install Electric Water Coolers (EWC) and Water Fountains.": {
+    "id": 52,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Insulate exposed pipes and surfaces under lavatories and sinks per ADA requirements.": {
+    "id": 53,
+    "sheets": [
+      [
+        "Enlarged Toilet Room Plans",
+        "A401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Furnish and install drinking fountain/bottle-filling station.": {
+    "id": 54,
+    "sheets": [
+      [
+        "Enlarged Plans And Details",
+        "A402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install sump pump in elevator pit.": {
+    "id": 55,
+    "sheets": [
+      [
+        "Enlarged Elevator Plan, Sections And Details",
+        "A710"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Furnish and install drinking fountain and bottle filling station": {
+    "id": 56,
+    "sheets": [
+      [
+        "Level 01 Area A Equipment Plan",
+        "A801A"
+      ],
+      [
+        "Level 01 Area B Equipment Plan",
+        "A801B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install floor drains": {
+    "id": 57,
+    "sheets": [
+      [
+        "Level 01 Area A Equipment Plan",
+        "A801A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in for sinks at casework locations": {
+    "id": 58,
+    "sheets": [
+      [
+        "Level 01 Area A Equipment Plan",
+        "A801A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install floor drains": {
+    "id": 59,
+    "sheets": [
+      [
+        "Level 01 Area B Equipment Plan",
+        "A801B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install sinks in casework": {
+    "id": 60,
+    "sheets": [
+      [
+        "Level 01 Area B Equipment Plan",
+        "A801B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install floor drains.": {
+    "id": 61,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ],
+      [
+        "Level 02 Area A Equipment Plan",
+        "A802A"
+      ],
+      [
+        "Level 02 Area B Equipment Plan",
+        "A802B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install mop sink (EQ4).": {
+    "id": 62,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and final connections for sinks.": {
+    "id": 63,
+    "sheets": [
+      [
+        "Level 01 Area C Equipment Plan",
+        "A801C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install drinking fountain and bottle filling station combination units.": {
+    "id": 64,
+    "sheets": [
+      [
+        "Level 02 Area A Equipment Plan",
+        "A802A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install mop sinks.": {
+    "id": 65,
+    "sheets": [
+      [
+        "Level 02 Area A Equipment Plan",
+        "A802A"
+      ],
+      [
+        "Level 01 Area C Finish Plan",
+        "AI101C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install toilets and shower fixtures.": {
+    "id": 66,
+    "sheets": [
+      [
+        "Level 02 Area A Equipment Plan",
+        "A802A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install drinking fountain and bottle filling stations.": {
+    "id": 67,
+    "sheets": [
+      [
+        "Level 02 Area B Equipment Plan",
+        "A802B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install sinks including connections.": {
+    "id": 68,
+    "sheets": [
+      [
+        "Level 02 Area B Equipment Plan",
+        "A802B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including EWC, urinals, lavatories, and mop sinks.": {
+    "id": 69,
+    "sheets": [
+      [
+        "Mounting Heights & Equipment Details",
+        "A810"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install identification for plumbing piping and equipment.": {
+    "id": 70,
+    "sheets": [
+      [
+        "Signage Schedule And Details",
+        "A811"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install undermount sinks.": {
+    "id": 71,
+    "sheets": [
+      [
+        "Casework Details",
+        "A820"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install faucets.": {
+    "id": 72,
+    "sheets": [
+      [
+        "Casework Details",
+        "A820"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install insulation on exposed pipes below sinks.": {
+    "id": 73,
+    "sheets": [
+      [
+        "Casework Details",
+        "A820"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Provide and install plumbing cleanouts.": {
+    "id": 74,
+    "sheets": [
+      [
+        "Millwork Plans & Details",
+        "A822"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including sinks and mop sinks": {
+    "id": 75,
+    "sheets": [
+      [
+        "Level 01 Area A Finish Plan",
+        "AI101A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including mop sinks and showers": {
+    "id": 76,
+    "sheets": [
+      [
+        "Level 02 Area A Finish Plan",
+        "AI102A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in for all sink locations": {
+    "id": 77,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI200"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and connections for sinks.": {
+    "id": 78,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI201"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing fixtures, including sinks, with all necessary rough-ins and connections": {
+    "id": 79,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI202"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install sinks, including faucets and drain assemblies.": {
+    "id": 80,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI203"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Coordination of plumbing rough-ins for fixtures located in casework.": {
+    "id": 81,
+    "sheets": [
+      [
+        "Interior Elevations",
+        "AI204"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install pipe wrap.": {
+    "id": 82,
+    "sheets": [
+      [
+        "Interior Elevations Toilet Rooms",
+        "AI206"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Plumbing rough-in and fixture installation for showers.": {
+    "id": 83,
+    "sheets": [
+      [
+        "Interior Elevations Toilet Rooms",
+        "AI206"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install domestic water, sanitary, vent, and gas piping systems.": {
+    "id": 84,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install isolation ball valves, branch shut-off valves, and emergency gas shutoffs.": {
+    "id": 85,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Install chrome plated piping, stop valves, and escutcheons for exposed plumbing in occupied spaces.": {
+    "id": 86,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install trap primers or approved trap seals for all floor drains.": {
+    "id": 87,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install shock absorbers in the domestic cold and hot water piping.": {
+    "id": 88,
+    "sheets": [
+      [
+        "Plumbing Symbols, Abbreviations, And Notes",
+        "P-100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install sanitary (SAN) drainage piping system, including 4\" and 6\" sizes.": {
+    "id": 89,
+    "sheets": [
+      [
+        "Below First Floor Plan Plumbing New",
+        "P-400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install storm drainage (RC Rain Conductor) piping system.": {
+    "id": 90,
+    "sheets": [
+      [
+        "Below First Floor Plan Plumbing New",
+        "P-400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install hangers and supports for plumbing piping systems.": {
+    "id": 91,
+    "sheets": [
+      [
+        "Below First Floor Plan Plumbing New",
+        "P-400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Provide and install below-grade sanitary service piping.": {
+    "id": 92,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install below-grade roof conductor service piping.": {
+    "id": 93,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install above-grade sanitary waste piping risers for all fixtures.": {
+    "id": 94,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install above-grade roof conductor piping and downspouts.": {
+    "id": 95,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install vent piping system.": {
+    "id": 96,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install plumbing cleanouts (YCO, FCO).": {
+    "id": 97,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install sump pump in sump pit.": {
+    "id": 98,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area A",
+        "P-400A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Install 2-inch sanitary (SAN) waste piping for fixture rough-ins (SK, FD, ED, EWC)": {
+    "id": 99,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area B",
+        "P-400B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install 4-inch sanitary (SAN) waste piping": {
+    "id": 100,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area B",
+        "P-400B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install 2-inch vent (V) piping": {
+    "id": 101,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area B",
+        "P-400B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install roof conductor (RC) piping": {
+    "id": 102,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area B",
+        "P-400B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install floor cleanouts (FCO)": {
+    "id": 103,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area B",
+        "P-400B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install grease interceptor including vent and trap per manufacturer's instructions.": {
+    "id": 104,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install sanitary waste piping system.": {
+    "id": 105,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install sanitary vent piping system.": {
+    "id": 106,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install 6\" above-grade gas riser piping.": {
+    "id": 107,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install 4\" above-grade domestic cold water riser piping.": {
+    "id": 108,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install floor cleanouts (FCO).": {
+    "id": 109,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install yard cleanouts (YCO).": {
+    "id": 110,
+    "sheets": [
+      [
+        "Below Level 01 Plumbing Area C",
+        "P-400C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install domestic cold water (CW) piping": {
+    "id": 111,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic hot water (HW) piping": {
+    "id": 112,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic hot water return (HWR) piping": {
+    "id": 113,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide insulation for domestic water piping": {
+    "id": 114,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Provide hangers and supports for plumbing piping and equipment": {
+    "id": 115,
+    "sheets": [
+      [
+        "Level 01 Overall Plumbing",
+        "P-401"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install sanitary waste and vent piping systems.": {
+    "id": 116,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ],
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ],
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install domestic cold and hot water return piping.": {
+    "id": 117,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install wall hydrants at exterior locations.": {
+    "id": 118,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install floor cleanouts (FCO).": {
+    "id": 119,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area A",
+        "P-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install domestic hot, cold, and hot water return piping systems.": {
+    "id": 120,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Furnish and install roof and overflow storm drainage piping systems.": {
+    "id": 121,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install wall hydrant.": {
+    "id": 122,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install plumbing cleanouts (WCO, FCO).": {
+    "id": 123,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install overflow spout.": {
+    "id": 124,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Perform testing and balancing of domestic water system.": {
+    "id": 125,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area B",
+        "P-401B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ]
+    ]
+  },
+  "Install domestic cold water (CW) and hot water (HW) piping systems": {
+    "id": 126,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area C",
+        "P-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install sanitary (SAN) and vent (V) piping systems": {
+    "id": 127,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area C",
+        "P-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install drain piping from wash sink to grease interceptor": {
+    "id": 128,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area C",
+        "P-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install exterior wall hydrant": {
+    "id": 129,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area C",
+        "P-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install mini-condensate pump and route drain to mop sink": {
+    "id": 130,
+    "sheets": [
+      [
+        "Level 01 Plumbing Area C",
+        "P-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures for staff and student toilets": {
+    "id": 131,
+    "sheets": [
+      [
+        "Level 02 Overall Plumbing",
+        "P-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide domestic water piping rough-in for all plumbing fixtures": {
+    "id": 132,
+    "sheets": [
+      [
+        "Level 02 Overall Plumbing",
+        "P-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide sanitary waste and vent piping for all plumbing fixtures": {
+    "id": 133,
+    "sheets": [
+      [
+        "Level 02 Overall Plumbing",
+        "P-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic cold water (CW) piping.": {
+    "id": 134,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic hot water (HW) piping.": {
+    "id": 135,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install hot water return (HWR) piping.": {
+    "id": 136,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install sanitary (SAN) piping.": {
+    "id": 137,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install condensate drain (CD) piping.": {
+    "id": 138,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install Blue Diamond mini-condensate pump.": {
+    "id": 139,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area A",
+        "P-402A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install domestic cold and hot water piping systems.": {
+    "id": 140,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install storm drainage piping system including roof and overflow drains.": {
+    "id": 141,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including water closets, lavatories, and floor drains.": {
+    "id": 142,
+    "sheets": [
+      [
+        "Level 02 Plumbing Area B",
+        "P-402B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install exterior gas piping": {
+    "id": 143,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install gas pipe supports on support pads": {
+    "id": 144,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install freeze-proof roof hydrant": {
+    "id": 145,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install combination roof and overflow drains": {
+    "id": 146,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install 3/4\" domestic water and gas piping": {
+    "id": 147,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install 3\" vent piping": {
+    "id": 148,
+    "sheets": [
+      [
+        "Level 03 Plumbing Roof",
+        "P-403"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic water heaters (DWH-1, DWH-3) and associated boiler.": {
+    "id": 149,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install domestic cold water (CW) piping system.": {
+    "id": 150,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ],
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Install domestic hot water (HW) and hot water return (HWR) piping system.": {
+    "id": 151,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Install facility natural gas piping system.": {
+    "id": 152,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Install 3\" gas line final connection to generator, including dirt leg and shut-off valve.": {
+    "id": 153,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide new high-capacity gas meter (12,510 MBH).": {
+    "id": 154,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install domestic water meter.": {
+    "id": 155,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ],
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install mini-condensate pump and route drain to mop sink.": {
+    "id": 156,
+    "sheets": [
+      [
+        "Plumbing Enlarged Boiler Room Plan",
+        "P-700"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Provide and install sanitary waste (SAN) piping system.": {
+    "id": 157,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install vent (V) piping system.": {
+    "id": 158,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install domestic cold water (CW) piping system.": {
+    "id": 159,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Provide and install domestic hot water (HW) and hot water return (HWR) piping systems.": {
+    "id": 160,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Provide and install overflow, roof, and condensate (ORC, RC, CD) drain piping system.": {
+    "id": 161,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including lavatories (LAV), water closets (EWC), and urinals (UR).": {
+    "id": 162,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install cleanouts (CO) for plumbing system.": {
+    "id": 163,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install overflow spout 18 inches above grade.": {
+    "id": 164,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Perform water system balancing to achieve specified flow rates.": {
+    "id": 165,
+    "sheets": [
+      [
+        "Plumbing Enlarged Bathroom Plans",
+        "P-701"
+      ]
+    ],
+    "specs": [
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install sump pump for elevator pit.": {
+    "id": 166,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Install domestic waste, vent, and discharge piping.": {
+    "id": 167,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic water pumps including hot water return and in-line circulating pumps.": {
+    "id": 168,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ]
+    ]
+  },
+  "Furnish and install plumbing equipment including grease interceptor and domestic water heater (DWH-3).": {
+    "id": 169,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including floor sinks and freeze-proof roof hydrants.": {
+    "id": 170,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install general-duty valves including gate and check valves.": {
+    "id": 171,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Install wall and floor cleanouts.": {
+    "id": 172,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install reduced pressure backflow preventer.": {
+    "id": 173,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install 1-inch natural gas piping.": {
+    "id": 174,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install rain conductor piping.": {
+    "id": 175,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install water closets (WC-1, EWC-1).": {
+    "id": 176,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install lavatories (LAV-1, LAV-2).": {
+    "id": 177,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install janitor's sink (JAN-2).": {
+    "id": 178,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install domestic hot water (HW) piping system.": {
+    "id": 179,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Install sanitary (SAN) waste piping system.": {
+    "id": 180,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install vent (V) piping system.": {
+    "id": 181,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install floor drains (FD-1) and equipment drains (ED-1).": {
+    "id": 182,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install plumbing cleanouts (ECO, WOD).": {
+    "id": 183,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install water closet carriers (WCC).": {
+    "id": 184,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-801"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Install domestic hot and cold water piping": {
+    "id": 185,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-802"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Install sanitary waste and vent piping": {
+    "id": 186,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-802"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including showers and lavatories": {
+    "id": 187,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-802"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install plumbing specialties including wall and floor cleanouts": {
+    "id": 188,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-802"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install domestic cold water (CW) piping system.": {
+    "id": 189,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Furnish and install domestic hot water (HW) and hot water return (HWR) piping systems.": {
+    "id": 190,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ]
+    ]
+  },
+  "Furnish and install sanitary (SAN) and vent (V) piping systems.": {
+    "id": 191,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures, including lavatories (LAV-1) and water closets (WC-1).": {
+    "id": 192,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install floor drains (FD), equipment drains (ED-1), and cleanouts (ECO).": {
+    "id": 193,
+    "sheets": [
+      [
+        "Plumbing Details",
+        "P-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install domestic water heater DWH-EF-100T-199E-3N.": {
+    "id": 194,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide and install domestic hot and cold water piping systems.": {
+    "id": 195,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install sanitary waste and vent piping systems.": {
+    "id": 196,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures as per the plumbing fixture schedule.": {
+    "id": 197,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install wall-mounted water closet WC-1 including carrier.": {
+    "id": 198,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install finish area floor drain FD-1 with trap.": {
+    "id": 199,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install sump pump system as per schedule.": {
+    "id": 200,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Furnish and install grease interceptor GI-1 for kitchen.": {
+    "id": 201,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install gas regulator R-1 for kitchen equipment.": {
+    "id": 202,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install hot water recirculation pump system.": {
+    "id": 203,
+    "sheets": [
+      [
+        "Plumbing Schedules",
+        "P-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ]
+    ]
+  },
+  "Install condensate drain piping for Rooftop Unit (RTU-5)": {
+    "id": 204,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install natural gas piping to Rooftop Unit (RTU-5)": {
+    "id": 205,
+    "sheets": [
+      [
+        "Level 01 Hvac Area A",
+        "M-401A"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Install condensate piping from AC units to mop sink.": {
+    "id": 206,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install 4\" PVC vent piping for kiln exhaust system.": {
+    "id": 207,
+    "sheets": [
+      [
+        "Level 01 Hvac Area C",
+        "M-401C"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide allowance for general plumbing scope.": {
+    "id": 208,
+    "sheets": [
+      [
+        "Level 01 Piping Area A",
+        "M-601A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures in restroom and custodial areas.": {
+    "id": 209,
+    "sheets": [
+      [
+        "Level 02 Overall Piping",
+        "M-602"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install domestic water piping and distribution system.": {
+    "id": 210,
+    "sheets": [
+      [
+        "Level 02 Overall Piping",
+        "M-602"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install sanitary waste and vent piping system.": {
+    "id": 211,
+    "sheets": [
+      [
+        "Level 02 Overall Piping",
+        "M-602"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install condensate drain piping from pump up through roof": {
+    "id": 212,
+    "sheets": [
+      [
+        "Level 02 Piping Area A",
+        "M-602A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide condensate drain piping from AC unit to mop sink.": {
+    "id": 213,
+    "sheets": [
+      [
+        "Enlarged Boiler Room Plan Hvac Piping New",
+        "M-700"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Provide and install 1-1/2\" equipment drain piping system, including valves and connections to floor drains.": {
+    "id": 214,
+    "sheets": [
+      [
+        "Mechanical Details",
+        "M-800"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install a glycol make-up unit for the hot water system.": {
+    "id": 215,
+    "sheets": [
+      [
+        "Mechanical Controls Boiler Plant",
+        "M-803"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Install condensate drain piping from rooftop units, including overflow sensor for shutdown.": {
+    "id": 216,
+    "sheets": [
+      [
+        "Mechanical Controls Szvav Rooftop Units (rtu 5 & Rtu 6)",
+        "M-804"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install condensate overflow sensor with interlock to cooling controller.": {
+    "id": 217,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 1,2,4)",
+        "M-805"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide and install condensate overflow sensor with interlock for RTU shutdown": {
+    "id": 218,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Rooftop Units (rtu 5)",
+        "M-806"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install condensate overflow sensor.": {
+    "id": 219,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide control wiring to interlock condensate overflow sensor with the unit cooling controller for shutdown.": {
+    "id": 220,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 1",
+        "M-808"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install condensate overflow detection sensor with interlock for unit shutdown.": {
+    "id": 221,
+    "sheets": [
+      [
+        "Mechanical Controls Doas 2",
+        "M-809"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install modulating hot water reheat valves for VAV terminal units.": {
+    "id": 222,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 05 23",
+        "General-Duty Valves for HVAC Piping"
+      ]
+    ]
+  },
+  "Provide and install hydronic piping for the hot water reheat system.": {
+    "id": 223,
+    "sheets": [
+      [
+        "Mechanical Controls Vav Terminal Unit",
+        "M-811"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and install modulating and proportional hot water reheat valves.": {
+    "id": 224,
+    "sheets": [
+      [
+        "Mechanical Controls Vav W/ Remote Heat",
+        "M-812"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install domestic water heaters (DWH-1, 2, & 3) with unit-mounted controllers.": {
+    "id": 225,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install domestic water recirculation pumps (RP-1 & 2) with aquastat control.": {
+    "id": 226,
+    "sheets": [
+      [
+        "Mechanical Controls Water Heaters, Ac Units, Air Units & Snowmelt Htp",
+        "M-813"
+      ]
+    ],
+    "specs": [
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ]
+    ]
+  },
+  "Install natural gas piping system for boilers, including dedicated gas pressure regulators.": {
+    "id": 227,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide and install hydronic piping system with valves, strainers, and fittings.": {
+    "id": 228,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "23 21 13",
+        "Hydronic Piping"
+      ]
+    ]
+  },
+  "Furnish and charge hydronic system with 30% propylene glycol solution.": {
+    "id": 229,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install condensate drainage system including neutralizers and pumps.": {
+    "id": 230,
+    "sheets": [
+      [
+        "Mechanical Schedules",
+        "M-900"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Provide rough-in for plumbing systems in RESTROOM including waste, vent, and domestic water piping.": {
+    "id": 231,
+    "sheets": [
+      [
+        "Level 02 Overall Lighting",
+        "E-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures in RESTROOM.": {
+    "id": 232,
+    "sheets": [
+      [
+        "Level 02 Overall Lighting",
+        "E-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install fixture carriers for wall-hung fixtures in RESTROOM.": {
+    "id": 233,
+    "sheets": [
+      [
+        "Level 02 Overall Lighting",
+        "E-402"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide electrical power connection for Electric Water Cooler (EWC)": {
+    "id": 234,
+    "sheets": [
+      [
+        "Level 01 Power Area A",
+        "E-501A"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install electric water cooler (EWC)": {
+    "id": 235,
+    "sheets": [
+      [
+        "Level 01 Power Area B",
+        "E-501B"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install sump pump.": {
+    "id": 236,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ]
+    ]
+  },
+  "Furnish and install domestic water heaters (DWH-1, DWH-2).": {
+    "id": 237,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install Area 'A' electric water closet (EWC).": {
+    "id": 238,
+    "sheets": [
+      [
+        "Electrical Schedules",
+        "E-901"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install plumbing fixtures for employee toilet facilities.": {
+    "id": 239,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install hot water supply system for sinks and dishmachines.": {
+    "id": 240,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide and install lavatory sinks in food preparation and dishwashing areas.": {
+    "id": 241,
+    "sheets": [
+      [
+        "Foodservice General Notes & Sheet Index",
+        "K100"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install plumbing fixtures including sinks, faucets, and pre-rinse assemblies": {
+    "id": 242,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and connections for all foodservice equipment": {
+    "id": 243,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install water filter system": {
+    "id": 244,
+    "sheets": [
+      [
+        "Foodservice Layout Enlarged",
+        "K102"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and final connections for foodservice equipment": {
+    "id": 245,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Furnish and install sinks including hand sinks, three-compartment sinks, and mop sinks": {
+    "id": 246,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install faucets, pre-rinse assemblies, and water filters": {
+    "id": 247,
+    "sheets": [
+      [
+        "Foodservice Equipment Schedule",
+        "K200"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install water, gas, and steam supply lines for kitchen equipment.": {
+    "id": 248,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Furnish and install drain manifolds, tailpieces, traps, and vent piping for kitchen equipment.": {
+    "id": 249,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install shut-off valves, gas supply line strainers/filters, and backflow prevention devices.": {
+    "id": 250,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install 12\"x12\"x8\" floor sinks with minimum 3\" drain connection.": {
+    "id": 251,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install Type 'L' copper tubing drain lines from equipment to floor sinks.": {
+    "id": 252,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ]
+    ]
+  },
+  "Install kitchen equipment contractor-furnished faucet assemblies, pre-rinse sprays, valves, gauges, and water filtration systems.": {
+    "id": 253,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Furnish and install chrome plated piping on all exposed piping above counter height.": {
+    "id": 254,
+    "sheets": [
+      [
+        "Foodservice Plumbing Layout",
+        "K300"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 05 19",
+        "Meters And Gauges For Plumbing Piping"
+      ],
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 05 53",
+        "Identification for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 07 00",
+        "Plumbing Insulation"
+      ],
+      [
+        "22 08 00",
+        "Commissioning of Plumbing"
+      ],
+      [
+        "22 11 23",
+        "Domestic Water Pumps"
+      ],
+      [
+        "22 14 29",
+        "Sump Pumps"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide plumbing rough-in and final connections for all foodservice equipment.": {
+    "id": 255,
+    "sheets": [
+      [
+        "Foodservice Electrical Layout",
+        "K301"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 00",
+        "Common Work Results For Plumbing"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  },
+  "Provide plumbing connections for hot and cold food unit drains.": {
+    "id": 256,
+    "sheets": [
+      [
+        "Custom Serving Counter Sheets",
+        "K400"
+      ]
+    ],
+    "specs": [
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Install grease drain with removable cup.": {
+    "id": 257,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K501"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Provide and install natural gas piping to make-up air unit.": {
+    "id": 258,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K503"
+      ]
+    ],
+    "specs": [
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide and install gas valve.": {
+    "id": 259,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K506"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ]
+    ]
+  },
+  "Furnish and install an electric gas valve interlocked with the fire suppression and control system.": {
+    "id": 260,
+    "sheets": [
+      [
+        "Exhaust Hood System Details",
+        "K508"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 23",
+        "General-Duty Valves For Plumbing Piping"
+      ],
+      [
+        "23 11 23",
+        "Facility Natural-Gas Piping"
+      ]
+    ]
+  },
+  "Provide and install rod support brackets for sinks with twist lever waste": {
+    "id": 261,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K600"
+      ]
+    ],
+    "specs": [
+      [
+        "22 05 29",
+        "Hangers and Supports for Plumbing Piping and Equipment"
+      ],
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ]
+    ]
+  },
+  "Plumbing rough-in and final connection for integral sink": {
+    "id": 262,
+    "sheets": [
+      [
+        "Foodservice Details, Elevations & Sections",
+        "K600"
+      ]
+    ],
+    "specs": [
+      [
+        "22 40 00",
+        "Plumbing Fixtures"
+      ],
+      [
+        "22 30 00",
+        "Plumbing Equipment"
+      ]
+    ]
+  }
+}
