@@ -324,7 +324,9 @@ function renderScopeItemsTable(scopeItems, contractItems, contractItemsRaw, disc
         const contractItemList = derivedFrom.map(id => {
             const idStr = String(id);
             const contractDesc = contractItems && contractItems[idStr] ? contractItems[idStr] : `Contract Item ${id}`;
-            return `<span class="contract-item-badge" title="${contractDesc}">${id}</span>`;
+            // Escape quotes for HTML attribute
+            const escapedDesc = contractDesc.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+            return `<span class="contract-item-badge" data-tooltip="${escapedDesc}">${id}</span>`;
         }).join(' ');
         
         const { sheets, specs } = getScopeItemSheetsAndSpecs(derivedFrom);
@@ -339,7 +341,86 @@ function renderScopeItemsTable(scopeItems, contractItems, contractItemsRaw, disc
     }
     
     html += '</tbody></table>';
+    
+    // After rendering, set up tooltip positioning
+    setTimeout(() => {
+        setupTooltips();
+    }, 0);
+    
     return html;
+}
+
+// Setup tooltips with proper positioning
+function setupTooltips() {
+    const badges = document.querySelectorAll('.contract-item-badge[data-tooltip]');
+    
+    badges.forEach(badge => {
+        // Skip if already has event listeners (check for data attribute)
+        if (badge.dataset.tooltipSetup) return;
+        badge.dataset.tooltipSetup = 'true';
+        
+        const tooltipText = badge.getAttribute('data-tooltip');
+        if (!tooltipText) return;
+        
+        let tooltip = null;
+        let tooltipArrow = null;
+        
+        badge.addEventListener('mouseenter', (e) => {
+            // Create tooltip element
+            tooltip = document.createElement('div');
+            tooltip.className = 'contract-item-tooltip';
+            tooltip.textContent = tooltipText;
+            document.body.appendChild(tooltip);
+            
+            // Create arrow
+            tooltipArrow = document.createElement('div');
+            tooltipArrow.className = 'contract-item-tooltip-arrow';
+            document.body.appendChild(tooltipArrow);
+            
+            // Position tooltip
+            positionTooltip(e.target, tooltip, tooltipArrow);
+        });
+        
+        badge.addEventListener('mouseleave', () => {
+            if (tooltip) {
+                tooltip.remove();
+                tooltip = null;
+            }
+            if (tooltipArrow) {
+                tooltipArrow.remove();
+                tooltipArrow = null;
+            }
+        });
+        
+        badge.addEventListener('mousemove', (e) => {
+            if (tooltip) {
+                positionTooltip(e.target, tooltip, tooltipArrow);
+            }
+        });
+    });
+}
+
+function positionTooltip(badge, tooltip, arrow) {
+    const rect = badge.getBoundingClientRect();
+    const tooltipRect = tooltip.getBoundingClientRect();
+    
+    // Position above the badge
+    const top = rect.top - tooltipRect.height - 8;
+    const left = rect.left + (rect.width / 2) - (tooltipRect.width / 2);
+    
+    // Ensure tooltip doesn't go off screen
+    const finalLeft = Math.max(10, Math.min(left, window.innerWidth - tooltipRect.width - 10));
+    const finalTop = Math.max(10, top);
+    
+    tooltip.style.left = finalLeft + 'px';
+    tooltip.style.top = finalTop + 'px';
+    
+    if (arrow) {
+        const arrowLeft = rect.left + (rect.width / 2) - 5;
+        const arrowTop = rect.top - 8;
+        arrow.style.left = arrowLeft + 'px';
+        arrow.style.top = arrowTop + 'px';
+    }
 }
 
 // Initialize GRPS MEP

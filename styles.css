@@ -881,11 +881,7 @@ body {
     background-color: #fafafa;
     position: sticky;
     top: 0;
-    z-index: 10;
-}
-
-.grps-table thead th {
-    position: relative;
+    z-index: 100;
 }
 
 .grps-table th {
@@ -932,19 +928,17 @@ body {
     cursor: help;
     transition: background-color 0.2s;
     position: relative;
+    z-index: 1;
 }
 
 .contract-item-badge:hover {
     background-color: #bbdefb;
+    z-index: 10001;
 }
 
-/* Enhanced tooltip for contract item badges */
-.contract-item-badge[title]:hover::after {
-    content: attr(title);
-    position: absolute;
-    bottom: calc(100% + 8px);
-    left: 50%;
-    transform: translateX(-50%);
+/* JavaScript-based tooltip for contract item badges */
+.contract-item-tooltip {
+    position: fixed;
     padding: 8px 12px;
     background-color: #333;
     color: #fff;
@@ -952,21 +946,22 @@ body {
     font-size: 12px;
     white-space: normal;
     max-width: 400px;
-    z-index: 10000;
+    min-width: 200px;
+    z-index: 100000;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     word-wrap: break-word;
     pointer-events: none;
+    line-height: 1.4;
 }
 
-.contract-item-badge[title]:hover::before {
-    content: '';
-    position: absolute;
-    bottom: calc(100% + 3px);
-    left: 50%;
-    transform: translateX(-50%);
-    border: 5px solid transparent;
-    border-top-color: #333;
-    z-index: 10001;
+.contract-item-tooltip-arrow {
+    position: fixed;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333;
+    z-index: 100001;
     pointer-events: none;
 }
 
