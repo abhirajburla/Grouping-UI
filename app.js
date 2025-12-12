@@ -354,6 +354,12 @@ function showScopesView() {
     document.getElementById('navGroupingMapping').style.color = '#94a3b8';
     const navGrpsMep = document.getElementById('navGrpsMep');
     if (navGrpsMep) navGrpsMep.style.color = '#94a3b8';
+    
+    // Update breadcrumb
+    const breadcrumbProject = document.getElementById('breadcrumbProject');
+    if (breadcrumbProject) {
+        breadcrumbProject.textContent = 'Hotel 3';
+    }
 }
 
 function showPackageMappingView() {
@@ -366,6 +372,13 @@ function showPackageMappingView() {
     document.getElementById('navGroupingMapping').style.color = '#ffffff';
     const navGrpsMep = document.getElementById('navGrpsMep');
     if (navGrpsMep) navGrpsMep.style.color = '#94a3b8';
+    
+    // Update breadcrumb
+    const breadcrumbProject = document.getElementById('breadcrumbProject');
+    if (breadcrumbProject) {
+        breadcrumbProject.textContent = 'Hotel 3';
+    }
+    
     renderPackageMapping('electrical');
 }
 

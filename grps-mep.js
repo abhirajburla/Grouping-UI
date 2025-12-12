@@ -439,6 +439,12 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('navGroupingMapping').style.color = '#94a3b8';
             navGrpsMep.style.color = '#ffffff';
             
+            // Update breadcrumb
+            const breadcrumbProject = document.getElementById('breadcrumbProject');
+            if (breadcrumbProject) {
+                breadcrumbProject.textContent = 'GRPS MEP';
+            }
+            
             // Show GRPS MEP panel
             const grpsPanel = document.getElementById('grpsMepPanel');
             if (grpsPanel) {
