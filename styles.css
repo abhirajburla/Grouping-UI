@@ -861,7 +861,7 @@ body {
     flex: 1;
     overflow-y: auto;
     overflow-x: auto;
-    padding: 20px 30px;
+    padding: 0;
     min-height: 0;
 }
 
@@ -870,6 +870,11 @@ body {
     border-collapse: collapse;
     font-size: 14px;
     background-color: #ffffff;
+    margin: 0;
+}
+
+.grps-mep-content .grps-table {
+    margin-top: 0;
 }
 
 .grps-table thead {
@@ -877,6 +882,10 @@ body {
     position: sticky;
     top: 0;
     z-index: 10;
+}
+
+.grps-table thead th {
+    position: relative;
 }
 
 .grps-table th {
@@ -902,12 +911,14 @@ body {
 .grps-table td {
     padding: 12px 15px;
     vertical-align: top;
+    position: relative;
 }
 
 .derived-items {
     display: flex;
     flex-wrap: wrap;
     gap: 5px;
+    position: relative;
 }
 
 .contract-item-badge {
@@ -931,7 +942,7 @@ body {
 .contract-item-badge[title]:hover::after {
     content: attr(title);
     position: absolute;
-    bottom: 100%;
+    bottom: calc(100% + 8px);
     left: 50%;
     transform: translateX(-50%);
     padding: 8px 12px;
@@ -941,22 +952,22 @@ body {
     font-size: 12px;
     white-space: normal;
     max-width: 400px;
-    z-index: 1000;
-    margin-bottom: 5px;
+    z-index: 10000;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
     word-wrap: break-word;
+    pointer-events: none;
 }
 
 .contract-item-badge[title]:hover::before {
     content: '';
     position: absolute;
-    bottom: 100%;
+    bottom: calc(100% + 3px);
     left: 50%;
     transform: translateX(-50%);
     border: 5px solid transparent;
     border-top-color: #333;
-    margin-bottom: -5px;
-    z-index: 1001;
+    z-index: 10001;
+    pointer-events: none;
 }
 
 .empty-state {
