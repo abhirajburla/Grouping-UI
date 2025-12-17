@@ -1,0 +1,2432 @@
+[
+  {
+    "id": 1,
+    "bid item": "Furnish and Install Conduit and Raceway Systems",
+    "sheet number": "CIV500",
+    "sheet name": "Stormwater Management Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 2,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "D105",
+    "sheet name": "Demolition Plan 2319 Cellar Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 3,
+    "bid item": "Provide Temporary Electrical Service",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 4,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 5,
+    "bid item": "Furnish and Install Conduit and Raceway Systems",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 6,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 7,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 8,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 9,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 10,
+    "bid item": "Furnish and Install Receptacles, Switches, and Wiring Devices",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 11,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 12,
+    "bid item": "Furnish and Install Electric Vehicle (EV) Charger",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Backup Power & Renewable Systems"
+  },
+  {
+    "id": 13,
+    "bid item": "Provide Labeling for Electrical Panels and Devices",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 14,
+    "bid item": "Provide Weatherproof Electrical Materials and Equipment",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 15,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 16,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 17,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 18,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 19,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 20,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 21,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 22,
+    "bid item": "Furnish and Install Fire-Rated Electrical Boxes in Rated Assemblies",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 23,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 24,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 25,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 26,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 27,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 28,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 29,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 30,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 31,
+    "bid item": "Furnish and Install AFCI Protection and Electrical Panels",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 32,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 33,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 34,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 35,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E104",
+    "sheet name": "Electrical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 36,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 37,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 38,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 39,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 40,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 41,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 42,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 43,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 44,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 45,
+    "bid item": "Provide Labeling for Electrical Panels and Devices",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 46,
+    "bid item": "Provide electrical circuiting, wiring, and device labels as indicated on drawings.",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 47,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 48,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 49,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 50,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 51,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 52,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 53,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 54,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 55,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 56,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 57,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 58,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 59,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 60,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 61,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 62,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 63,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 64,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 65,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 66,
+    "bid item": "Furnish and Install Disconnect Switches for Mechanical Equipment",
+    "sheet number": "E107",
+    "sheet name": "Electrical 2315 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 67,
+    "bid item": "Provide Branch Circuits and Outlets with AFCI, Tamper-Resistant, and Specific Installation Requirements",
+    "sheet number": "E107",
+    "sheet name": "Electrical 2315 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 68,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E107",
+    "sheet name": "Electrical 2315 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 69,
+    "bid item": "Furnish and Install Smoke and Carbon Monoxide Detectors",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 70,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 71,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 72,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 73,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 74,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 75,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 76,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 77,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 78,
+    "bid item": "Furnish and Install Power for Communications and Multimedia Systems",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 79,
+    "bid item": "Furnish and Install Device Cover Plates",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 80,
+    "bid item": "Furnish and Install Conduit and Raceway Systems",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 81,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 82,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 83,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 84,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 85,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 86,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 87,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 88,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 89,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 90,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 91,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 92,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 93,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 94,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 95,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 96,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 97,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 98,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 99,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 100,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 101,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 102,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 103,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 104,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 105,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 106,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 107,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 108,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 109,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 110,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 111,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 112,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 113,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 114,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 115,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 116,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 117,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 118,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 119,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 120,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E110",
+    "sheet name": "Electrical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 121,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 122,
+    "bid item": "Furnish and Install Smoke and Carbon Monoxide Detectors",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 123,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 124,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 125,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 126,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 127,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 128,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 129,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 130,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 131,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 132,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 133,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 134,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E112",
+    "sheet name": "Electrical 2319 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 135,
+    "bid item": "Provide Branch Circuits and Outlets with AFCI, Tamper-Resistant, and Specific Installation Requirements",
+    "sheet number": "E112",
+    "sheet name": "Electrical 2319 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 136,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E112",
+    "sheet name": "Electrical 2319 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 137,
+    "bid item": "Furnish and Install Disconnect Switches for Mechanical Equipment",
+    "sheet number": "E112",
+    "sheet name": "Electrical 2319 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 138,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 139,
+    "bid item": "Furnish and Install Receptacles, Switches, and Wiring Devices",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 140,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 141,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 142,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 143,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 144,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 145,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 146,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 147,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 148,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 149,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 150,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 151,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 152,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 153,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 154,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 155,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 156,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 157,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 158,
+    "bid item": "Furnish and Install Power for Communications and Multimedia Systems",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 159,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 160,
+    "bid item": "Provide Branch Circuits and Outlets with AFCI, Tamper-Resistant, and Specific Installation Requirements",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 161,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 162,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 163,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 164,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 165,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 166,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 167,
+    "bid item": "Provide Outlet Installation per NEC 210.52, Prohibiting Back-To-Back Installation",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 168,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 169,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 170,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 171,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 172,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 173,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 174,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 175,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 176,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 177,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 178,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 179,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 180,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 181,
+    "bid item": "Furnish and Install Device Cover Plates",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 182,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 183,
+    "bid item": "Furnish and Install Power for Communications and Multimedia Systems",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 184,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 185,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E117",
+    "sheet name": "Electrical 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 186,
+    "bid item": "Furnish and Install Arc-Fault Circuit Interrupter (AFCI) Protection",
+    "sheet number": "E117",
+    "sheet name": "Electrical 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 187,
+    "bid item": "Furnish and Install Tamper-Resistant and Weather-Resistant Receptacles",
+    "sheet number": "E117",
+    "sheet name": "Electrical 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 188,
+    "bid item": "Furnish and Install Connections for Emergency Lighting and Exit Signs",
+    "sheet number": "E117",
+    "sheet name": "Electrical 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 189,
+    "bid item": "Furnish and Install Disconnect Switches for Mechanical Equipment",
+    "sheet number": "E117",
+    "sheet name": "Electrical 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 190,
+    "bid item": "Provide Electrical System Commissioning and Closeout Documentation",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 191,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 192,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 193,
+    "bid item": "Furnish and Install Grounding and Bonding System",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 194,
+    "bid item": "Provide Electrical System Commissioning and Closeout Documentation",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 195,
+    "bid item": "Furnish and Install Service Entrance Conductors and Feeders",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 196,
+    "bid item": "Furnish and Install Electrical Ductbank",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Site Electrical & Medium Voltage"
+  },
+  {
+    "id": 197,
+    "bid item": "Furnish and Install Conduit and Raceway Systems",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 198,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 199,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 200,
+    "bid item": "Provide Conduit and Provisions for Future Solar Installation",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Backup Power & Renewable Systems"
+  },
+  {
+    "id": 201,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "E200",
+    "sheet name": "Electrical Power Riser & Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 202,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 203,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 204,
+    "bid item": "Furnish and Install Fire Alarm System Wiring and Components",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 205,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 206,
+    "bid item": "Provide Lighting Systems Compliant with Energy Codes",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 207,
+    "bid item": "Provide Electrical System Commissioning and Closeout Documentation",
+    "sheet number": "E201",
+    "sheet name": "Electrical Panels & Load Calcualtion",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 208,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 209,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 210,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 211,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 212,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 213,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 214,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 215,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 216,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 217,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 218,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 219,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 220,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 221,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 222,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "E202",
+    "sheet name": "Electrical Panles",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 223,
+    "bid item": "Furnish and Install Conduit and Raceway Systems",
+    "sheet number": "E203",
+    "sheet name": "Electrical Fire Alrm System",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Raceways & Rough-In"
+  },
+  {
+    "id": 224,
+    "bid item": "Furnish and Install Fire Alarm System Wiring and Components",
+    "sheet number": "E203",
+    "sheet name": "Electrical Fire Alrm System",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Electrical Protection & Safety"
+  },
+  {
+    "id": 225,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E203",
+    "sheet name": "Electrical Fire Alrm System",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 226,
+    "bid item": "Furnish and Install Lighting Controls, Including Occupancy Sensors and System Programming",
+    "sheet number": "E203",
+    "sheet name": "Electrical Fire Alrm System",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 227,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 228,
+    "bid item": "Furnish and Install Electrical Connections for Appliances and Mechanical Equipment",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Equipment Power Connections"
+  },
+  {
+    "id": 229,
+    "bid item": "Furnish and Install Light Switches",
+    "sheet number": "P114",
+    "sheet name": "Plumbing 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 230,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 231,
+    "bid item": "Furnish and Install Branch Circuiting, Wiring, and Connections",
+    "sheet number": "A010",
+    "sheet name": "Specifications",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Wiring"
+  },
+  {
+    "id": 232,
+    "bid item": "Provide Conduit and Provisions for Future Solar Installation",
+    "sheet number": "A102",
+    "sheet name": "Overall Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Backup Power & Renewable Systems"
+  },
+  {
+    "id": 233,
+    "bid item": "Furnish and Install Outlets for Electric Bikes or Scooters",
+    "sheet number": "A113",
+    "sheet name": "2323 Cellar Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Backup Power & Renewable Systems"
+  },
+  {
+    "id": 234,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A120",
+    "sheet name": "2315 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 235,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A120",
+    "sheet name": "2315 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 236,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A121",
+    "sheet name": "2315 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 237,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A122",
+    "sheet name": "2315 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 238,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "A122",
+    "sheet name": "2315 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 239,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A123",
+    "sheet name": "2315 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 240,
+    "bid item": "Furnish and Install Light Switches",
+    "sheet number": "A123",
+    "sheet name": "2315 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 241,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A124",
+    "sheet name": "2319 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 242,
+    "bid item": "Provide General Electrical Work as Indicated by Drawing Labels and Symbols",
+    "sheet number": "A124",
+    "sheet name": "2319 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 243,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A124",
+    "sheet name": "2319 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 244,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A125",
+    "sheet name": "2319 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 245,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A126",
+    "sheet name": "2319 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 246,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A126",
+    "sheet name": "2319 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 247,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A127",
+    "sheet name": "2319 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 248,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A127",
+    "sheet name": "2319 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 249,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A127",
+    "sheet name": "2319 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 250,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A128",
+    "sheet name": "2323 Cellar Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 251,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A129",
+    "sheet name": "2323 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 252,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "A129",
+    "sheet name": "2323 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 253,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A130",
+    "sheet name": "2323 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 254,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "A130",
+    "sheet name": "2323 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 255,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A130",
+    "sheet name": "2323 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 256,
+    "bid item": "Provide General Coordination, Layout, and Adherence to Project Notes",
+    "sheet number": "A131",
+    "sheet name": "2323 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 257,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A131",
+    "sheet name": "2323 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 258,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A131",
+    "sheet name": "2323 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 259,
+    "bid item": "Furnish and Install Panelboards and Distribution Equipment",
+    "sheet number": "A600",
+    "sheet name": "Assembly Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Electrical Distribution (LV)"
+  },
+  {
+    "id": 260,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 261,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 262,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 263,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 264,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 265,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 266,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 267,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 268,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 269,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  },
+  {
+    "id": 270,
+    "bid item": "Furnish and Install Lighting Fixtures, Including Recessed and Fire-Rated Assemblies",
+    "sheet number": "A603",
+    "sheet name": "Lighting Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Lighting & Lighting Controls"
+  }
+]

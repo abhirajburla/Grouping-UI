@@ -29,7 +29,7 @@ class MyHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                     return
                 
                 # Read the generated Excel file
-                excel_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'GRPS_Scope_Items_Mapping.xlsx')
+                excel_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'Data', 'GRPS_Scope_Items_Mapping.xlsx')
                 if not os.path.exists(excel_file):
                     self.send_error(404, "Excel file not found")
                     return

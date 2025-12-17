@@ -1,0 +1,1181 @@
+[
+  {
+    "id": 1,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 2,
+    "bid item": "Furnish and Install Clothes Washers and Connections",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 3,
+    "bid item": "Furnish and Install Water Closets",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 4,
+    "bid item": "Furnish and Install Dishwashing Machines",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 5,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 6,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 7,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 8,
+    "bid item": "Furnish and Install Drainage Cleanouts",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 9,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 10,
+    "bid item": "Furnish and Install Clothes Washers and Connections",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 11,
+    "bid item": "Furnish and Install Water Closets",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 12,
+    "bid item": "Furnish and Install Dishwashing Machines",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 13,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "CIV310",
+    "sheet name": "Utility Profile",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 14,
+    "bid item": "Furnish and Install PVC Building Sewer Lateral",
+    "sheet number": "CIV320",
+    "sheet name": "Dc Water Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Site Plumbing & Utilities"
+  },
+  {
+    "id": 15,
+    "bid item": "Furnish and Install Drainage Cleanouts",
+    "sheet number": "CIV320",
+    "sheet name": "Dc Water Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 16,
+    "bid item": "Furnish and Install General Plumbing Fixtures and Equipment",
+    "sheet number": "CIV325",
+    "sheet name": "Dc Water Forms",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 17,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "CIV325",
+    "sheet name": "Dc Water Forms",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 18,
+    "bid item": "Furnish and Install Domestic Water Piping System",
+    "sheet number": "CIV325",
+    "sheet name": "Dc Water Forms",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 19,
+    "bid item": "Furnish and Install Backwater Valves",
+    "sheet number": "CIV325",
+    "sheet name": "Dc Water Forms",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 20,
+    "bid item": "Furnish and Install Backflow Preventers",
+    "sheet number": "CIV325",
+    "sheet name": "Dc Water Forms",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 21,
+    "bid item": "Furnish and Install Storm Drainage System",
+    "sheet number": "CIV400",
+    "sheet name": "Erosion And Sediment Control Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 22,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 23,
+    "bid item": "Furnish and Install Equipment Designated As P-801C",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 24,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 25,
+    "bid item": "Furnish and Install Hose Bibbs",
+    "sheet number": "E107",
+    "sheet name": "Electrical 2315 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 26,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 27,
+    "bid item": "Furnish and Install Sump Pump Systems",
+    "sheet number": "E113",
+    "sheet name": "Electrical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 28,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 29,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 30,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 31,
+    "bid item": "Furnish and Install Condensate Drain Piping",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 32,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 33,
+    "bid item": "Furnish and Install Condensate Drain Piping",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 34,
+    "bid item": "Furnish and Install Condensate Drain Piping",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 35,
+    "bid item": "Furnish and Install Condensate Drain Piping",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 36,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 37,
+    "bid item": "Furnish and Install Condensate Drain Piping",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 38,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 39,
+    "bid item": "Furnish and Install Storm Drainage System",
+    "sheet number": "M202",
+    "sheet name": "Condenstae Risers 2315, 2319 & 2323",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 40,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 41,
+    "bid item": "Furnish and Install Pipe Hangers and Supports",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 42,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 43,
+    "bid item": "Furnish and Install Drainage Cleanouts",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 44,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 45,
+    "bid item": "Furnish and Install General Plumbing Fixtures and Equipment",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 46,
+    "bid item": "Furnish and Install Vent Through Roof Penetrations",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 47,
+    "bid item": "Provide Plumbing Rough-In for Fixtures",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 48,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 49,
+    "bid item": "Furnish and Install Sump Pump Systems",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 50,
+    "bid item": "Furnish and Install Clothes Washers and Connections",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 51,
+    "bid item": "Furnish and Install Storm Drainage System",
+    "sheet number": "P000",
+    "sheet name": "Plumbing Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 52,
+    "bid item": "Furnish and Install Storm Drainage System",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Stormwater & Roof Drainage Systems"
+  },
+  {
+    "id": 53,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 54,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 55,
+    "bid item": "Furnish and Install Domestic Water Piping System",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 56,
+    "bid item": "Furnish and Install Backflow Preventers",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 57,
+    "bid item": "Provide Pipe Sleeves and Firestop Penetrations",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 58,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P100",
+    "sheet name": "Plumbing Overall Cellar And First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 59,
+    "bid item": "Furnish and Install Vent Through Roof Penetrations",
+    "sheet number": "P102",
+    "sheet name": "Plumbing Overall Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 60,
+    "bid item": "Furnish and Install Backwater Valves",
+    "sheet number": "P103",
+    "sheet name": "Plumbing 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 61,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P103",
+    "sheet name": "Plumbing 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 62,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P103",
+    "sheet name": "Plumbing 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 63,
+    "bid item": "Furnish and Install Water Closets",
+    "sheet number": "P104",
+    "sheet name": "Plumbing 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 64,
+    "bid item": "Furnish and Install Bathtubs, Showers, and Trim",
+    "sheet number": "P104",
+    "sheet name": "Plumbing 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 65,
+    "bid item": "Furnish and Install Lavatories, Vanities, and Faucets",
+    "sheet number": "P104",
+    "sheet name": "Plumbing 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 66,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P104",
+    "sheet name": "Plumbing 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 67,
+    "bid item": "Furnish and Install Bath and Shower Accessories",
+    "sheet number": "P104",
+    "sheet name": "Plumbing 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 68,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P105",
+    "sheet name": "Plumbing 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 69,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "P105",
+    "sheet name": "Plumbing 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 70,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P107",
+    "sheet name": "Plumbing 2315 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 71,
+    "bid item": "Furnish and Install Backwater Valves",
+    "sheet number": "P108",
+    "sheet name": "Plumbing 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 72,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P109",
+    "sheet name": "Plumbing 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 73,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P109",
+    "sheet name": "Plumbing 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 74,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P109",
+    "sheet name": "Plumbing 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 75,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P110",
+    "sheet name": "Plumbing 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 76,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P110",
+    "sheet name": "Plumbing 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 77,
+    "bid item": "Provide Plumbing Rough-In for Fixtures",
+    "sheet number": "P110",
+    "sheet name": "Plumbing 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 78,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P111",
+    "sheet name": "Plumbing 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 79,
+    "bid item": "Furnish and Install Water Closets",
+    "sheet number": "P111",
+    "sheet name": "Plumbing 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 80,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P111",
+    "sheet name": "Plumbing 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 81,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P111",
+    "sheet name": "Plumbing 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 82,
+    "bid item": "Furnish and Install Vent Through Roof Penetrations",
+    "sheet number": "P112",
+    "sheet name": "Plumbing 2319 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 83,
+    "bid item": "Furnish and Install General Plumbing Fixtures and Equipment",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 84,
+    "bid item": "Furnish and Install Backflow Preventers",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 85,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 86,
+    "bid item": "Furnish and Install Domestic Water Piping System",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 87,
+    "bid item": "Provide Connections to Existing Water and Sanitary Services",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Site Plumbing & Utilities"
+  },
+  {
+    "id": 88,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P113",
+    "sheet name": "Plumbing 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 89,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "P114",
+    "sheet name": "Plumbing 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 90,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P114",
+    "sheet name": "Plumbing 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 91,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P114",
+    "sheet name": "Plumbing 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 92,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 93,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 94,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 95,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 96,
+    "bid item": "Furnish and Install Gas Piping System",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 97,
+    "bid item": "Furnish and Install Tankless Water Heater",
+    "sheet number": "P115",
+    "sheet name": "Plumbing 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 98,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 99,
+    "bid item": "Furnish and Install Electric Water Heaters",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 100,
+    "bid item": "Furnish and Install General Plumbing Fixtures and Equipment",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 101,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 102,
+    "bid item": "Furnish and Install General Plumbing Fixtures and Equipment",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 103,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P116",
+    "sheet name": "Plumbing 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 104,
+    "bid item": "Furnish and Install Vent Through Roof Penetrations",
+    "sheet number": "P117",
+    "sheet name": "Plumbing 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 105,
+    "bid item": "Furnish and Install Domestic Water Piping System",
+    "sheet number": "P117",
+    "sheet name": "Plumbing 2323 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 106,
+    "bid item": "Provide Connections to Existing Water and Sanitary Services",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Site Plumbing & Utilities"
+  },
+  {
+    "id": 107,
+    "bid item": "Furnish and Install Domestic Water Piping System",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 108,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 109,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 110,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 111,
+    "bid item": "Provide Disinfection of Potable Water System",
+    "sheet number": "P200",
+    "sheet name": "Plumbing Water And Fire Riser Diagrams",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Domestic Water Distribution"
+  },
+  {
+    "id": 112,
+    "bid item": "Furnish and Install Piping Specialties, Valves, and Traps",
+    "sheet number": "P201",
+    "sheet name": "Plumbing Sanitary Riser Diagram 2315 2319",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 113,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P201",
+    "sheet name": "Plumbing Sanitary Riser Diagram 2315 2319",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 114,
+    "bid item": "Provide Plumbing Rough-In for Fixtures",
+    "sheet number": "P201",
+    "sheet name": "Plumbing Sanitary Riser Diagram 2315 2319",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 115,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P201",
+    "sheet name": "Plumbing Sanitary Riser Diagram 2315 2319",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 116,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P201",
+    "sheet name": "Plumbing Sanitary Riser Diagram 2315 2319",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 117,
+    "bid item": "Furnish and Install Sanitary, Waste, and Vent (DWV) Piping Systems",
+    "sheet number": "P202",
+    "sheet name": "Plumbing Sanitary Riser 2323 And Storm Riser Diagram",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 118,
+    "bid item": "Provide Plumbing Rough-In for Fixtures",
+    "sheet number": "P202",
+    "sheet name": "Plumbing Sanitary Riser 2323 And Storm Riser Diagram",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Sanitary & Wastewater Systems"
+  },
+  {
+    "id": 119,
+    "bid item": "Furnish and Install Sump Pump Systems",
+    "sheet number": "P202",
+    "sheet name": "Plumbing Sanitary Riser 2323 And Storm Riser Diagram",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Pumps, Valves & Equipment"
+  },
+  {
+    "id": 120,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "P202",
+    "sheet name": "Plumbing Sanitary Riser 2323 And Storm Riser Diagram",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 121,
+    "bid item": "Provide Pipe Sleeves and Firestop Penetrations",
+    "sheet number": "A009",
+    "sheet name": "Fire Penetration Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 122,
+    "bid item": "Furnish and Install Electric Water Cooler",
+    "sheet number": "A104",
+    "sheet name": "2315 First Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 123,
+    "bid item": "Provide Plumbing System Design, Calculations, and Coordination",
+    "sheet number": "A113",
+    "sheet name": "2323 Cellar Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "others"
+  },
+  {
+    "id": 124,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 125,
+    "bid item": "Furnish and Install Kitchen Sinks and Faucets",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 126,
+    "bid item": "Furnish and Install Lavatories, Vanities, and Faucets",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 127,
+    "bid item": "Furnish and Install Lavatories, Vanities, and Faucets",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 128,
+    "bid item": "Furnish and Install Water Closets",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 129,
+    "bid item": "Furnish and Install Bathtubs, Showers, and Trim",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 130,
+    "bid item": "Furnish and Install Bathtubs, Showers, and Trim",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  },
+  {
+    "id": 131,
+    "bid item": "Furnish and Install Bathtubs, Showers, and Trim",
+    "sheet number": "A604",
+    "sheet name": "Plumbing And Appliance Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Plumbing Fixtures & Accessories"
+  }
+]

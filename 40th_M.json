@@ -1,0 +1,2099 @@
+[
+  {
+    "id": 1,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D100",
+    "sheet name": "Demolition Plan 2315 Cellar Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 2,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D101",
+    "sheet name": "Demolition Plan 2315 First Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 3,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D103",
+    "sheet name": "Demolition Plan 2315 Third Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 4,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "D105",
+    "sheet name": "Demolition Plan 2319 Cellar Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 5,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D105",
+    "sheet name": "Demolition Plan 2319 Cellar Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 6,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D107",
+    "sheet name": "Demolition Plan 2319 Second Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 7,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D108",
+    "sheet name": "Demolition Plan 2319 Third Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 8,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D113",
+    "sheet name": "Demolition Plan 2323 Third Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 9,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D114",
+    "sheet name": "Demolition Plan 2323 Roof Floor",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 10,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D115",
+    "sheet name": "Demolition Elevations 2315 East And South",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 11,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D116",
+    "sheet name": "Demolition Elevations 2315 West And North",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 12,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D117",
+    "sheet name": "Demolition Elevations 2319 East",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 13,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "D121",
+    "sheet name": "Demolition Elevations 2323 North",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 14,
+    "bid item": "Furnish and Install Electric Wall Heaters",
+    "sheet number": "E000",
+    "sheet name": "Electrical Cover Sheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 15,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 16,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "E103",
+    "sheet name": "Electrical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 17,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 18,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "E105",
+    "sheet name": "Electrical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 19,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 20,
+    "bid item": "Provide and Install Identification and Nameplates for Mechanical Equipment",
+    "sheet number": "E106",
+    "sheet name": "Electrical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 21,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "E107",
+    "sheet name": "Electrical 2315 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 22,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 23,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "E108",
+    "sheet name": "Electrical 2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 24,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 25,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 26,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "E109",
+    "sheet name": "Electrical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 27,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 28,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 29,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 30,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "E111",
+    "sheet name": "Electrical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 31,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "E112",
+    "sheet name": "Electrical 2319 Roof Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 32,
+    "bid item": "Provide and Install Identification and Nameplates for Mechanical Equipment",
+    "sheet number": "E114",
+    "sheet name": "Electrical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 33,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "E115",
+    "sheet name": "Electrical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 34,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 35,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "E116",
+    "sheet name": "Electrical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 36,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 37,
+    "bid item": "Furnish and Install Merv 11 or Higher HVAC Filters, Including Spare Set",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 38,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 39,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 40,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 41,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 42,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 43,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 44,
+    "bid item": "Furnish and Install Duct and Pipe Insulation, Including Wrap and Liner",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 45,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 46,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 47,
+    "bid item": "Provide System Testing, Adjusting, Balancing, Leakage Testing, and Commissioning",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 48,
+    "bid item": "Provide System Testing, Adjusting, Balancing, Leakage Testing, and Commissioning",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 49,
+    "bid item": "Furnish and Install Duct and Pipe Insulation, Including Wrap and Liner",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 50,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 51,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 52,
+    "bid item": "Provide and Install Identification and Nameplates for Mechanical Equipment",
+    "sheet number": "M000",
+    "sheet name": "Mechanical Coversheet",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 53,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 54,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 55,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 56,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 57,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 58,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 59,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 60,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 61,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M103",
+    "sheet name": "Mechanical 2315 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 62,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 63,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 64,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 65,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 66,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 67,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M104",
+    "sheet name": "Mechanical 2315 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 68,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 69,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 70,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 71,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 72,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 73,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 74,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 75,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 76,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M105",
+    "sheet name": "Mechanical 2315 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 77,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 78,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 79,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 80,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 81,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 82,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 83,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M106",
+    "sheet name": "Mechanical 2315 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 84,
+    "bid item": "Furnish and Install Air Cooled Condensing Units (ACCU)",
+    "sheet number": "M107",
+    "sheet name": "Mechanical 2315 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 85,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M107",
+    "sheet name": "Mechanical 2315 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 86,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 87,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 88,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 89,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 90,
+    "bid item": "Furnish and Install Kitchen and Range Hood Exhaust Systems with Makeup Air",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 91,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M108",
+    "sheet name": "Mechanical2319 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 92,
+    "bid item": "Provide coordination with Architect/Owner for the exact location of air devices in the ceiling.",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 93,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 94,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 95,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 96,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 97,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 98,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 99,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 100,
+    "bid item": "Furnish and Install Kitchen and Range Hood Exhaust Systems with Makeup Air",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 101,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 102,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M109",
+    "sheet name": "Mechanical 2319 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 103,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 104,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 105,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 106,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 107,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M110",
+    "sheet name": "Mechanical 2319 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 108,
+    "bid item": "Provide System Testing, Adjusting, Balancing, Leakage Testing, and Commissioning",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 109,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 110,
+    "bid item": "Furnish and Install Air Cooled Condensing Units (ACCU)",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 111,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 112,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 113,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 114,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 115,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 116,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 117,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 118,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 119,
+    "bid item": "Furnish and Install Kitchen and Range Hood Exhaust Systems with Makeup Air",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 120,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 121,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 122,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 123,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M111",
+    "sheet name": "Mechanical 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 124,
+    "bid item": "Furnish and Install Air Cooled Condensing Units (ACCU)",
+    "sheet number": "M112",
+    "sheet name": "Mechanical 2319 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 125,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M112",
+    "sheet name": "Mechanical 2319 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 126,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M112",
+    "sheet name": "Mechanical 2319 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 127,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 128,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 129,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 130,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 131,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 132,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M113",
+    "sheet name": "Mechanical 2323 Cellar Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 133,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 134,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 135,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 136,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 137,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 138,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 139,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 140,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 141,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 142,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 143,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M114",
+    "sheet name": "Mechanical 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 144,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 145,
+    "bid item": "Furnish and Install Air Handling Units (AHU)",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 146,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 147,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 148,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 149,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 150,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 151,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 152,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 153,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 154,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 155,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 156,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 157,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M115",
+    "sheet name": "Mechanical 2323 Second Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 158,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 159,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 160,
+    "bid item": "Furnish and Install HVAC Controls, Thermostats, and Safety Devices",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 161,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 162,
+    "bid item": "Furnish and Install Ductwork Accessories, Including Vanes, Hardware, and Flexible Connectors",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 163,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 164,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 165,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 166,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 167,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 168,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M116",
+    "sheet name": "Mechanical 2323 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 169,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M117",
+    "sheet name": "Mechanical 2323 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 170,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "M117",
+    "sheet name": "Mechanical 2323 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 171,
+    "bid item": "Furnish and Install Air Cooled Condensing Units (ACCU)",
+    "sheet number": "M117",
+    "sheet name": "Mechanical 2323 Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 172,
+    "bid item": "Furnish and Install Motorized, Backdraft, Fire, and Radiation Dampers",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 173,
+    "bid item": "Furnish and Install Rigid Steel Ductwork, Including Specialty Kitchen Exhaust Duct and Routing",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Main Building HVAC Distribution"
+  },
+  {
+    "id": 174,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 175,
+    "bid item": "Furnish and Install Duct and Pipe Insulation, Including Wrap and Liner",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 176,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 177,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 178,
+    "bid item": "Furnish and Install Air Cooled Condensing Units (ACCU)",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 179,
+    "bid item": "Furnish and Install Flexible Duct and Dryer Exhaust Duct Systems",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 180,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "M200",
+    "sheet name": "Mechanical Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 181,
+    "bid item": "Provide Temporary Ventilation and HVAC System Protection During Construction",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 182,
+    "bid item": "Provide System Testing, Adjusting, Balancing, Leakage Testing, and Commissioning",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 183,
+    "bid item": "Provide System Testing, Adjusting, Balancing, Leakage Testing, and Commissioning",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Controls & Instrumentation"
+  },
+  {
+    "id": 184,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 185,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 186,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 187,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 188,
+    "bid item": "Furnish and Install Heat Pump and Split System Units",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 189,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 190,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 191,
+    "bid item": "Furnish and Install Electric Wall Heaters",
+    "sheet number": "M201",
+    "sheet name": "Mechanical Green Code Compliance",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 192,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M202",
+    "sheet name": "Condenstae Risers 2315, 2319 & 2323",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 193,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M202",
+    "sheet name": "Condenstae Risers 2315, 2319 & 2323",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 194,
+    "bid item": "Furnish and Install Refrigerant and Condensate Piping Systems",
+    "sheet number": "M202",
+    "sheet name": "Condenstae Risers 2315, 2319 & 2323",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 195,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "M202",
+    "sheet name": "Condenstae Risers 2315, 2319 & 2323",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 196,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "P101",
+    "sheet name": "Plumbing Overall Second And Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 197,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "P111",
+    "sheet name": "Plumbing 2319 Third Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 198,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "P114",
+    "sheet name": "Plumbing 2323 First Floor Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 199,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "A002",
+    "sheet name": "Site Plan, Zoning And Far Information",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 200,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A002",
+    "sheet name": "Site Plan, Zoning And Far Information",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 201,
+    "bid item": "Provide Combustion Air Inlets and Flue Stack for Combustion Closet",
+    "sheet number": "A008",
+    "sheet name": "Air Sealing",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Fire Protection & Safety Systems"
+  },
+  {
+    "id": 202,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "A009",
+    "sheet name": "Fire Penetration Details",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 203,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "A010",
+    "sheet name": "Specifications",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 204,
+    "bid item": "Provide Alteration of Adjoining Chimneys or Vents",
+    "sheet number": "A021",
+    "sheet name": "Safeguards During Construction",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 205,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A102",
+    "sheet name": "Overall Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 206,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "A102",
+    "sheet name": "Overall Roof Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 207,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A104",
+    "sheet name": "2315 First Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 208,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A105",
+    "sheet name": "2315 Second Floor New Work Plan 2315",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 209,
+    "bid item": "Furnish and Install Radiators",
+    "sheet number": "A105",
+    "sheet name": "2315 Second Floor New Work Plan 2315",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 210,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A107",
+    "sheet name": "2315 Roof New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 211,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A111",
+    "sheet name": "2319 Third Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 212,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A112",
+    "sheet name": "2319 Roof New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 213,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "A115",
+    "sheet name": "2323 Second Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 214,
+    "bid item": "Furnish and Install Radiators",
+    "sheet number": "A116",
+    "sheet name": "2323 Third Floor New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 215,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "A117",
+    "sheet name": "2323 Roof New Work Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 216,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "A121",
+    "sheet name": "2315 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 217,
+    "bid item": "Furnish and Install General Mechanical Equipment as Indicated by Tags and Labels",
+    "sheet number": "A123",
+    "sheet name": "2315 Third Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 218,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A125",
+    "sheet name": "2319 First Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 219,
+    "bid item": "Provide Mechanical System Rough-In, Penetrations, and Associated Cutting and Patching",
+    "sheet number": "A126",
+    "sheet name": "2319 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 220,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A130",
+    "sheet name": "2323 Second Floor Reflected Ceiling Plan",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 221,
+    "bid item": "Furnish and Install In-Kind Replacement Exhaust Vent Cap, Including Removal, Vent Cleaning, and Capping",
+    "sheet number": "A201",
+    "sheet name": "2315 Elevations East And South",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 222,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A201",
+    "sheet name": "2315 Elevations East And South",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 223,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A202",
+    "sheet name": "2315 Elevations West",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 224,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A203",
+    "sheet name": "2315 Elevations North",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 225,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A204",
+    "sheet name": "2319 Elevation East",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 226,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A205",
+    "sheet name": "2319 Elevation West",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 227,
+    "bid item": "Furnish and Install Exhaust Fans",
+    "sheet number": "A206",
+    "sheet name": "2319 Elevations North And South",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 228,
+    "bid item": "Provide General Mechanical System Coordination, Layout, and Adherence to Code and Schedules",
+    "sheet number": "A207",
+    "sheet name": "2323 Elevations East And West",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Others"
+  },
+  {
+    "id": 229,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "A300",
+    "sheet name": "Overall Building Sections",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 230,
+    "bid item": "Furnish and Install Equipment Supports, Hangers, Vibration Isolation, and Roof Pads",
+    "sheet number": "A301",
+    "sheet name": "Building Sections",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Mechanical Equipment Installation"
+  },
+  {
+    "id": 231,
+    "bid item": "Furnish and Install Duct and Pipe Insulation, Including Wrap and Liner",
+    "sheet number": "A600",
+    "sheet name": "Assembly Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 232,
+    "bid item": "Furnish and Install Duct and Pipe Insulation, Including Wrap and Liner",
+    "sheet number": "A600",
+    "sheet name": "Assembly Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  },
+  {
+    "id": 233,
+    "bid item": "Furnish and Install Air Devices, Grilles, Registers, and Terminations",
+    "sheet number": "A600",
+    "sheet name": "Assembly Schedule",
+    "spec code": "",
+    "spec name": "",
+    "grouping text": "Branch Ducts, Piping & Connections"
+  }
+]

@@ -79,8 +79,8 @@ def create_grps_excel():
     
     for discipline in disciplines:
         # Load data
-        scope_items_file = f'grps_{discipline}_scope_items.json'
-        contract_items_file = f'grps_{discipline}_contract_items.json'
+        scope_items_file = f'Data/grps_{discipline}_scope_items.json'
+        contract_items_file = f'Data/grps_{discipline}_contract_items.json'
         
         scope_items = load_json_file(scope_items_file)
         contract_items_raw = load_json_file(contract_items_file)
@@ -149,8 +149,8 @@ def create_grps_excel():
         # Freeze header row
         ws.freeze_panes = 'A2'
     
-    # Save workbook
-    output_file = 'GRPS_Scope_Items_Mapping.xlsx'
+    # Save workbook to Data folder
+    output_file = 'Data/GRPS_Scope_Items_Mapping.xlsx'
     try:
         wb.save(output_file)
         print(f"Excel file '{output_file}' created successfully!")
@@ -159,7 +159,7 @@ def create_grps_excel():
         # Try with a timestamp if file is open
         import datetime
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_file = f'GRPS_Scope_Items_Mapping_{timestamp}.xlsx'
+        output_file = f'Data/GRPS_Scope_Items_Mapping_{timestamp}.xlsx'
         wb.save(output_file)
         print(f"Excel file '{output_file}' created successfully! (Original file was open)")
         print(f"Sheets created: {', '.join(wb.sheetnames)}")

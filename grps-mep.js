@@ -55,7 +55,7 @@ async function loadGrpsData() {
     for (const discipline of disciplines) {
         try {
             const [bidItems, contractItemsRaw, scopeItems] = await Promise.all([
-                fetch(`grps_${discipline}_bid_items.json`).then(async r => {
+                fetch(`Data/grps_${discipline}_bid_items.json`).then(async r => {
                     const text = await r.text();
                     // Remove markdown code block if present
                     let cleaned = text.trim();
@@ -64,7 +64,7 @@ async function loadGrpsData() {
                     if (cleaned.endsWith('```')) cleaned = cleaned.slice(0, -3);
                     return JSON.parse(cleaned.trim());
                 }),
-                fetch(`grps_${discipline}_contract_items.json`).then(async r => {
+                fetch(`Data/grps_${discipline}_contract_items.json`).then(async r => {
                     const text = await r.text();
                     // Remove markdown code block if present
                     let cleaned = text.trim();
@@ -73,7 +73,7 @@ async function loadGrpsData() {
                     if (cleaned.endsWith('```')) cleaned = cleaned.slice(0, -3);
                     return JSON.parse(cleaned.trim());
                 }),
-                fetch(`grps_${discipline}_scope_items.json`).then(r => r.json())
+                fetch(`Data/grps_${discipline}_scope_items.json`).then(r => r.json())
             ]);
             
             // Build contract items map based on discipline structure

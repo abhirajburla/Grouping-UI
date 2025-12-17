@@ -358,7 +358,7 @@ function showScopesView() {
     // Update breadcrumb
     const breadcrumbProject = document.getElementById('breadcrumbProject');
     if (breadcrumbProject) {
-        breadcrumbProject.textContent = 'Hotel 3';
+        breadcrumbProject.textContent = '40TH PL';
     }
 }
 
@@ -376,7 +376,7 @@ function showPackageMappingView() {
     // Update breadcrumb
     const breadcrumbProject = document.getElementById('breadcrumbProject');
     if (breadcrumbProject) {
-        breadcrumbProject.textContent = 'Hotel 3';
+        breadcrumbProject.textContent = '40TH PL';
     }
     
     renderPackageMapping('electrical');
